@@ -1,0 +1,15 @@
+{
+	"ID": 	 	 	005,
+    "NOMBRE":    	"Bicicleteros en La via Pública",
+    "INDEXADO": 	false,
+    "HOST_LOCAL":	"bicicleteros",
+    "HOST_WAN":  	"https://recursos-data.buenosaires.gob.ar/ckan2/bicicleteros-via-publica/bicicleteros-via-publica.csv",
+    "DATA_FORMAT":  "csv",
+    "DATA_GTYPE": 	0,
+    "DESCRIPCION":	"Listado de Bicicleteros en La via Pública en la ciudad de Buenos Aires",
+    "FIELDS":{
+    	"ID"      : "id",
+    	"NAME"    : "nombre",
+    	"GEODATA" : ["lat","lon"] 
+    }
+}

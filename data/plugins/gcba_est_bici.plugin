@@ -1,0 +1,15 @@
+{
+	"ID": 	 	 	004,
+    "NOMBRE":    	"Estacionamientos Bicicletas",
+    "INDEXADO": 	false,
+    "HOST_LOCAL":	"EstBici",
+    "HOST_WAN":  	"https://recursos-data.buenosaires.gob.ar/ckan2/estacionamiento-bicicletas/estacionamiento-bicicletas.csv",
+    "DATA_FORMAT":  "csv",
+    "DATA_GTYPE": 	0,
+    "DESCRIPCION":	"Listado de estacionamientos que aceptan bicicletas.",
+    "FIELDS":{
+    	"ID"      : "id",
+    	"NAME"    : "nombre",
+    	"GEODATA" : ["lat","lon"] 
+    }
+}

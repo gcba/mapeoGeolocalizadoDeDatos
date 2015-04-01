@@ -1,0 +1,15 @@
+{
+	"ID": 	 	 	001,
+    "NOMBRE":    	"Areas Hospitalareas",
+    "INDEXADO": 	false,
+    "HOST_LOCAL":	"HospAreas",
+    "HOST_WAN":  	"https://recursos-data.buenosaires.gob.ar/ckan2/areas-hospitalarias/areas-hospitalarias.csv",
+    "DATA_FORMAT":  "csv",
+    "DATA_GTYPE": 	2,
+    "DESCRIPCION":	"Alcance geográfico de las áreas programáticas de salud, las cuales recaen sobre los Hospitales Generales de Agudos del Ministerio de Salud.",
+    "FIELDS":{
+    	"ID"      : "ID",
+    	"NAME"    : "NOMBRE",
+    	"GEODATA" : ["GEOJSON"] 
+    }
+}
