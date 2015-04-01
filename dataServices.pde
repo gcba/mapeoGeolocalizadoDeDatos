@@ -1,21 +1,28 @@
 /**
  **
  **/
-
-class dataServices {
-  boolean enabled = true; //Activar o desactivar este servicio.
+class dataServices { 
+  boolean enabled; //Activar o desactivar este servicio.
+  String longName; 
+  String wanHost; 
+  String serv_desc;
   String wsName; // Nombre del recurso
   String host; // Host donde se aloja el recuerso
   String lsUpdate; //Ultima vez que se actualizo el recurso
-  int eCount = 0; // Cantidad de elementos q posee este recurso
+  int eCount; // Cantidad de elementos q posee este recurso
   private PrintWriter geoJSon; //Archivo de salida GEOJSON extraido del CSV de http://data.buenosaires.gob.ar/
   Table wsTable; //Archivo de entrada de datos formato CSV adquirido de http://data.buenosaires.gob.ar/
   int dataTypeView;
 
-  dataServices (String _name, String _host, JSONObject fields, int _type) {
-    host = _host;
-    wsName = _name;
+  dataServices (String _name, String _host, JSONObject fields, int _type , String _nombre, String _host_wan, String _serv_desc) {
+    enabled      =   true;
+    host         =  _host;
+    longName     =  _nombre;
+    wanHost      =  _host_wan;
+    serv_desc    =  _serv_desc;
+    wsName       =  _name;
     dataTypeView = _type;
+    eCount       =  0;
     updateData(fields);
   }
 

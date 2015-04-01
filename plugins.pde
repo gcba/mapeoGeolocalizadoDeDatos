@@ -20,17 +20,19 @@ class plugins {
 
   private ArrayList<dataServices> loadPlugins() {
     ArrayList<dataServices> loadedPlugins = new ArrayList<dataServices>();
-    for (int i=1; i<pList.length; i++) {
+    for (int i=0; i<pList.length; i++) {
 
       if ((pList[i] != ".DS_Store")) {
         println("Loading: "+path+"/"+pList[i]);
         JSONObject plugIn = loadJSONObject(path+"/"+pList[i]);
         int id = plugIn.getInt("ID");
         String nombre = plugIn.getString("NOMBRE");
+        String host_wan = plugIn.getString("HOST_WAN");
+        String serv_desc = plugIn.getString("DESCRIPCION");
         int dataType = plugIn.getInt("DATA_GTYPE");
         String host = plugIn.getString("HOST_LOCAL")+"."+plugIn.getString("DATA_FORMAT");
         JSONObject campos=plugIn.getJSONObject("FIELDS");
-        loadedPlugins.add(new dataServices(plugIn.getString("HOST_LOCAL"), host, campos, dataType));
+        loadedPlugins.add(new dataServices(plugIn.getString("HOST_LOCAL"), host, campos, dataType, nombre, host_wan,serv_desc));
       }
     }
 

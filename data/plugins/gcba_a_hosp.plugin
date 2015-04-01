@@ -6,7 +6,7 @@
     "HOST_WAN":  	"https://recursos-data.buenosaires.gob.ar/ckan2/areas-hospitalarias/areas-hospitalarias.csv",
     "DATA_FORMAT":  "csv",
     "DATA_GTYPE": 	2,
-    "DESCRIPCION":	"Alcance geográfico de las áreas programáticas de salud, las cuales recaen sobre los Hospitales Generales de Agudos del Ministerio de Salud.",
+    "DESCRIPCION":	"Alcance geográfico de las áreas programáticas de salud, las cuales recaen sobre los \n Hospitales  Generales de Agudos del Ministerio de Salud.",
     "FIELDS":{
     	"ID"      : "ID",
     	"NAME"    : "NOMBRE",

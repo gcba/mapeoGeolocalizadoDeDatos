@@ -1,7 +1,7 @@
 /*
 **   CONFIGURACIONES GENERALES DE LA APLICACION
-**
-*/
+ **
+ */
 
 final float  MAP_ROTATION =  radians(1.0); // Rotacion de ajuste para el mapa
 
@@ -11,5 +11,5 @@ final int MULTIPOLIGON_DATA = 2;
 
 final int HOSP_AREAS   = 0;
 final int OP_DEF_CIVIL = 1;
-
+final String[] geoTypesDesc = {"Puntos Georefenciados", "Multipoligons o Areas", "Cadenas de Líneas"};
 
