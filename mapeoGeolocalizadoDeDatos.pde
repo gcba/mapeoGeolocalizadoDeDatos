@@ -1,9 +1,10 @@
 /*
 **
-** UNUSED "data/MBTARapidTransitLines.json" old DataStream
-** 
-**/
+ ** UNUSED "data/MBTARapidTransitLines.json" old DataStream
+ ** 
+ **/
 //
+import codeanticode.syphon.*;
 import processing.core.PApplet;
 import de.fhpotsdam.unfolding.UnfoldingMap;
 import de.fhpotsdam.unfolding.events.EventDispatcher;
@@ -22,39 +23,38 @@ import java.io.FilenameFilter;
 
 ArrayList<dataServices> myServices = new ArrayList<dataServices>();
 HUDView myHUD;
+SyphonServer server;
 
-DebugDisplay debugDisplay1;
 UnfoldingMap myBA_map;
-
+plugins myPlugIns;
 void setup() {
   size(960, 540, OPENGL);
-  smooth();
+  server = new SyphonServer(this, "mapedData");
   myHUD = new HUDView();
   mapInit();
-  myServices.add(new dataServices("areas_hosp", "HospAreas.csv",MULTIPOLIGON_DATA));
+  //myServices.add(new dataServices("areas_hosp", "HospAreas.csv",MULTIPOLIGON_DATA));
   //myServices.add(new dataServices("OpDefCivil", "OpDefCivil.csv"));
-  dataServices data = myServices.get(0);
-  createDataLayer(MULTIPOLIGON_DATA, data.getJSONfile());
-  EventDispatcher eventDispatcher = MapUtils.createDefaultEventDispatcher(this,myBA_map);
+  myPlugIns = new plugins(); 
+  myServices = myPlugIns.getServicesList();
+  println("Cantidad de servicios: "+myServices.size());
+  for (int i = 0; myServices.size () > i; i++) {
+    dataServices data = myServices.get(i);
+    createDataLayer(data.dataTypeView, data.getJSONfile());
+  }
+  EventDispatcher eventDispatcher = MapUtils.createDefaultEventDispatcher(this, myBA_map);
 }
 
 
 void createDataLayer(int _mode, String _sfile) {
-  switch(_mode) {
-  case 2:
-    {  
-      List<Feature> myArea  = GeoJSONReader.loadData(this, _sfile);
-      List<Marker> myAreaMarker = MapUtils.createSimpleMarkers(myArea);
-      myBA_map.addMarkers(myAreaMarker);
-      break;
-    }
-  }
+  List<Feature> myArea  = GeoJSONReader.loadData(this, _sfile);
+  List<Marker> myAreaMarker = MapUtils.createSimpleMarkers(myArea);
+  myBA_map.addMarkers(myAreaMarker);
 }
 
 
 //FUNCION DE INICIALIZACION DEL MAPA QUE SE A UTILIZAR
 void mapInit() {
-  myBA_map = new UnfoldingMap(this, new StamenMapProvider.TonerBackground());
+  myBA_map = new UnfoldingMap(this, new OpenStreetMap.OpenStreetMapProvider());
   myBA_map.zoomToLevel(13);
   myBA_map.panTo(myBA_loc);
   myBA_map.setZoomRange(9, 17);
@@ -83,6 +83,6 @@ void keyPressed() {
 
 void draw() {
   myBA_map.draw();
- 
+  server.sendScreen();
 }
 

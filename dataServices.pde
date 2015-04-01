@@ -90,7 +90,7 @@ class dataServices {
       int id = row.getInt(_id);
       String nombre = row.getString(_name);
       String geojson  = row.getString(_geojson);
-      if(loadedData >0){print(",")}
+      if(loadedData >0){print(",");}
       geoJSon.println("{\"type\":\"Feature\",\"properties\":{\"name\":\""+nombre+"\"},\"geometry\":"+geojson+",\"id\":\""+_id+"\"},");
       //DEBUG-LINE        
       loadedData++;
