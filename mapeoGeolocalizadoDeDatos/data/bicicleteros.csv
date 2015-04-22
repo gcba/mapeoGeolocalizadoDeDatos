@@ -1,0 +1,405 @@
+id,nombre,lugar_asoc,direccion,lat,lon
+1,Edificio Público,,Maipu 116,-58.3767,-34.6068
+2,Edificio Público,,Reconquista 865,-58.3727,-34.5977
+3,Edificio Público,,Reconquista 723,-58.3725,-34.5994
+4,Edificio Público,,Reconquista 135,-58.3721,-34.6062
+5,Hospital Muñiz,,Uspallata 2272,-58.3938,-34.6375
+6,Museo Fernandez Blanco,,Suipacha 1422,-58.3802,-34.5911
+7,Museo Evita,,Lafinur 2988,-58.4148,-34.5807
+8,Centro MetropolItano de diseño,,Villarino 2498,-58.3806,-34.6547
+9,Museo Nacional Ferroviario,,Libertador 405,-58.379,-34.59
+10,Planetario,,Av. Sarmiento Y Belisario Roldán,-58.4118,-34.5701
+11,Museo José Hernández,,Av. Del Libertador 2373,-58.4052,-34.5799
+12,Museo de Artes Plásticas Eduardo Sivori,,Av. Infanta Isabel 555,-58.4179,-34.5692
+13,ASI,,Bernardo de Irigoyen 272,-58.3804,-34.6115
+14,Dirección General de Licencias,,Av. Cnel. Roca 5252,-58.4552,-34.6848
+15,Jardín Botánico,,Av. Santa Fe 3951,-58.4191,-34.5828
+16,Centro Cultural Recoleta,,Junin 1930,-58.3918,-34.5866
+17,Malba,,Av. Fiugueroa Alcorta 3415,-58.4036,-34.5773
+18,Ideas del Sur,,Ravignani 1664,-58.4399,-34.582
+19,Usina de las Artes,,Pedro de Mendoza y Caffarena,-58.356,-34.6287
+20,Jefatura de Gobierno,,Rivadavia 524,-58.3739,-34.6081
+21,Cultura,,Av. De Mayo 575,-58.3746,-34.6084
+22,Complot,,Aguirre 730,-58.4377,-34.5957
+23,Vivienda,,Aguirre 980,-58.4397,-34.5936
+24,Vivienda,,Aguirre 883,-58.4386,-34.5942
+25,Christian Lacroix,,Gurruchaga  787,-58.4382,-34.5952
+26,Buenos Aires Mall,,Gurruchaga 842,-58.4378,-34.5946
+27,Ayres,,Loyola 692,-58.4371,-34.5945
+28,Bicicletería Junior´s,,Velazco 465,-58.4362,-34.5986
+29,Crespín,,Vera 699,-58.4392,-34.5972
+30,Monasterio de Santa Catalina de Siena,,San Martín 705,-58.3739,-34.5997
+31,Distrito Audiovisual,,Dorrego 1898,-58.4417,-34.58
+32,Esc. Normal Superior N° 10 Juan Bautista Alberdi (anexo),,3 de Febrero 2463,-58.4549,-34.5558
+33,Esc. de Comercio N° 32 José Leon Suarez (anexo),,Acassuso 6138,-58.5111,-34.6463
+34,Esc. Técnica N° 34 Ing. Enrique Martin Hermitte,,Aguirre 1473,-58.4438,-34.5891
+35,Escuela media N°3,,Agustin de Vedia 2519,-58.4329,-34.6482
+36,Esc. de Comercio N° 31 Naciones Unidas,,Angel Justiniano Carranza 2045,-58.435,-34.5798
+37,Esc. de Educacion Media N° 01/16° Rodolfo Walsh,,Argerich 5651,-58.5101,-34.5795
+38,Esc. de Comercio N° 33 Maipú,,Avda. Alvarez Jonte 5075,-58.5088,-34.6216
+39,Esc. Técnica N° 29 Reconquista de Buenos Aires,,Avda. Boedo 760,-58.4162,-34.6218
+40,Esc. Técnica N° 03 Maria Sanchez de Thompson (sede),,Avda. Cabildo 40,-58.4363,-34.5748
+41,Liceo N° 05 Pascual Guaglianone,,Avda. Carabobo 286,-58.4548,-34.6302
+42,Esc. Normal Superior N° 01 en Lenguas Vivas Presidente R. Saenz Peña,,Avda. Córdoba 1951,-58.3951,-34.5995
+43,Esc. de Educación Media N° 03/10°,,Avda. Crisologo Larralde 1050,-58.4558,-34.5429
+44,Esc. de Comercio N° 24 Dr. Dalmacio Velez Sarsfield,,Avda. del Campo 1340,-58.4677,-34.5902
+45,Esc. Técnica N° 12 Libertador Gral. Jose de San Martin,,Avda. del Libertador 238,-58.3772,-34.5917
+46,Esc. Técnicas Raggio,,Avda. del Libertador 8635/51,-58.4663,-34.5363
+47,Inst. Superior del Prof. de Educ. Inicial Sara Chamberlain de Eccleston (sede),,Avda. Dorrego 3751,-58.4191,-34.5648
+48,Esc. de Educación Media N° 01/03°,,Avda. Entre Ríos 757,-58.3919,-34.6176
+49,Esc. de Comercio N° 06 América,,Avda. Escalada 2890,-58.4714,-34.6632
+50,Esc. Superior de Comercio N° 03 Hipolito Vieytes,,Avda. Gaona 1502,-58.4499,-34.6096
+51,Esc. Técnica de Jardineria Cristobal M. Hicken,,Avda. Gral. Las Heras 4078,-58.4165,-34.5818
+52,Esc. Técnica N° 33 Fundicion Maestranza del Plumerillo,,Avda. Intendente Francisco Rabanal 1549,-58.4209,-34.6559
+53,Liceo N° 12 Fray Mamerto Esquiu,,Avda. José María Moreno 345,-58.4351,-34.6221
+54,Esc. de Bellas Artes Rogelio Yrurtia,,Avda. Juan Bautista Alberdi 4754,-58.4929,-34.6439
+55,Esc. de Comercio N° 35 Leopoldo Marechal,,Avda. Larrazábal 5140,-58.4587,-34.6853
+56,Esc. de Educacion Media N° 06/21°,,Avda. Larrazábal 5140,-58.4587,-34.6853
+57,Esc. de Comercio N° 07 Manuel Belgrano,,Avda. Monroe 3061,-58.4662,-34.5618
+58,Colegio N° 03 Mariano Moreno,,Avda. Rivadavia 3577,-58.417,-34.6108
+59,Esc. Normal Superior N° 04 Estanislao Severo Zeballos,,Avda. Rivadavia 4950,-58.4353,-34.6179
+60,Liceo N° 02 Amancio Alcorta,,Avda. Rivadavia 4950,-58.4353,-34.6179
+61,Liceo N° 04 Remedios de Escalada de San Martin,,Ayacucho 875,-58.3957,-34.599
+62,Esc. de Educacion Media N° 01/12° Julio Cortazar,,Bogotá 2759,-58.4693,-34.6267
+63,Esc. de Cerámica N° 01,,Bulnes 45,-58.4184,-34.6104
+64,Esc. de Educacion Media N° 02/20°,,Cañada de Gómez 3850,-58.4864,-34.676
+65,Esc. Normal Superior N° 08 Pte. Julio Argentino Roca (anexo),,Carlos Calvo 3150,-58.4098,-34.6227
+66,Colegio N° 08 Julio Argentino Roca,,Carlos E. Zuberbühler 1850,-58.4594,-34.5695
+67,Colegio N° 07 Juan Martín de Pueyrredon,,Chacabuco 922,-58.3756,-34.6188
+68,Esc. Técnica N° 13 Ing. Jose Luis Delpini,,Cnel. Martiniano Chilavert 5460,-58.4675,-34.6793
+69,Esc. de Comercio N° 09 José Ingenieros,,Cnel. Ramón L. Falcón 2248,-58.4599,-34.6295
+70,Esc. Técnica Nº 11 Manuel Belgrano,,Cochabamba 2830,-58.4046,-34.6258
+71,Esc. Técnica N° 16 España,,Concordia 3555,-58.5024,-34.5994
+72,Colegio N° 09 Justo José de Urquiza,,Condarco 290,-58.4681,-34.6278
+73,Liceo N° 09 Santiago Derqui,,Conesa 1855,-58.4602,-34.5676
+74,Esc. de Educacion Media N° 05/10° Héroes de Malvinas,,Crámer 2136,-58.4618,-34.5645
+75,Esc. Técnica N° 28 Republica Francesa,,Cuba 2410,-58.4574,-34.5581
+76,Esc. Normal Superior N° 11 Dr. Ricardo Levene,,Deán Funes 1821,-58.4049,-34.632
+77,Colegio N° 13 Cnel. Tomás Espora,,Gallardo 149,-58.5237,-34.6375
+78,Inst. de Educ. Superior Mariano Acosta,,Gral. Urquiza 277,-58.4101,-34.6137
+79,Esc. Normal Superior N° 06 Vicente Lopez y Planes,,Güemes 3859,-58.416,-34.5869
+80,Ciclo Básico de Formación Ocupacional N° 02 Salvador Maza,,José Pedro Varela 5966,-58.5292,-34.6211
+81,Esc. Nº 25 DE 6,,Jujuy 780,-58.4034,-34.6185
+82,Esc. de Comercio N° 26 Enrique de Vedia,,Juncal 3251,-58.4104,-34.5852
+83,Esc. Normal Superior en Lenguas Vivas Sofia Esther Broquen de Spangenberg,,Juncal 3251,-58.4104,-34.5852
+84,Ciclo Básico de Formación Ocupacional N° 03 Olga Cossettini,,Juramento 2945,-58.4619,-34.5649
+85,Esc. Normal Superior N° 08 Presidente Julio Argentino Roca (sede),,La Rioja 1042,-58.4071,-34.6225
+86,Esc. Técnica N° 17 Brig. Gral. Cornelio Saavedra,,Lacarra 535,-58.4818,-34.6401
+87,Colegio N° 02 Domingo Faustino Sarmiento,,Libertad 1257,-58.3843,-34.5935
+88,Esc. de Educación Media N° 01/02°,,Mario Bravo 234,-58.4176,-34.608
+89,Esc. de Educacion Media N° 02/19° Arturo Jauretche,,Martínez Castro 3067,-58.4488,-34.6624
+90,Esc. de Educacion Media N° 05/19°,,Martinez Castro 3077,-58.4487,-34.6625
+91,Liceo N° 08 Esteban Echeverria,,Murguiondo 1568,-58.505,-34.6532
+92,Colegio N° 19 Luis Pasteur,,Navarro 4344,-58.5128,-34.6055
+93,Esc. de Comercio N° 20 Dr. Juan Agustín García,,Nicasio Oroño 2131,-58.4607,-34.602
+94,Esc. Normal Superior N° 10 Juan Bautista Alberdi (sede),,O'Higgins 2441,-58.4556,-34.5565
+95,Esc. de Comercio N° 10 Islas Malvinas,,Paraguay 1950,-58.3952,-34.5989
+96,Esc. Técnica N° 37 Hogar Naval Stella Maris,,Pergamino 211,-58.4735,-34.6351
+97,Esc. Técnica N° 08 Paula Albarracin de Sarmiento,,Pío Collivadino 436,-58.4836,-34.6399
+98,Esc. Técnica N° 06 Fernando Fader,,Pje. La Porteña 54,-58.4679,-34.6295
+99,Colegio N° 10 José de San Martín,,Quito 4047,-58.4235,-34.6167
+100,Esc. Técnica N° 24 Defensa de Buenos Aires,,Ricardo Gutiérrez 3246,-58.4959,-34.6019
+101,Esc. de Comercio N° 02 Dr. Antonio Bermejo,,Riobamba 623,-58.3939,-34.6018
+102,Esc. de Comercio N° 30 Dr. Esteban Agustín Gascon,,San Blas 5387,-58.5091,-34.6306
+103,Esc. de Bellas Artes Lola Mora,,Soldado de la Frontera 5155,-58.4645,-34.6852
+104,Esc. de Educacion Media N° 05/15°,,Tronador 4134,-58.4869,-34.5528
+105,Esc. de Comercio N° 15 Dra. Cecilia Grierson,,Valdenegro 3523,-58.4901,-34.5618
+106,Esc. Técnica N° 10 Fray Luis Beltran,,Vieytes 942,-58.3792,-34.6434
+107,Esc. de Bellas Artes Manuel Belgrano,,Wenceslao Villafañe 1342,-58.3715,-34.6349
+108,Universidad del Salvador - Facultad de Ciencias Sociales,,Hipólito Yrigoyen 2441,-58.4009,-34.6108
+109,Alianza Francesa,,Av. Córdoba 936,-58.3803,-34.5991
+110,CGPC 1,,Uruguay 740,-58.3869,-34.6001
+111,CGPC 4,,Del Barco Centenera 2906,-58.4248,-34.6503
+112,CGPC 6,,Av. Patricias Argentinas 277,-58.4328,-34.6056
+113,Sub Sede CGPC 6,,Emilio Mitre 956,-58.4411,-34.6321
+114,CGPC 14,,Beruti 3325,-58.4093,-34.5872
+115,Oums,,Aguirre 686,-58.4373,-34.5962
+116,Almacén Purista,,Velazco 701,-58.4382,-34.5965
+117,Bicicletas Aráoz,,Aráoz 1458,-58.4257,-34.5923
+118,Oums,,Armenia 1595,-58.4282,-34.5902
+119,Nucha,,Armenia 1540,-58.4289,-34.5903
+120,Gaby Di Grazia Deco,,Armenia 1914,-58.4252,-34.5879
+121,Orense,,Av. Córdoba 5801,-58.4424,-34.5859
+122,Niceto Club,,Av. Niceto Vega 5510,-58.4387,-34.5873
+123,Only Bikes,,Av. Scalabrini Ortiz 1602,-58.425,-34.5907
+124,Cusic,,El Salvador 6016,-58.4397,-34.58
+125,Moremore,,El Salvador 5721,-58.4365,-34.5822
+126,Muchachobar,,El Salvador 5100,-58.4311,-34.5869
+127,Urban Station,,El Salvador 4588,-58.426,-34.5904
+128,Soho Bikes,,Godoy Cruz 1518,-58.436,-34.5886
+129,Mattone,,Gorriti 5950,-58.441,-34.5823
+130,OLSEN,,Gorriti 5870,-58.4401,-34.5829
+131,La Molina,,Gorriti 5806,-58.4395,-34.5834
+132,Dashi,,Gorriti 5591,-58.4369,-34.5849
+133,Don Jacinto Parrillita,,Gorriti 5299,-58.4338,-34.5875
+134,Soria,,Gorriti 5151,-58.4326,-34.5884
+135,Monochrome,,Gorriti 5656,-58.4379,-34.5846
+136,Fifí Almacén,,Gorriti 4812,-58.4295,-34.5907
+137,Muvin,,Gurruchaga 5051,-58.4317,-34.589
+138,Bicicletería BiciUP,,Gurruchaga 1519,-58.43,-34.5899
+139,Movistar,,Honduras 5473,-58.4347,-34.5852
+140,Aeropuertos Argentina 2000,,Honduras 5663,-58.4368,-34.5835
+141,Social Paraíso,,Honduras 5182,-58.432,-34.5877
+142,Bistrot,,Honduras 5090,-58.4312,-34.5883
+143,Sheldon,,Nicaragua 4969,-58.4284,-34.5854
+144,Pani,,Nicaragua 6048,-58.4383,-34.5782
+145,Oui Oui,,Nicaragua 6099,-58.4386,-34.5775
+146,Tazz,,Plaza Julio Cortázar,-58.4302,-34.5888
+147,Endemol,,Ravignani 1493,-58.4413,-34.5836
+148,Endemol,,Cabrera 3507,-58.4157,-34.5966
+149,Techint,,Av. Córdoba 302,-58.3715,-34.5986
+150,Plaza Lavalle,,Av. Córdoba 1200,-58.3839,-34.5993
+151,Restaurant,,Av. Córdoba 1616,-58.3899,-34.5996
+152,Restaurant,,Av. Córdoba 1662,-58.3908,-34.5997
+153,Ayres,,Av. Córdoba 4307,-58.427,-34.596
+154,Portsaid,,Av. Córdoba 4453,-58.4285,-34.595
+155,Banco de la Nación Argentina,,Av. Córdoba 4416,-58.4284,-34.5955
+156,Local,,Av. Córdoba 4500,-58.4292,-34.595
+157,Yagmour,,Av. Córdoba 4600,-58.4301,-34.5945
+158,Edificio Diagonal Plaza,,Av. Roque Sáenz Peña 1145,-58.3827,-34.6029
+159,Poder Judicial de la Nación,,Av. Roque Sáenz Peña 1184,-58.3834,-34.603
+160,Randtad,,Av. Roque Sáenz Peña 950,-58.3804,-34.6046
+161,Banco Galicia,,Av. Roque Sáenz Peña 865,-58.3788,-34.605
+162,Tribunales de Trabajo,,Av. Roque Sáenz Peña 760,-58.3773,-34.6062
+163,Ministerio del Interior,,Av. Roque Sáenz Peña 660,-58.3759,-34.6069
+164,Winery,,Av. Roque Sáenz Peña 555,-58.3743,-34.6074
+165,Señor Sandwich,,Av. Corrientes 419,-58.3728,-34.603
+166,ORSNA,,Av. Corrientes 441,-58.3731,-34.603
+167,Personal,,Av. Corrientes 566,-58.3747,-34.6034
+168,Iglesia,,Av. Corrientes 718,-58.3769,-34.6036
+169,Dalisa,,Av. Corrientes 756,-58.3774,-34.6036
+170,OCA,,Av. Corrientes 1111,-58.3824,-34.6036
+171,Kiosko,,Av. Corrientes 1280,-58.3848,-34.604
+172,Equus,,Av. Corrientes 1321,-58.3855,-34.6038
+173,Orix,,Av. Corrientes 1255,-58.3845,-34.6037
+174,Los Inmortales,,Av. Corrientes 1365,-58.386,-34.6038
+175,Banco Ciudad,,Av. Corrientes 1418,-58.3868,-34.6042
+176,Colegio Público de Abogados,,Av. Corrientes 1441,-58.3872,-34.6039
+177,Pizzería,,Av. Corrientes 1504,-58.388,-34.6043
+178,Teatro San Martín,,Av. Corrientes 1530,-58.3883,-34.6043
+179,kiosko,,Av. Corrientes 1587,-58.3892,-34.604
+180,Centro Cultural de Cooperación,,Av. Corrientes 1543,-58.3886,-34.604
+181,Oficinas,,Av. Corrientes 1750,-58.3915,-34.6045
+182,Restaurante Green Life,,Av. Corrientes 1915,-58.3941,-34.6043
+183,Pizza Zapi,,Av. Corrientes 1948,-58.3945,-34.6046
+184,Teatro bar La Casona,,Av. Corrientes 1975,-58.3949,-34.6043
+185,Banco Patagonia,,Av. Corrientes 2171,-58.3978,-34.6044
+186,Banco Francés,,Av. Corrientes 2249,-58.3988,-34.6045
+187,Santander,,Av. Corrientes 2426,-58.4012,-34.6048
+188,Banco HSBC,,Av. Corrientes 2458,-58.4016,-34.6049
+189,Banco Ciudad,,Av. Corrientes 2458,-58.4016,-34.6049
+190,Poder Judicial de la Nación,,Gorriti 5051,-58.4316,-34.5889
+191,Just Sport,,Av. Corrientes 3234,-58.4108,-34.6042
+192,Shopping Abasto,,Av. Corrientes 3247,-58.411,-34.6039
+193,Shopping Abasto,,Av. Corrientes 3247,-58.411,-34.6039
+194,Subte Carlos Gardel,,Av. Corrientes 3292,-58.4116,-34.6042
+195,Banco Ciudad,,Av. Corrientes 3399,-58.4131,-34.604
+196,Vía Pública,,Av. Corrientes 3547,-58.415,-34.6038
+197,Correo Argentino,,Av. Corrientes 3700,-58.4167,-34.6038
+198,La Continental,,Av. Corrientes 3701,-58.4168,-34.6034
+199,ICBC,,Av. Corrientes 3800,-58.418,-34.6036
+200,Movistar,,Av. Corrientes 3953,-58.4202,-34.6031
+201,Bar La Orquidea,,Av. Corrientes 4113,-58.4228,-34.6028
+202,Banco Credicop,,Av. Corrientes 4124,-58.423,-34.6031
+203,Banco Galicia,,Av. Corrientes 4152,-58.4234,-34.6031
+204,Banco Nación,,Av. Corrientes 4279,-58.4253,-34.6026
+205,Escuela de Pastelería,,Av. Corrientes 4367,-58.4266,-34.6025
+206,Centro Dos,,Av. Corrientes 4524,-58.429,-34.6025
+207,Restaurant,,Av. Corrientes 4567,-58.4296,-34.6022
+208,Subte Ángel Gallardo,,Av. Corrientes 4662,-58.4313,-34.6023
+209,El trébol,,Av. Corrientes 4854,-58.4343,-34.6015
+210,Banco Santander,,Av. Corrientes 5100,-58.4376,-34.6004
+211,Banco Francés,,Av. Corrientes 5117,-58.4378,-34.6
+212,El Imperio,,Av. Corrientes 5206,-58.439,-34.5999
+213,Banco ICBC,,Av. Corrientes 5386,-58.4407,-34.5984
+214,Banco Provincia,,Av. Corrientes 5391,-58.4404,-34.5981
+215,Bonafide,,Av. Corrientes 5444,-58.4412,-34.5978
+216,Tarjeta Naranja,,Av. Corrientes 5530,-58.4421,-34.5971
+217,Banco Itaú,,Av. Corrientes 5563,-58.4421,-34.5966
+218,Pizzería Nápoles,,Av. Corrientes 5580,-58.4425,-34.5967
+219,Secretaría Nacional de Justicia- Reg. Nac. de la Prop. Automotor,,Av. Corrientes 5666,-58.4433,-34.5959
+220,Bar Dolce Hora,,Av. Corrientes 6096,-58.4468,-34.5927
+221,Profesorado Romero Brest,,Miguel Sánchez 1338,-58.4581,-34.5441
+222,Ministerio Público Fiscal,,Av. Paseo Colón 1333,-58.3683,-34.6233
+223,Ministerio Público Fiscal,,Av. Paseo Colón 1333,-58.3683,-34.6233
+224,Ministerio de Defensa de la Ciudad,,Balcarce 677,-58.3708,-34.6156
+225,VÍA PÚBLICA -MICROCENTRO,,Av. Presidente Julio Argentino Roca 600,-58.3746,-34.6103
+226,La Trastienda,,Balcarce 460,-58.3705,-34.6131
+227,Teatro Moliere,,Chile esquina Balcarce,-58.3706,-34.6159
+228,USAL Arte y Arquitectura,,Almagro 106,-58.4148,-34.6093
+229,USAL Cs. Jurídicas,,Av. Callao 660,-58.3929,-34.6013
+230,CBO N°1,,La Rioja 660,-58.4079,-34.6179
+231,Liceo N°3 / Esc Normal Sup. N°5,,Arcamendia 743,-58.3801,-34.6413
+232,Colegio N° 11 Hipólito Yrigoyen,,Benito Quinquela Martín 1649,-58.3731,-34.6434
+233,Esc. Técnica N° 04 Republica del Libano,,Av. Montes de Oca 121,-58.3773,-34.63
+234,Cucina Paradiso,,Castañeda 1871,-58.4368,-34.5535
+235,Esc. Técnica N° 26 Confederacion Suiza,,Av. Jujuy 255,-58.4056,-34.613
+236,Timbre 4,,Av. Boedo 640,-58.4164,-34.6203
+237,Esc. de Educacion Media N° 03/17° Antonio Devoto,,Mercedes 4002,-58.5126,-34.6007
+238,CFP N° 24,,Artigas 690,-58.4672,-34.6227
+239,El camarín de las musas,,Mario Bravo 950,-58.4162,-34.5986
+240,Julieta Sedler,,Armenia 1886,-58.4256,-34.5881
+241,Levi´s,,El Salvador 4714,-58.4275,-34.5894
+242,La Mersa,,Nicaragua 4835,-58.4273,-34.5863
+243,Key Biscayne,,Armenia 1735,-58.4267,-34.5892
+244,Proyecto Cuadrilla,,Nicaragua 4519,-58.4243,-34.5886
+245,Fábrica de Luz,,Serrano y Cabrera,-58.4322,-34.59
+246,Infinit,,Thames y Honduras,-58.4312,-34.5881
+247,Estudio V,,Thames 1800,-58.4293,-34.5866
+248,Trippin,,Armenia 1838,-58.426,-34.5884
+249,Cibeles,,El Salvador 4570,-58.4258,-34.5905
+250,Esc. Técnica N° 30 Dr. Norberto Piñero,,Jerónimo Salguero 920,-58.4192,-34.5993
+251,USAL Cs de la Educación y la Comunicación,,Callao 835,-58.3928,-34.5993
+252,USAL Cs. de la Administración,,Marcelo T. de Alvear 1312,-58.3858,-34.5971
+253,USAL Cs. Económicas,,Marcelo T. de Alvear 1335,-58.3862,-34.5968
+254,Esc. Técnica N° 21 Fragata Escuela Libertad,,Nuñez 3620,-58.478,-34.5562
+255,USAL Diseño,,Rodríguez Peña 670,-58.3916,-34.6011
+256,Esc. de Danzas N° 02 Jorge Donn,,Alejandro Magariños Cervantes 5068,-58.5037,-34.6295
+257,Inst. Superior de Lenguas Vivas sede y anexo,,Lascano 3810,-58.4956,-34.6129
+258,Esc. de Comercio N° 12 Juan XXIII,,Aquino 6040,-58.4803,-34.6775
+259,Esc. de Educacion Media N° 05/21° Juan Manuel Fangio,,Gorriti 5091,-58.4319,-34.5887
+260,Consejo de la Majistratura,,Av. de Mayo 654,-58.3757,-34.6088
+261,Facultad de Ciencias Económicas UBA,,Av. Córdoba y Pres. Uriburu,-58.3986,-34.5999
+262,Vero Alfie,,Armenia 1665,-58.4274,-34.5897
+263,Pehache,,Gurruchaga 1418,-58.4312,-34.5904
+264,UFLO,,Pedernera 272,-58.4626,-34.6324
+265,Teatro Gran Rex,,Av. Corrientes 857,-58.3789,-34.6034
+266,Plaza Libertad,,Libertad y Marcelo T. de Alvear,-58.3842,-34.5969
+267,Teatro Maipo,,Rivadavia 1499,-58.3876,-34.6088
+268,Teatro Ópera,,Av. Corrientes 872,-58.379,-34.6037
+269,Bonafide,,Av. Corrientes 974,-58.3805,-34.6038
+270,UMSA,,Av. Corrientes 1723,-58.3912,-34.6042
+271,Café Tes,,Av. Corrientes 1669,-58.3904,-34.6041
+272,Teatro de la Ribera,,Don Pedro de Mendoza 1875,-58.3615,-34.6392
+273,Teatro Regio,,Av.Córdoba 6056,-58.4458,-34.5843
+274,Teatro Sarmiento,,Av.Sarmiento 2715,-58.4196,-34.58
+275,QM,,Costa Rica 4700,-58.4273,-34.5882
+276,Esc Media N°2,,Lacarra y Bilbao,-58.475,-34.6452
+277,USAL Filosofía y Letras,,Lavalle 1878,-58.3936,-34.6033
+278,Chungo,,Av. Juan B. Alberdi 1250,-58.4455,-34.6243
+279,Nextel,,Av. Fco. Beiró 3456,-58.5015,-34.5997
+280,Nextel,,Av.Cabildo 451,-58.4413,-34.5716
+281,Chungo,,Av.Cabildo 2231,-58.4576,-34.5607
+282,Sede Comuna 15,,Av.Córdoba 5690,-58.4413,-34.587
+283,DG Música,,Curapaligüe 585,-58.4514,-34.6315
+284,Nextel,,Medrano 780,-58.4208,-34.601
+285,Sede Comuna 12,,Miller 2751,-58.4829,-34.5687
+286,Chungo,,Olazébal 5092,-58.4857,-34.5766
+287,Sede Comuna 11,,Ricardo Gutiérrez 3254,-58.4961,-34.6019
+288,Nextel,,Av Callao 410,-58.3925,-34.6043
+289,Base Chacabuco de Cuerpo de Agentes,,Emilio Mitre 981,-58.4412,-34.6325
+290,La Biela,,Av. Quintana 600,-58.3909,-34.5879
+291,VÍA PÚBLICA,,Av. Pueyrredón y Anchorena,-58.3998,-34.5891
+292,Plaza Rodríguez Peña,,Rodríguez Peña y Marcelo T. de Alvear,-58.3918,-34.5972
+293,Plaza Rodríguez Peña,,Rodríguez Peña y Paraguay,-58.3917,-34.5986
+294,Bar Libertad,,Uriarte y Gorriti,-58.433,-34.5881
+295,Kentucky,,Costa Rica y Fitz Roy,-58.4346,-34.5827
+296,Plaza Palermo Viejo,,Costa Rica y Armenia,-58.4262,-34.5887
+297,Agarrate Catalina,,Costa Rica 4605,-58.4262,-34.5885
+298,Chungo,,Humboldt 1906,-58.4338,-34.5832
+299,QM,,Gurruchaga y Costa Rica,-58.4272,-34.588
+300,Librería,,Gurruchaga y Honduras,-58.4292,-34.5893
+301,Diesel,,Gurruchaga y El Salvador,-58.4282,-34.5887
+302,Restaurante,,Honduras y Fitz Roy,-58.4363,-34.5842
+303,Esc. Técnica N° 19 Alejandro Volta,,Lavalle 1681,-58.3909,-34.6029
+304,Universidad Tecnológica Nacional,,Medrano 951,-58.4201,-34.5986
+305,Universidad Tecnológica Nacional,,Mozart 2350,-58.4687,-34.6595
+306,Liceo N° 01 Jose Figueroa Alcorta,,Av. Santa Fe 2778,-58.406,-34.5929
+307,Escuela Normal Superior N 3 (ANEXO),,Saraza 4204,-58.4675,-34.6608
+308,Sede Comuna 2,,Uriburu 1022,-58.399,-34.5966
+309,Dirección General de Museos,,Av. de los Italianos 851,-58.3601,-34.6095
+310,DG Museos,,Av. de los Italianos 851,-58.36,-34.6093
+311,Tea Conection,,Arcos y Echeverría,-58.4531,-34.5614
+312,Carabobo,LINEA A,Av. Rivadavia y Av. Carabobo,-58.4564,-34.6267
+313,Puan,LINEA A,Av. Rivadavia y Puan,-58.4488,-34.6237
+314,Acoyte,LINEA A,Av. Rivadavia y Av. Acoyte,-58.4362,-34.6183
+315,Rio de Janeiro,LINEA A,Av. Rivadavia y Rio de Janeiro,-58.4285,-34.6149
+316,Castro Barros,LINEA A,Av. Rivadavia 3900 entre Castro Barros y Yapeyú,-58.4217,-34.6119
+317,Loria,LINEA A,Av. Rivadavia 3400 entre Sanchez de Loria y Virrey Liniers,-58.4153,-34.6109
+318,Plaza Miserere,LINEA A,Av. Rivadavia y Av. Jujuy,-58.4077,-34.6101
+319,Alberti,LINEA A,Av. Rivadavia 2400 entre Alberti y Matheu,-58.4007,-34.61
+320,Congreso,LINEA A,Av. Rivadavia y Av. Entre Rios,-58.3893,-34.6092
+321,Saenz Peña,LINEA A,Av. de Mayo 1400 entre Saenz Peña y San José,-58.3863,-34.6095
+322,Lima,LINEA A,Av. de Mayo 1200 entre Salta y Lima,-58.3823,-34.6092
+323,Piedras,LINEA A,Av. de Mayo 700 entre Tacuarí y Piedras,-58.3787,-34.609
+324,Perú,LINEA A,Av. de Mayo 500 entre Perú y Bolivar,-58.3746,-34.6084
+325,Plaza de Mayo,LINEA A,Av. de Mayo 300 entre Defensa y Balcarse,-58.3709,-34.609
+326,Tronador- Villa Ortúzar,LINEA B,Av. Triunvirato y Tronador,-58.4663,-34.5843
+327,F. Lacroze,LINEA B,Av. Corrientes y Av. F. Lacroze,-58.4548,-34.5886
+328,Dorrego,LINEA B,Av. Corrientes 6100,-58.4485,-34.591
+329,Malabia,LINEA B,Av. Corrientes 5200 entre Malabia y Av. Scalabrini Ortíz,-58.4398,-34.5991
+330,Angel Gallardo,LINEA B,Av. Corrientes 4600,-58.4313,-34.602
+331,Carlos Gardel,LINEA B,Av. Corrientes 3200 entre Agüero y Anchorena,-58.4119,-34.604
+332,Pueyrredón,LINEA B,Av. Corrientes 2800,-58.4053,-34.6047
+333,Pasteur,LINEA B,Av. Corrientes 2200 entre Pasteur y Pte. Jose E. Uriburu,-58.399,-34.6045
+334,Callao,LINEA B,Av. Corrientes 1700 entre Av. Callao y Rodriguez Peña,-58.3924,-34.6043
+335,Uruguay,LINEA B,Av. Corrientes 1400 entre Parana y Uruguay,-58.3878,-34.604
+336,Carlos Pellegrini,LINEA B,Av. Corrientes 900 entre Carlos Pellegrini y Suipacha,-58.3809,-34.6034
+337,Florida,LINEA B,Av. Corrientes 500 entre Florida y San Martín,-58.3745,-34.6034
+338,Leandro N. Alem,LINEA B,Av. Corrientes 100,-58.3696,-34.6031
+339,Gral. San Martín,LINEA C,Av. Santa Fé 750 entre Esmeralda y Maipú,-58.3771,-34.5953
+340,Av. de mayo,LINEA C,Av. de Mayo 970,-58.3802,-34.6091
+341,San Juan,LINEA C,Av. San Juan 968,-58.3795,-34.6223
+342,Constitución,LINEA C,Av. Brasil 1103,-58.3798,-34.6279
+343,Congreso de Tucumán,LINEA D,Av. Cabildo 2800 entre Av. Congreso y Manuel Ugarte,-58.462,-34.5558
+344,Juramento,LINEA D,Av. cabildo 2000 entre Juramento y Echeverria,-58.4561,-34.5625
+345,Olleros,LINEA D,Av. Cabildo 700 entre Av. F. Lacroze y Av. Olleros,-58.4442,-34.5705
+346,Palermo,LINEA D,Av. Santa Fé 4600 y Av.  Juan B. Justo,-58.4263,-34.5781
+347,Plaza Italia,LINEA D,Av. Santa Fé 4000 entre Borges y Gurruchaga,-58.4214,-34.5812
+348,Scalabrini Ortíz,LINEA D,Av. Santa Fé 3900 entre Scalabrini Ortiz y Aráoz,-58.4158,-34.5851
+349,Pueyrredón,LINEA D,Av. Santa Fé 2500 entre Ecuador y Av. Pueyrredón,-58.403,-34.5944
+350,Facultad de Medicina,LINEA D,Av. Cordoba 2100 entre Pte. Jose E. Uriburu y Junín,-58.398,-34.5996
+351,9 de julio,LINEA D,Av. Roque Saenz Peña 900,-58.3794,-34.605
+352,Plaza de los Virreyes,LINEA E,Av. San Pedrito y Av. Eva Perón,-58.461,-34.6442
+353,Varela,LINEA E,Varela 900,-58.4579,-34.6399
+354,Medalla Milagrosa,LINEA E,Av. Eva Perón 2000,-58.4501,-34.6365
+355,José M. Moreno,LINEA E,Av. Directorio  500 entre Craig y Av. J. M. Moreno,-58.4336,-34.6281
+356,Av. La Plata,LINEA E,Av. San Juan 4300 entre Av. La Plata y Muñiz,-58.4265,-34.6271
+357,Boedo,LINEA E,Av. San Juan 3500 entre Av. Boedo y Maza,-58.4161,-34.6253
+358,General Urquiza,LINEA E,Av. San Juan 3100 entre 24 de Noviembre y Av. Gral. Urquiza,-58.4096,-34.6245
+359,Jujuy,LINEA E,Av. San Juan 2700 entre Catamarca y Av. Jujuy,-58.4027,-34.6237
+360,San José,LINEA E,Av. San Juan 1300 entre San José y Santiago del Estero,-58.3851,-34.6222
+361,Belgrano,LINEA E,Av. Belgrano 700 entre Piedras y Chacabuco,-58.3777,-34.613
+362,Bolívar,LINEA E,Av. Pte. Julio A. Roca 500,-58.3737,-34.6094
+363,Museo de Arte Decorativo,,Av. Del Libertador 1902,-58.4003,-34.5826
+364,Museo de Arquitectura,,Libertador 999,-58.3854,-34.5864
+365,Plaza Italia,,Frente a Sistema público de bicicletas,-58.4211,-34.5809
+366,Escuela Ferré Nº 5,,Ferré 1957,-58.4236,-34.6597
+367,Tea Conection,,Federico Lacroze 2233,-58.4434,-34.5682
+368,Hospital Tornú,,Combatientes de Malvinas 3002,-58.471,-34.5875
+369,Auditoria Gral. de la Ciudad,,Corrientes 640,-58.3758,-34.6035
+370,CGPC 8,,Av. Coronel Roca 5252,-58.4553,-34.6849
+371,ANSES,,Av. Paseo Colón 329,-58.3698,-34.6115
+372,Saint Exupery,,Bonifacio 1075,-58.4426,-34.6279
+373,CGPC 1,,Uruguay 751,-58.3866,-34.5999
+374,CGPC 11,,Av. Beiro 4629,-58.516,-34.6083
+375,CGPC 10,,Bacacay 3968,-58.4835,-34.6319
+376,CGPC 9,,Timoteo Gordillo 2212,-58.505,-34.6596
+377,CGPC 13,,Av. Cabildo 3067,-58.4641,-34.5538
+378,CGPC 6,,Diaz Velez 4558,-58.4312,-34.6089
+379,CGPC 7,,Av. Rivadavia 7202,-58.4669,-34.6301
+380,Hospital de Rehabilitación Manuel Roca,,Segurola 1949 y Alvarez Jonte,-58.5018,-34.6183
+381,Inst. de Rehabilitación Psicofisico,,Echeverría 955,-58.441,-34.5539
+382,Palais de Glace,,Posadas 1725,-58.3896,-34.5859
+383,Dirección General de Obras,,Chacabuco 1261,-58.3757,-34.6228
+384,Rivadavia y Virrey Cevallos,,Av. Rivadavia 1583,-58.3889,-34.6089
+385,Hospital Fernández,,Ruggieri 2830,-58.4075,-34.5814
+386,Hospital Ramos Mejia,,Gral. Urquiza 609,-58.4096,-34.6177
+387,Hospital Garraham,,Pichincha 1890,-58.3958,-34.6314
+388,Dir. Gral. de Estadísticas y Censos,,Perón 3253,-58.4123,-34.6076
+389,Agencia Gubernamental de Control,,Peron 2933,-58.4082,-34.6077
+390,Tribunales,LINEA D,Tucumán 1300 y Talcahuano,-58.384,-34.6021
+391,Pichincha,LINEA E,Av. San Juan 2200 entre Pichincha y Pasco,-58.3972,-34.623
+392,Hospital Alemán,,Av. Pueyrredon 1640,-58.4015,-34.5921
+393,Pasco,LINEA A,Av. Rivadavia 2200 entre Pasco y Pichincha,-58.3978,-34.6095
+394,José Hernández,LINEA D,Av. Cabildo 1600 entre Jose Hernandez y Virrey Del Pino,-58.452,-34.5664
+395,Catedral,LINEA D,Av. Roque Saenz Peña 500,-58.3735,-34.6078
+396,Emilio Mitre,LINEA E,Av. Eva Perón 1100 entre Emilio Mitre y Cachimayo,-58.442,-34.6315
+397,Ministerio de Planificación,,Hipolito Irigoyen 250,-58.5061,-34.6366
+398,Ministro Carranza,LINEA D,Av. Santa Fé 5200 entre Arevalo y Ravignani,-58.4342,-34.5757
+399,Plaza Aduana,,Moreno y Paseo Colón,-58.369,-34.6112
+400,Ideas del Sur,,Olleros 3539,-58.4496,-34.5818
+401,De los Incas- Parque Chas,LINEA B,Av. Triunvirato y Av. de los Incas,-58.4735,-34.582
+402,Tribunales,,Frente a Sistema público de bicicletas,-58.3851,-34.6013
+403,Primera Junta,LINEA A,Av. Rivadavia y Rojas,-58.4414,-34.6207
+404,Museo Larreta,,Av. Juramento 2291,-58.4557,-34.5613

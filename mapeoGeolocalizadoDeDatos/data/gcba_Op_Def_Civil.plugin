@@ -1,0 +1,15 @@
+{
+	"ID": 	 	 	003,
+    "NOMBRE":    	"Operativos Defensa Civil",
+    "INDEXADO": 	false,
+    "HOST_LOCAL":	"OpDefCivil",
+    "HOST_WAN":  	"https://recursos-data.buenosaires.gob.ar/ckan2/censo-arbolado/arbolado-espacios-verdes.csv",
+    "DATA_FORMAT":  "csv",
+    "DATA_GTYPE": 	0,
+    "DESCRIPCION":	"Operativos realizados por Defensa Civil en la Ciudad de Buenos Aires.",
+        "FIELDS":{
+    	"ID"      : "score",
+    	"NAME"    : "observacio",
+    	"GEODATA" : ["lon","lat"] 
+    }
+}

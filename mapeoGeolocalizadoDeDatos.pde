@@ -142,6 +142,11 @@ void draw() {
   background(0);
   myBA_map.draw();
   myHUD.draw(actualLayer);
+  Location iloc = myBA_map.getLocation(0,0);
+  Location eloc = myBA_map.getLocation(width,height);
+  println("Longitud minima: "+iloc.x+" - Longitud maxima: "+eloc.x);
+  println("Latitud minima: "+iloc.y+" - Latitud maxima: "+eloc.y);
+  save("map.png");
   //server.sendScreen();
 }
 

@@ -1,0 +1,5889 @@
+linea,desde,hasta,estacion,pasajeros
+B,00:30,00:44,Leandro N. Alem,1
+D,00:45,00:59,Catedral,1
+H,04:00,04:14,Corrientes,1
+D,04:15,04:29,Ministro Carranza,1
+H,04:15,04:29,Inclan,2
+B,04:30,04:44,Federico Lacroze,1
+B,04:30,04:44,Carlos Pellegrini,1
+H,04:45,04:59,Caseros,1
+B,04:45,04:59,Angel Gallardo,1
+B,04:45,04:59,Rosas,8
+D,04:45,04:59,Catedral,2
+D,04:45,04:59,Plaza Italia,1
+B,04:45,04:59,Dorrego,1
+H,04:45,04:59,Patricios,3
+B,04:45,04:59,Echeverria,3
+B,04:45,04:59,Los Incas,4
+E,04:45,04:59,Bolivar,1
+D,04:45,04:59,Congreso de Tucuman,2
+B,04:45,04:59,Pasteur,1
+A,04:45,04:59,San Pedrito,2
+D,04:45,04:59,Juramento,1
+D,04:45,04:59,Olleros,1
+C,04:45,04:59,Diagonal Norte,2
+E,04:45,04:59,Independencia.,1
+A,04:45,04:59,Rio de Janeiro,1
+B,04:45,04:59,Medrano,1
+C,04:45,04:59,Retiro,8
+B,04:45,04:59,Federico Lacroze,7
+E,04:45,04:59,Avenida La Plata,2
+C,04:45,04:59,Constitucion,17
+H,04:45,04:59,Once,1
+D,04:45,04:59,Palermo,1
+E,04:45,04:59,Entre Rios,1
+B,04:45,04:59,Leandro N. Alem,9
+C,04:45,04:59,Avenida de Mayo,1
+E,04:45,04:59,Pza. de los Virreyes,5
+D,05:00,05:14,Juramento,2
+C,05:00,05:14,Retiro,27
+D,05:00,05:14,Congreso de Tucuman,9
+A,05:00,05:14,Primera Junta,6
+B,05:00,05:14,Tronador,1
+C,05:00,05:14,Constitucion,62
+D,05:00,05:14,Olleros,2
+B,05:00,05:14,Leandro N. Alem,29
+B,05:00,05:14,Medrano,2
+C,05:00,05:14,San Juan,3
+B,05:00,05:14,Angel Gallardo,1
+E,05:00,05:14,Bolivar,2
+B,05:00,05:14,Pueyrredon,3
+H,05:00,05:14,Patricios,2
+C,05:00,05:14,Avenida de Mayo,4
+D,05:00,05:14,Aguero,2
+C,05:00,05:14,Lavalle,1
+A,05:00,05:14,Congreso,1
+A,05:00,05:14,Loria,1
+A,05:00,05:14,Plaza Miserere,3
+D,05:00,05:14,9 de julio,4
+D,05:00,05:14,Facultad de Medicina,4
+B,05:00,05:14,Rosas,16
+A,05:00,05:14,Puan,1
+H,05:00,05:14,Once,3
+A,05:00,05:14,Alberti,1
+E,05:00,05:14,Urquiza,1
+B,05:00,05:14,Los Incas,7
+D,05:00,05:14,Palermo,9
+E,05:00,05:14,Independencia.,3
+A,05:00,05:14,Lima,4
+A,05:00,05:14,Carabobo,4
+E,05:00,05:14,General Belgrano,1
+B,05:00,05:14,Dorrego,2
+E,05:00,05:14,Varela,1
+E,05:00,05:14,Jose Maria Moreno,1
+A,05:00,05:14,Rio de Janeiro,5
+B,05:00,05:14,Malabia,2
+A,05:00,05:14,Acoyte,2
+D,05:00,05:14,Jose Hernandez,3
+B,05:00,05:14,Callao,1
+B,05:00,05:14,Federico Lacroze,15
+E,05:00,05:14,San Jose,2
+D,05:00,05:14,Ministro Carranza,1
+D,05:00,05:14,Catedral,3
+E,05:00,05:14,Emilio Mitre,2
+D,05:00,05:14,Scalabrini Ortiz,1
+H,05:00,05:14,Humberto I,2
+B,05:00,05:14,Florida,1
+C,05:00,05:14,Mariano Moreno,3
+E,05:00,05:14,Entre Rios,2
+A,05:00,05:14,San Pedrito,9
+H,05:00,05:14,Caseros,3
+E,05:00,05:14,Avenida La Plata,5
+H,05:00,05:14,Venezuela,1
+B,05:00,05:14,Carlos Pellegrini,4
+A,05:00,05:14,Piedras,2
+D,05:00,05:14,Tribunales,1
+E,05:00,05:14,Pza. de los Virreyes,8
+B,05:00,05:14,Pasteur,1
+B,05:00,05:14,Echeverria,1
+E,05:00,05:14,Boedo,2
+A,05:00,05:14,Castro Barros,4
+D,05:00,05:14,Plaza Italia,12
+H,05:00,05:14,Inclan,3
+B,05:00,05:14,Uruguay,2
+A,05:00,05:14,Plaza de Mayo,4
+A,05:00,05:14,Peru,3
+B,05:00,05:14,Carlos Gardel,2
+D,05:15,05:29,Olleros,8
+H,05:15,05:29,Humberto I,2
+B,05:15,05:29,Dorrego,6
+B,05:15,05:29,Federico Lacroze,69
+E,05:15,05:29,Avenida La Plata,3
+E,05:15,05:29,General Belgrano,2
+E,05:15,05:29,Pza. de los Virreyes,10
+E,05:15,05:29,Pichincha,3
+B,05:15,05:29,Los Incas,4
+A,05:15,05:29,Saenz Peña,1
+A,05:15,05:29,Plaza Miserere,13
+A,05:15,05:29,Peru,2
+D,05:15,05:29,Catedral,6
+B,05:15,05:29,Carlos Gardel,1
+B,05:15,05:29,Rosas,14
+B,05:15,05:29,Medrano,6
+D,05:15,05:29,Plaza Italia,15
+B,05:15,05:29,Pueyrredon,2
+E,05:15,05:29,Medalla Milagrosa,5
+D,05:15,05:29,9 de julio,3
+D,05:15,05:29,Ministro Carranza,2
+A,05:15,05:29,Castro Barros,6
+A,05:15,05:29,Piedras,4
+A,05:15,05:29,Acoyte,6
+C,05:15,05:29,Mariano Moreno,1
+H,05:15,05:29,Once,5
+C,05:15,05:29,Independencia,2
+A,05:15,05:29,Loria,4
+D,05:15,05:29,Palermo,14
+A,05:15,05:29,Pasco,1
+A,05:15,05:29,Rio de Janeiro,2
+E,05:15,05:29,Bolivar,1
+B,05:15,05:29,Echeverria,9
+H,05:15,05:29,Venezuela,4
+E,05:15,05:29,Entre Rios,17
+C,05:15,05:29,Avenida de Mayo,7
+D,05:15,05:29,Scalabrini Ortiz,9
+H,05:15,05:29,Corrientes,1
+A,05:15,05:29,Puan,1
+A,05:15,05:29,Alberti,1
+C,05:15,05:29,Retiro,36
+C,05:15,05:29,Diagonal Norte,1
+A,05:15,05:29,Congreso,4
+D,05:15,05:29,Bulnes,6
+E,05:15,05:29,Varela,3
+B,05:15,05:29,Callao,5
+D,05:15,05:29,Facultad de Medicina,2
+D,05:15,05:29,Congreso de Tucuman,15
+A,05:15,05:29,Primera Junta,9
+C,05:15,05:29,Lavalle,2
+A,05:15,05:29,Carabobo,7
+C,05:15,05:29,Constitucion,83
+D,05:15,05:29,Juramento,2
+A,05:15,05:29,Plaza de Mayo,4
+D,05:15,05:29,Aguero,4
+B,05:15,05:29,Leandro N. Alem,18
+A,05:15,05:29,San Pedrito,4
+B,05:15,05:29,Angel Gallardo,4
+A,05:15,05:29,Lima,1
+B,05:15,05:29,Uruguay,1
+B,05:15,05:29,Carlos Pellegrini,2
+B,05:15,05:29,Tronador,1
+H,05:15,05:29,Caseros,1
+B,05:15,05:29,Malabia,5
+H,05:15,05:29,Inclan,1
+E,05:15,05:29,Boedo,3
+E,05:15,05:29,Jose Maria Moreno,2
+E,05:15,05:29,Jujuy,2
+B,05:15,05:29,Pasteur,1
+C,05:15,05:29,San Juan,2
+D,05:15,05:29,Jose Hernandez,2
+A,05:15,05:29,Flores,3
+B,05:30,05:44,Echeverria,3
+A,05:30,05:44,Lima,8
+B,05:30,05:44,Los Incas,6
+D,05:30,05:44,Plaza Italia,5
+B,05:30,05:44,Malabia,5
+B,05:30,05:44,Dorrego,7
+D,05:30,05:44,Facultad de Medicina,2
+E,05:30,05:44,San Jose,5
+B,05:30,05:44,Federico Lacroze,51
+E,05:30,05:44,Jose Maria Moreno,5
+D,05:30,05:44,Juramento,4
+A,05:30,05:44,San Pedrito,10
+A,05:30,05:44,Castro Barros,2
+D,05:30,05:44,9 de julio,1
+E,05:30,05:44,Avenida La Plata,6
+D,05:30,05:44,Aguero,4
+A,05:30,05:44,Carabobo,3
+C,05:30,05:44,Constitucion,139
+E,05:30,05:44,Varela,5
+C,05:30,05:44,Lavalle,3
+H,05:30,05:44,Hospitales,6
+A,05:30,05:44,Loria,4
+A,05:30,05:44,Plaza de Mayo,2
+E,05:30,05:44,Jujuy,7
+H,05:30,05:44,Venezuela,4
+B,05:30,05:44,Pasteur,3
+D,05:30,05:44,Olleros,8
+E,05:30,05:44,Boedo,1
+B,05:30,05:44,Pueyrredon,2
+E,05:30,05:44,Entre Rios,9
+D,05:30,05:44,Bulnes,2
+H,05:30,05:44,Corrientes,3
+E,05:30,05:44,Pza. de los Virreyes,28
+H,05:30,05:44,Once,1
+A,05:30,05:44,Puan,2
+E,05:30,05:44,General Belgrano,3
+E,05:30,05:44,Medalla Milagrosa,2
+C,05:30,05:44,Mariano Moreno,5
+E,05:30,05:44,Bolivar,2
+A,05:30,05:44,Acoyte,6
+A,05:30,05:44,Piedras,2
+C,05:30,05:44,Retiro,56
+E,05:30,05:44,Emilio Mitre,5
+D,05:30,05:44,Jose Hernandez,2
+H,05:30,05:44,Patricios,3
+B,05:30,05:44,Carlos Pellegrini,11
+B,05:30,05:44,Rosas,21
+D,05:30,05:44,Congreso de Tucuman,14
+D,05:30,05:44,Catedral,6
+B,05:30,05:44,Carlos Gardel,6
+B,05:30,05:44,Florida,4
+B,05:30,05:44,Leandro N. Alem,23
+A,05:30,05:44,Peru,3
+D,05:30,05:44,Tribunales,1
+E,05:30,05:44,Pichincha,2
+D,05:30,05:44,Ministro Carranza,1
+C,05:30,05:44,San Juan,7
+B,05:30,05:44,Callao,12
+D,05:30,05:44,Scalabrini Ortiz,4
+A,05:30,05:44,Primera Junta,7
+H,05:30,05:44,Humberto I,1
+E,05:30,05:44,Urquiza,8
+H,05:30,05:44,Caseros,3
+B,05:30,05:44,Medrano,4
+D,05:30,05:44,Pueyrredon.,3
+B,05:30,05:44,Angel Gallardo,5
+A,05:30,05:44,Plaza Miserere,13
+A,05:30,05:44,Pasco,4
+E,05:30,05:44,Independencia.,3
+C,05:30,05:44,Independencia,6
+H,05:45,05:59,Humberto I,3
+A,05:45,05:59,Alberti,2
+D,05:45,05:59,Aguero,5
+B,05:45,05:59,Callao,7
+C,05:45,05:59,Mariano Moreno,9
+E,05:45,05:59,Urquiza,2
+B,05:45,05:59,Dorrego,9
+A,05:45,05:59,Piedras,1
+D,05:45,05:59,Tribunales,2
+E,05:45,05:59,Pza. de los Virreyes,17
+D,05:45,05:59,Bulnes,7
+B,05:45,05:59,Malabia,9
+D,05:45,05:59,Scalabrini Ortiz,21
+A,05:45,05:59,Puan,1
+D,05:45,05:59,Palermo,19
+B,05:45,05:59,Angel Gallardo,5
+C,05:45,05:59,General San Martin,10
+H,05:45,05:59,Caseros,5
+H,05:45,05:59,Once,4
+A,05:45,05:59,San Pedrito,21
+E,05:45,05:59,Avenida La Plata,8
+D,05:45,05:59,Catedral,8
+B,05:45,05:59,Leandro N. Alem,53
+A,05:45,05:59,Pasco,2
+H,05:45,05:59,Inclan,5
+A,05:45,05:59,Flores,4
+C,05:45,05:59,San Juan,8
+A,05:45,05:59,Plaza Miserere,22
+A,05:45,05:59,Congreso,4
+B,05:45,05:59,Rosas,20
+B,05:45,05:59,Medrano,8
+C,05:45,05:59,Lavalle,4
+D,05:45,05:59,Olleros,6
+A,05:45,05:59,Peru,6
+D,05:45,05:59,Pueyrredon.,5
+A,05:45,05:59,Loria,2
+D,05:45,05:59,Callao.,3
+E,05:45,05:59,Independencia.,4
+D,05:45,05:59,9 de julio,3
+H,05:45,05:59,Corrientes,3
+A,05:45,05:59,Primera Junta,16
+A,05:45,05:59,Plaza de Mayo,2
+B,05:45,05:59,Carlos Gardel,8
+D,05:45,05:59,Congreso de Tucuman,18
+E,05:45,05:59,Jose Maria Moreno,7
+C,05:45,05:59,Independencia,8
+E,05:45,05:59,General Belgrano,6
+D,05:45,05:59,Juramento,8
+B,05:45,05:59,Uruguay,1
+B,05:45,05:59,Federico Lacroze,57
+D,05:45,05:59,Facultad de Medicina,1
+E,05:45,05:59,Boedo,3
+D,05:45,05:59,Jose Hernandez,5
+A,05:45,05:59,Saenz Peña,1
+H,05:45,05:59,Venezuela,9
+H,05:45,05:59,Hospitales,10
+C,05:45,05:59,Avenida de Mayo,5
+E,05:45,05:59,Varela,3
+A,05:45,05:59,Carabobo,11
+E,05:45,05:59,Bolivar,13
+A,05:45,05:59,Rio de Janeiro,3
+E,05:45,05:59,San Jose,5
+B,05:45,05:59,Echeverria,1
+B,05:45,05:59,Carlos Pellegrini,20
+B,05:45,05:59,Los Incas,9
+A,05:45,05:59,Acoyte,8
+B,05:45,05:59,Pasteur,7
+D,05:45,05:59,Ministro Carranza,2
+C,05:45,05:59,Retiro,62
+D,05:45,05:59,Plaza Italia,12
+E,05:45,05:59,Pichincha,4
+E,05:45,05:59,Entre Rios,16
+A,05:45,05:59,Castro Barros,3
+B,05:45,05:59,Pueyrredon,11
+A,05:45,05:59,Lima,6
+B,05:45,05:59,Florida,2
+C,05:45,05:59,Constitucion,705
+E,05:45,05:59,Emilio Mitre,2
+H,05:45,05:59,Patricios,5
+E,05:45,05:59,Medalla Milagrosa,2
+C,05:45,05:59,Diagonal Norte,3
+D,06:00,06:14,Pueyrredon.,9
+D,06:00,06:14,9 de julio,11
+E,06:00,06:14,Bolivar,13
+B,06:00,06:14,Federico Lacroze,109
+D,06:00,06:14,Plaza Italia,13
+E,06:00,06:14,Jose Maria Moreno,5
+B,06:00,06:14,Florida,10
+D,06:00,06:14,Juramento,14
+A,06:00,06:14,Castro Barros,2
+E,06:00,06:14,Jujuy,1
+E,06:00,06:14,Medalla Milagrosa,2
+B,06:00,06:14,Leandro N. Alem,68
+A,06:00,06:14,Primera Junta,13
+D,06:00,06:14,Callao.,6
+B,06:00,06:14,Malabia,6
+D,06:00,06:14,Scalabrini Ortiz,9
+A,06:00,06:14,Flores,8
+E,06:00,06:14,Pza. de los Virreyes,39
+B,06:00,06:14,Los Incas,13
+E,06:00,06:14,Urquiza,2
+E,06:00,06:14,Varela,2
+E,06:00,06:14,Boedo,7
+E,06:00,06:14,Emilio Mitre,4
+D,06:00,06:14,Aguero,7
+H,06:00,06:14,Caseros,11
+E,06:00,06:14,Independencia.,9
+B,06:00,06:14,Angel Gallardo,12
+A,06:00,06:14,Pasco,5
+D,06:00,06:14,Facultad de Medicina,5
+D,06:00,06:14,Congreso de Tucuman,29
+H,06:00,06:14,Humberto I,2
+A,06:00,06:14,Puan,3
+B,06:00,06:14,Uruguay,9
+D,06:00,06:14,Bulnes,6
+A,06:00,06:14,Saenz Peña,7
+A,06:00,06:14,Rio de Janeiro,4
+D,06:00,06:14,Catedral,15
+C,06:00,06:14,General San Martin,8
+A,06:00,06:14,Peru,3
+H,06:00,06:14,Hospitales,13
+H,06:00,06:14,Venezuela,2
+A,06:00,06:14,Acoyte,28
+C,06:00,06:14,Retiro,144
+E,06:00,06:14,San Jose,2
+C,06:00,06:14,Avenida de Mayo,7
+D,06:00,06:14,Olleros,8
+C,06:00,06:14,Lavalle,12
+B,06:00,06:14,Tronador,8
+C,06:00,06:14,Diagonal Norte,1
+A,06:00,06:14,San Pedrito,37
+B,06:00,06:14,Callao,12
+A,06:00,06:14,Congreso,5
+B,06:00,06:14,Carlos Pellegrini,25
+D,06:00,06:14,Ministro Carranza,12
+D,06:00,06:14,Tribunales,1
+B,06:00,06:14,Pueyrredon,19
+C,06:00,06:14,Mariano Moreno,4
+B,06:00,06:14,Carlos Gardel,8
+C,06:00,06:14,Constitucion,640
+H,06:00,06:14,Inclan,4
+D,06:00,06:14,Jose Hernandez,6
+A,06:00,06:14,Loria,5
+A,06:00,06:14,Piedras,4
+H,06:00,06:14,Patricios,7
+B,06:00,06:14,Pasteur,6
+C,06:00,06:14,San Juan,8
+D,06:00,06:14,Palermo,6
+B,06:00,06:14,Echeverria,2
+B,06:00,06:14,Dorrego,6
+E,06:00,06:14,Entre Rios,20
+E,06:00,06:14,General Belgrano,10
+C,06:00,06:14,Independencia,7
+B,06:00,06:14,Medrano,11
+A,06:00,06:14,Plaza Miserere,27
+A,06:00,06:14,Lima,6
+B,06:00,06:14,Rosas,47
+A,06:00,06:14,Plaza de Mayo,18
+A,06:00,06:14,Alberti,4
+E,06:00,06:14,Pichincha,4
+E,06:00,06:14,Avenida La Plata,11
+H,06:00,06:14,Once,8
+A,06:00,06:14,Carabobo,9
+E,06:15,06:29,Avenida La Plata,5
+A,06:15,06:29,Flores,13
+E,06:15,06:29,Emilio Mitre,8
+E,06:15,06:29,Jujuy,11
+A,06:15,06:29,Loria,9
+A,06:15,06:29,Peru,5
+B,06:15,06:29,Angel Gallardo,17
+D,06:15,06:29,Jose Hernandez,10
+B,06:15,06:29,Florida,5
+B,06:15,06:29,Dorrego,25
+B,06:15,06:29,Carlos Gardel,15
+B,06:15,06:29,Echeverria,13
+E,06:15,06:29,Urquiza,3
+D,06:15,06:29,Ministro Carranza,3
+H,06:15,06:29,Corrientes,2
+C,06:15,06:29,Retiro,128
+C,06:15,06:29,Lavalle,10
+H,06:15,06:29,Once,18
+E,06:15,06:29,General Belgrano,7
+E,06:15,06:29,Entre Rios,16
+E,06:15,06:29,Pza. de los Virreyes,79
+D,06:15,06:29,Callao.,15
+A,06:15,06:29,Plaza de Mayo,9
+E,06:15,06:29,Jose Maria Moreno,10
+A,06:15,06:29,Rio de Janeiro,9
+B,06:15,06:29,Los Incas,30
+E,06:15,06:29,Pichincha,7
+C,06:15,06:29,Independencia,10
+B,06:15,06:29,Carlos Pellegrini,36
+C,06:15,06:29,Avenida de Mayo,10
+A,06:15,06:29,Alberti,4
+C,06:15,06:29,General San Martin,8
+E,06:15,06:29,San Jose,6
+B,06:15,06:29,Tronador,15
+D,06:15,06:29,Palermo,16
+A,06:15,06:29,San Pedrito,45
+C,06:15,06:29,Diagonal Norte,2
+B,06:15,06:29,Pasteur,5
+D,06:15,06:29,9 de julio,8
+D,06:15,06:29,Pueyrredon.,10
+B,06:15,06:29,Rosas,61
+D,06:15,06:29,Scalabrini Ortiz,10
+D,06:15,06:29,Catedral,29
+D,06:15,06:29,Aguero,9
+E,06:15,06:29,Boedo,10
+H,06:15,06:29,Hospitales,13
+A,06:15,06:29,Castro Barros,15
+A,06:15,06:29,Congreso,5
+B,06:15,06:29,Leandro N. Alem,75
+B,06:15,06:29,Pueyrredon,13
+E,06:15,06:29,Varela,6
+H,06:15,06:29,Patricios,11
+A,06:15,06:29,Puan,9
+D,06:15,06:29,Congreso de Tucuman,48
+B,06:15,06:29,Federico Lacroze,128
+A,06:15,06:29,Lima,5
+D,06:15,06:29,Bulnes,15
+A,06:15,06:29,Carabobo,21
+E,06:15,06:29,Independencia.,9
+B,06:15,06:29,Malabia,19
+B,06:15,06:29,Medrano,11
+H,06:15,06:29,Inclan,6
+H,06:15,06:29,Humberto I,2
+H,06:15,06:29,Caseros,16
+C,06:15,06:29,Constitucion,1059
+A,06:15,06:29,Primera Junta,21
+A,06:15,06:29,Plaza Miserere,42
+D,06:15,06:29,Tribunales,1
+A,06:15,06:29,Acoyte,16
+D,06:15,06:29,Olleros,4
+C,06:15,06:29,Mariano Moreno,9
+B,06:15,06:29,Uruguay,5
+D,06:15,06:29,Juramento,18
+H,06:15,06:29,Venezuela,5
+A,06:15,06:29,Piedras,10
+A,06:15,06:29,Pasco,4
+D,06:15,06:29,Plaza Italia,13
+A,06:15,06:29,Saenz Peña,4
+E,06:15,06:29,Medalla Milagrosa,3
+C,06:15,06:29,San Juan,11
+D,06:15,06:29,Facultad de Medicina,8
+E,06:15,06:29,Bolivar,14
+B,06:15,06:29,Callao,31
+B,06:30,06:44,Los Incas,29
+E,06:30,06:44,Entre Rios,22
+A,06:30,06:44,Loria,5
+D,06:30,06:44,Tribunales,5
+B,06:30,06:44,Medrano,17
+A,06:30,06:44,Flores,16
+B,06:30,06:44,Rosas,77
+D,06:30,06:44,Scalabrini Ortiz,10
+D,06:30,06:44,Palermo,21
+D,06:30,06:44,Aguero,12
+E,06:30,06:44,Bolivar,4
+B,06:30,06:44,Federico Lacroze,172
+C,06:30,06:44,Avenida de Mayo,8
+B,06:30,06:44,Dorrego,25
+A,06:30,06:44,Puan,7
+A,06:30,06:44,Piedras,3
+D,06:30,06:44,Olleros,10
+A,06:30,06:44,Congreso,8
+C,06:30,06:44,San Juan,15
+E,06:30,06:44,Pza. de los Virreyes,100
+E,06:30,06:44,Urquiza,3
+D,06:30,06:44,Facultad de Medicina,12
+B,06:30,06:44,Malabia,26
+E,06:30,06:44,Pichincha,10
+D,06:30,06:44,Ministro Carranza,13
+D,06:30,06:44,Callao.,12
+E,06:30,06:44,General Belgrano,4
+A,06:30,06:44,Primera Junta,28
+C,06:30,06:44,Retiro,132
+B,06:30,06:44,Angel Gallardo,23
+H,06:30,06:44,Hospitales,10
+A,06:30,06:44,Plaza Miserere,50
+A,06:30,06:44,Lima,5
+B,06:30,06:44,Carlos Gardel,13
+D,06:30,06:44,Plaza Italia,5
+E,06:30,06:44,Boedo,9
+H,06:30,06:44,Once,15
+H,06:30,06:44,Venezuela,6
+E,06:30,06:44,Varela,4
+D,06:30,06:44,Catedral,26
+D,06:30,06:44,Pueyrredon.,12
+D,06:30,06:44,Juramento,18
+H,06:30,06:44,Humberto I,8
+B,06:30,06:44,Florida,9
+B,06:30,06:44,Pasteur,12
+C,06:30,06:44,Lavalle,7
+D,06:30,06:44,Bulnes,12
+A,06:30,06:44,Acoyte,18
+A,06:30,06:44,Alberti,5
+A,06:30,06:44,San Pedrito,66
+C,06:30,06:44,Diagonal Norte,1
+B,06:30,06:44,Leandro N. Alem,110
+B,06:30,06:44,Echeverria,11
+C,06:30,06:44,General San Martin,1
+E,06:30,06:44,Emilio Mitre,7
+H,06:30,06:44,Corrientes,1
+B,06:30,06:44,Callao,14
+H,06:30,06:44,Patricios,20
+A,06:30,06:44,Pasco,3
+C,06:30,06:44,Mariano Moreno,5
+B,06:30,06:44,Uruguay,11
+D,06:30,06:44,Congreso de Tucuman,56
+B,06:30,06:44,Pueyrredon,15
+E,06:30,06:44,Jose Maria Moreno,13
+D,06:30,06:44,Jose Hernandez,19
+D,06:30,06:44,9 de julio,9
+A,06:30,06:44,Saenz Peña,10
+E,06:30,06:44,Independencia.,12
+A,06:30,06:44,Carabobo,18
+E,06:30,06:44,Jujuy,5
+B,06:30,06:44,Tronador,11
+C,06:30,06:44,Independencia,12
+A,06:30,06:44,Peru,6
+E,06:30,06:44,Avenida La Plata,10
+E,06:30,06:44,Medalla Milagrosa,5
+A,06:30,06:44,Rio de Janeiro,6
+E,06:30,06:44,San Jose,10
+A,06:30,06:44,Plaza de Mayo,19
+H,06:30,06:44,Inclan,13
+A,06:30,06:44,Castro Barros,9
+H,06:30,06:44,Caseros,9
+C,06:30,06:44,Constitucion,815
+B,06:30,06:44,Carlos Pellegrini,32
+C,06:45,06:59,Retiro,235
+C,06:45,06:59,Lavalle,5
+D,06:45,06:59,Facultad de Medicina,12
+E,06:45,06:59,Emilio Mitre,6
+E,06:45,06:59,Avenida La Plata,9
+A,06:45,06:59,Loria,14
+A,06:45,06:59,Rio de Janeiro,9
+B,06:45,06:59,Florida,14
+E,06:45,06:59,Varela,6
+A,06:45,06:59,Plaza de Mayo,23
+B,06:45,06:59,Uruguay,7
+B,06:45,06:59,Carlos Gardel,15
+A,06:45,06:59,Lima,8
+A,06:45,06:59,Alberti,6
+E,06:45,06:59,Jujuy,8
+A,06:45,06:59,Peru,4
+H,06:45,06:59,Inclan,6
+E,06:45,06:59,General Belgrano,9
+E,06:45,06:59,Pza. de los Virreyes,77
+A,06:45,06:59,Congreso,8
+C,06:45,06:59,Diagonal Norte,1
+C,06:45,06:59,General San Martin,7
+D,06:45,06:59,Tribunales,2
+B,06:45,06:59,Medrano,26
+H,06:45,06:59,Venezuela,7
+C,06:45,06:59,San Juan,9
+B,06:45,06:59,Malabia,35
+B,06:45,06:59,Federico Lacroze,159
+A,06:45,06:59,Castro Barros,9
+A,06:45,06:59,Flores,16
+B,06:45,06:59,Angel Gallardo,25
+D,06:45,06:59,Olleros,13
+E,06:45,06:59,Pichincha,7
+B,06:45,06:59,Leandro N. Alem,91
+D,06:45,06:59,Callao.,18
+E,06:45,06:59,San Jose,7
+D,06:45,06:59,9 de julio,18
+E,06:45,06:59,Jose Maria Moreno,8
+B,06:45,06:59,Pasteur,21
+D,06:45,06:59,Catedral,29
+D,06:45,06:59,Plaza Italia,20
+A,06:45,06:59,Carabobo,20
+D,06:45,06:59,Aguero,15
+E,06:45,06:59,Urquiza,2
+E,06:45,06:59,Medalla Milagrosa,3
+D,06:45,06:59,Ministro Carranza,17
+B,06:45,06:59,Dorrego,16
+A,06:45,06:59,Acoyte,17
+D,06:45,06:59,Jose Hernandez,17
+B,06:45,06:59,Pueyrredon,19
+C,06:45,06:59,Independencia,13
+A,06:45,06:59,Puan,10
+H,06:45,06:59,Patricios,21
+E,06:45,06:59,Independencia.,7
+B,06:45,06:59,Carlos Pellegrini,36
+E,06:45,06:59,Boedo,10
+B,06:45,06:59,Tronador,7
+E,06:45,06:59,Entre Rios,24
+H,06:45,06:59,Humberto I,11
+A,06:45,06:59,San Pedrito,88
+A,06:45,06:59,Piedras,4
+D,06:45,06:59,Congreso de Tucuman,64
+A,06:45,06:59,Primera Junta,37
+H,06:45,06:59,Corrientes,9
+C,06:45,06:59,Mariano Moreno,16
+B,06:45,06:59,Rosas,53
+D,06:45,06:59,Pueyrredon.,12
+D,06:45,06:59,Juramento,18
+B,06:45,06:59,Callao,31
+D,06:45,06:59,Bulnes,22
+A,06:45,06:59,Pasco,3
+C,06:45,06:59,Avenida de Mayo,12
+C,06:45,06:59,Constitucion,1191
+H,06:45,06:59,Caseros,11
+A,06:45,06:59,Plaza Miserere,30
+H,06:45,06:59,Hospitales,25
+B,06:45,06:59,Echeverria,27
+E,06:45,06:59,Bolivar,8
+B,06:45,06:59,Los Incas,35
+D,06:45,06:59,Palermo,25
+H,06:45,06:59,Once,14
+D,06:45,06:59,Scalabrini Ortiz,25
+A,06:45,06:59,Saenz Peña,8
+E,07:00,07:14,Jose Maria Moreno,9
+E,07:00,07:14,Boedo,15
+C,07:00,07:14,General San Martin,10
+D,07:00,07:14,Ministro Carranza,14
+B,07:00,07:14,Florida,14
+C,07:00,07:14,Diagonal Norte,3
+D,07:00,07:14,Bulnes,17
+H,07:00,07:14,Once,16
+B,07:00,07:14,Medrano,36
+E,07:00,07:14,Avenida La Plata,9
+A,07:00,07:14,Primera Junta,46
+B,07:00,07:14,Pasteur,18
+A,07:00,07:14,Plaza Miserere,56
+C,07:00,07:14,Retiro,155
+B,07:00,07:14,Echeverria,26
+E,07:00,07:14,Pichincha,14
+E,07:00,07:14,Pza. de los Virreyes,117
+B,07:00,07:14,Tronador,18
+E,07:00,07:14,Jujuy,13
+D,07:00,07:14,Plaza Italia,24
+A,07:00,07:14,Acoyte,45
+A,07:00,07:14,Puan,13
+D,07:00,07:14,Scalabrini Ortiz,17
+H,07:00,07:14,Inclan,18
+E,07:00,07:14,Bolivar,7
+H,07:00,07:14,Patricios,22
+A,07:00,07:14,Congreso,16
+B,07:00,07:14,Angel Gallardo,31
+B,07:00,07:14,Los Incas,54
+A,07:00,07:14,Alberti,8
+D,07:00,07:14,Callao.,15
+B,07:00,07:14,Rosas,109
+D,07:00,07:14,Catedral,42
+D,07:00,07:14,Pueyrredon.,25
+A,07:00,07:14,Lima,10
+A,07:00,07:14,Rio de Janeiro,20
+B,07:00,07:14,Uruguay,12
+E,07:00,07:14,San Jose,4
+A,07:00,07:14,Peru,5
+E,07:00,07:14,Varela,18
+A,07:00,07:14,Flores,22
+C,07:00,07:14,Avenida de Mayo,15
+H,07:00,07:14,Caseros,15
+B,07:00,07:14,Carlos Gardel,14
+C,07:00,07:14,San Juan,14
+A,07:00,07:14,Saenz Peña,4
+D,07:00,07:14,Facultad de Medicina,17
+D,07:00,07:14,Juramento,27
+D,07:00,07:14,Jose Hernandez,29
+B,07:00,07:14,Dorrego,22
+E,07:00,07:14,Urquiza,13
+D,07:00,07:14,Palermo,37
+D,07:00,07:14,Olleros,32
+A,07:00,07:14,Plaza de Mayo,28
+A,07:00,07:14,Pasco,4
+C,07:00,07:14,Mariano Moreno,9
+D,07:00,07:14,Aguero,15
+H,07:00,07:14,Venezuela,11
+E,07:00,07:14,Medalla Milagrosa,9
+B,07:00,07:14,Pueyrredon,17
+E,07:00,07:14,General Belgrano,5
+D,07:00,07:14,Tribunales,8
+B,07:00,07:14,Callao,37
+E,07:00,07:14,Emilio Mitre,14
+A,07:00,07:14,Loria,20
+H,07:00,07:14,Hospitales,46
+A,07:00,07:14,Castro Barros,16
+E,07:00,07:14,Entre Rios,36
+B,07:00,07:14,Malabia,47
+C,07:00,07:14,Constitucion,1155
+E,07:00,07:14,Independencia.,17
+A,07:00,07:14,Carabobo,38
+H,07:00,07:14,Corrientes,6
+H,07:00,07:14,Humberto I,6
+D,07:00,07:14,Congreso de Tucuman,102
+A,07:00,07:14,San Pedrito,107
+B,07:00,07:14,Leandro N. Alem,132
+C,07:00,07:14,Independencia,26
+B,07:00,07:14,Carlos Pellegrini,50
+A,07:00,07:14,Piedras,9
+D,07:00,07:14,9 de julio,31
+B,07:00,07:14,Federico Lacroze,281
+C,07:00,07:14,Lavalle,16
+A,07:15,07:29,Acoyte,45
+A,07:15,07:29,Pasco,7
+B,07:15,07:29,Florida,12
+B,07:15,07:29,Malabia,86
+C,07:15,07:29,Mariano Moreno,5
+D,07:15,07:29,Bulnes,26
+D,07:15,07:29,Juramento,42
+B,07:15,07:29,Dorrego,34
+C,07:15,07:29,General San Martin,18
+E,07:15,07:29,Emilio Mitre,28
+B,07:15,07:29,Tronador,21
+B,07:15,07:29,Carlos Pellegrini,73
+B,07:15,07:29,Callao,36
+H,07:15,07:29,Caseros,24
+D,07:15,07:29,Ministro Carranza,16
+C,07:15,07:29,Retiro,331
+A,07:15,07:29,Puan,24
+A,07:15,07:29,Alberti,6
+H,07:15,07:29,Corrientes,9
+D,07:15,07:29,Catedral,51
+E,07:15,07:29,Varela,17
+E,07:15,07:29,Independencia.,20
+B,07:15,07:29,Carlos Gardel,30
+H,07:15,07:29,Once,27
+D,07:15,07:29,Scalabrini Ortiz,26
+E,07:15,07:29,Bolivar,17
+A,07:15,07:29,Lima,12
+A,07:15,07:29,Castro Barros,17
+E,07:15,07:29,Pza. de los Virreyes,135
+B,07:15,07:29,Los Incas,59
+E,07:15,07:29,Entre Rios,23
+A,07:15,07:29,San Pedrito,229
+D,07:15,07:29,Palermo,54
+H,07:15,07:29,Inclan,19
+E,07:15,07:29,San Jose,13
+C,07:15,07:29,Diagonal Norte,7
+B,07:15,07:29,Echeverria,40
+B,07:15,07:29,Federico Lacroze,338
+B,07:15,07:29,Pueyrredon,44
+A,07:15,07:29,Rio de Janeiro,30
+D,07:15,07:29,9 de julio,31
+D,07:15,07:29,Jose Hernandez,37
+D,07:15,07:29,Pueyrredon.,27
+B,07:15,07:29,Rosas,209
+H,07:15,07:29,Humberto I,13
+A,07:15,07:29,Piedras,8
+A,07:15,07:29,Peru,2
+E,07:15,07:29,Jose Maria Moreno,27
+D,07:15,07:29,Congreso de Tucuman,182
+A,07:15,07:29,Primera Junta,65
+H,07:15,07:29,Hospitales,47
+H,07:15,07:29,Venezuela,26
+C,07:15,07:29,Independencia,29
+A,07:15,07:29,Loria,17
+D,07:15,07:29,Tribunales,11
+D,07:15,07:29,Callao.,20
+C,07:15,07:29,Avenida de Mayo,12
+C,07:15,07:29,San Juan,23
+D,07:15,07:29,Olleros,35
+C,07:15,07:29,Lavalle,12
+E,07:15,07:29,General Belgrano,2
+A,07:15,07:29,Flores,38
+B,07:15,07:29,Pasteur,31
+E,07:15,07:29,Pichincha,15
+D,07:15,07:29,Plaza Italia,20
+A,07:15,07:29,Plaza Miserere,90
+E,07:15,07:29,Urquiza,13
+B,07:15,07:29,Angel Gallardo,55
+E,07:15,07:29,Medalla Milagrosa,20
+B,07:15,07:29,Uruguay,30
+E,07:15,07:29,Avenida La Plata,27
+D,07:15,07:29,Aguero,33
+A,07:15,07:29,Congreso,23
+A,07:15,07:29,Carabobo,57
+A,07:15,07:29,Plaza de Mayo,41
+B,07:15,07:29,Medrano,50
+E,07:15,07:29,Jujuy,9
+A,07:15,07:29,Saenz Peña,13
+E,07:15,07:29,Boedo,18
+C,07:15,07:29,Constitucion,1787
+D,07:15,07:29,Facultad de Medicina,23
+B,07:15,07:29,Leandro N. Alem,170
+H,07:15,07:29,Patricios,38
+A,07:30,07:44,Lima,17
+B,07:30,07:44,Pueyrredon,70
+A,07:30,07:44,Primera Junta,72
+A,07:30,07:44,Congreso,27
+D,07:30,07:44,9 de julio,37
+B,07:30,07:44,Echeverria,43
+B,07:30,07:44,Los Incas,89
+H,07:30,07:44,Corrientes,7
+A,07:30,07:44,Acoyte,65
+B,07:30,07:44,Malabia,94
+A,07:30,07:44,Puan,36
+D,07:30,07:44,Aguero,36
+D,07:30,07:44,Tribunales,14
+B,07:30,07:44,Carlos Pellegrini,87
+E,07:30,07:44,Jose Maria Moreno,21
+C,07:30,07:44,Mariano Moreno,11
+B,07:30,07:44,Dorrego,53
+D,07:30,07:44,Congreso de Tucuman,206
+B,07:30,07:44,Medrano,67
+A,07:30,07:44,Loria,27
+B,07:30,07:44,Leandro N. Alem,171
+E,07:30,07:44,Urquiza,21
+B,07:30,07:44,Carlos Gardel,30
+D,07:30,07:44,Palermo,45
+C,07:30,07:44,Constitucion,1401
+A,07:30,07:44,Piedras,9
+H,07:30,07:44,Humberto I,20
+E,07:30,07:44,Medalla Milagrosa,16
+A,07:30,07:44,Carabobo,75
+A,07:30,07:44,Saenz Peña,15
+E,07:30,07:44,Jujuy,12
+E,07:30,07:44,General Belgrano,7
+D,07:30,07:44,Jose Hernandez,52
+E,07:30,07:44,Entre Rios,33
+B,07:30,07:44,Uruguay,26
+B,07:30,07:44,Rosas,212
+C,07:30,07:44,Independencia,35
+D,07:30,07:44,Facultad de Medicina,29
+H,07:30,07:44,Caseros,29
+B,07:30,07:44,Angel Gallardo,60
+A,07:30,07:44,Rio de Janeiro,33
+C,07:30,07:44,General San Martin,17
+D,07:30,07:44,Juramento,53
+C,07:30,07:44,San Juan,23
+E,07:30,07:44,Bolivar,14
+H,07:30,07:44,Hospitales,46
+A,07:30,07:44,Plaza de Mayo,22
+A,07:30,07:44,Flores,48
+D,07:30,07:44,Callao.,28
+E,07:30,07:44,San Jose,7
+E,07:30,07:44,Independencia.,22
+B,07:30,07:44,Federico Lacroze,304
+C,07:30,07:44,Retiro,317
+D,07:30,07:44,Scalabrini Ortiz,52
+A,07:30,07:44,Peru,7
+B,07:30,07:44,Pasteur,26
+D,07:30,07:44,Ministro Carranza,31
+D,07:30,07:44,Olleros,22
+A,07:30,07:44,Pasco,7
+B,07:30,07:44,Florida,18
+A,07:30,07:44,Castro Barros,29
+H,07:30,07:44,Venezuela,20
+B,07:30,07:44,Callao,44
+H,07:30,07:44,Patricios,58
+C,07:30,07:44,Lavalle,9
+E,07:30,07:44,Pichincha,18
+C,07:30,07:44,Diagonal Norte,3
+A,07:30,07:44,Plaza Miserere,86
+E,07:30,07:44,Emilio Mitre,23
+A,07:30,07:44,Alberti,9
+H,07:30,07:44,Once,32
+E,07:30,07:44,Boedo,27
+D,07:30,07:44,Plaza Italia,23
+D,07:30,07:44,Bulnes,39
+E,07:30,07:44,Avenida La Plata,27
+E,07:30,07:44,Pza. de los Virreyes,144
+A,07:30,07:44,San Pedrito,199
+E,07:30,07:44,Varela,21
+H,07:30,07:44,Inclan,25
+C,07:30,07:44,Avenida de Mayo,26
+B,07:30,07:44,Tronador,21
+D,07:30,07:44,Catedral,56
+D,07:30,07:44,Pueyrredon.,31
+E,07:45,07:59,Avenida La Plata,38
+D,07:45,07:59,Scalabrini Ortiz,36
+A,07:45,07:59,Alberti,16
+A,07:45,07:59,Plaza de Mayo,46
+B,07:45,07:59,Carlos Gardel,43
+E,07:45,07:59,Jujuy,21
+B,07:45,07:59,Angel Gallardo,82
+D,07:45,07:59,9 de julio,45
+D,07:45,07:59,Juramento,70
+D,07:45,07:59,Catedral,54
+A,07:45,07:59,Flores,45
+B,07:45,07:59,Leandro N. Alem,158
+B,07:45,07:59,Echeverria,50
+H,07:45,07:59,Hospitales,59
+C,07:45,07:59,San Juan,32
+D,07:45,07:59,Olleros,36
+H,07:45,07:59,Once,33
+B,07:45,07:59,Federico Lacroze,364
+D,07:45,07:59,Tribunales,23
+D,07:45,07:59,Jose Hernandez,41
+A,07:45,07:59,Pasco,11
+A,07:45,07:59,Peru,8
+A,07:45,07:59,Saenz Peña,10
+A,07:45,07:59,Lima,26
+H,07:45,07:59,Venezuela,19
+B,07:45,07:59,Malabia,117
+H,07:45,07:59,Patricios,32
+E,07:45,07:59,Entre Rios,34
+D,07:45,07:59,Plaza Italia,32
+E,07:45,07:59,General Belgrano,4
+B,07:45,07:59,Dorrego,65
+C,07:45,07:59,Retiro,277
+C,07:45,07:59,Constitucion,1224
+B,07:45,07:59,Los Incas,110
+E,07:45,07:59,San Jose,12
+A,07:45,07:59,Rio de Janeiro,36
+A,07:45,07:59,San Pedrito,253
+A,07:45,07:59,Piedras,3
+A,07:45,07:59,Loria,29
+C,07:45,07:59,Avenida de Mayo,15
+B,07:45,07:59,Carlos Pellegrini,74
+B,07:45,07:59,Rosas,260
+A,07:45,07:59,Congreso,29
+B,07:45,07:59,Tronador,31
+D,07:45,07:59,Aguero,39
+E,07:45,07:59,Independencia.,25
+D,07:45,07:59,Pueyrredon.,48
+E,07:45,07:59,Jose Maria Moreno,16
+B,07:45,07:59,Florida,12
+E,07:45,07:59,Medalla Milagrosa,10
+A,07:45,07:59,Acoyte,46
+E,07:45,07:59,Urquiza,17
+H,07:45,07:59,Inclan,16
+A,07:45,07:59,Plaza Miserere,125
+D,07:45,07:59,Ministro Carranza,42
+H,07:45,07:59,Humberto I,32
+A,07:45,07:59,Carabobo,55
+D,07:45,07:59,Palermo,57
+E,07:45,07:59,Pichincha,17
+E,07:45,07:59,Varela,24
+D,07:45,07:59,Facultad de Medicina,32
+C,07:45,07:59,Lavalle,11
+E,07:45,07:59,Boedo,27
+H,07:45,07:59,Caseros,23
+B,07:45,07:59,Pasteur,32
+B,07:45,07:59,Callao,59
+A,07:45,07:59,Puan,23
+C,07:45,07:59,General San Martin,9
+C,07:45,07:59,Diagonal Norte,11
+H,07:45,07:59,Corrientes,12
+C,07:45,07:59,Mariano Moreno,11
+E,07:45,07:59,Emilio Mitre,28
+E,07:45,07:59,Pza. de los Virreyes,131
+C,07:45,07:59,Independencia,40
+B,07:45,07:59,Uruguay,40
+B,07:45,07:59,Pueyrredon,60
+A,07:45,07:59,Castro Barros,26
+E,07:45,07:59,Bolivar,10
+D,07:45,07:59,Congreso de Tucuman,218
+A,07:45,07:59,Primera Junta,70
+B,07:45,07:59,Medrano,84
+D,07:45,07:59,Bulnes,36
+D,07:45,07:59,Callao.,33
+B,08:00,08:14,Los Incas,122
+D,08:00,08:14,Catedral,74
+H,08:00,08:14,Humberto I,24
+C,08:00,08:14,Constitucion,1073
+A,08:00,08:14,San Pedrito,359
+D,08:00,08:14,Tribunales,16
+A,08:00,08:14,Castro Barros,30
+C,08:00,08:14,Mariano Moreno,17
+E,08:00,08:14,General Belgrano,6
+B,08:00,08:14,Pueyrredon,63
+A,08:00,08:14,Lima,29
+D,08:00,08:14,Juramento,84
+E,08:00,08:14,Urquiza,25
+B,08:00,08:14,Callao,66
+D,08:00,08:14,Facultad de Medicina,29
+A,08:00,08:14,Congreso,25
+C,08:00,08:14,Lavalle,19
+E,08:00,08:14,Avenida La Plata,40
+H,08:00,08:14,Patricios,48
+E,08:00,08:14,Pichincha,24
+D,08:00,08:14,Ministro Carranza,48
+B,08:00,08:14,Leandro N. Alem,172
+H,08:00,08:14,Corrientes,10
+D,08:00,08:14,Callao.,28
+A,08:00,08:14,Peru,8
+E,08:00,08:14,Entre Rios,30
+E,08:00,08:14,Medalla Milagrosa,20
+A,08:00,08:14,Plaza Miserere,86
+B,08:00,08:14,Dorrego,68
+B,08:00,08:14,Medrano,88
+E,08:00,08:14,Jujuy,13
+B,08:00,08:14,Tronador,39
+A,08:00,08:14,Primera Junta,106
+H,08:00,08:14,Inclan,24
+B,08:00,08:14,Malabia,128
+D,08:00,08:14,Jose Hernandez,65
+B,08:00,08:14,Echeverria,61
+C,08:00,08:14,San Juan,30
+A,08:00,08:14,Pasco,8
+A,08:00,08:14,Alberti,10
+A,08:00,08:14,Puan,36
+A,08:00,08:14,Flores,86
+D,08:00,08:14,Pueyrredon.,38
+H,08:00,08:14,Caseros,33
+D,08:00,08:14,Aguero,62
+C,08:00,08:14,Retiro,236
+E,08:00,08:14,Boedo,29
+A,08:00,08:14,Acoyte,73
+E,08:00,08:14,Varela,39
+B,08:00,08:14,Carlos Pellegrini,82
+E,08:00,08:14,Bolivar,11
+D,08:00,08:14,Plaza Italia,35
+B,08:00,08:14,Angel Gallardo,104
+D,08:00,08:14,Scalabrini Ortiz,57
+H,08:00,08:14,Once,33
+H,08:00,08:14,Hospitales,82
+C,08:00,08:14,Independencia,33
+B,08:00,08:14,Uruguay,22
+D,08:00,08:14,Congreso de Tucuman,343
+B,08:00,08:14,Carlos Gardel,55
+C,08:00,08:14,Avenida de Mayo,28
+E,08:00,08:14,Independencia.,24
+A,08:00,08:14,Saenz Peña,13
+B,08:00,08:14,Florida,15
+D,08:00,08:14,9 de julio,32
+A,08:00,08:14,Rio de Janeiro,37
+H,08:00,08:14,Venezuela,19
+E,08:00,08:14,Pza. de los Virreyes,192
+E,08:00,08:14,Emilio Mitre,42
+E,08:00,08:14,Jose Maria Moreno,32
+D,08:00,08:14,Olleros,50
+C,08:00,08:14,General San Martin,14
+D,08:00,08:14,Bulnes,48
+B,08:00,08:14,Rosas,261
+A,08:00,08:14,Plaza de Mayo,36
+A,08:00,08:14,Piedras,6
+A,08:00,08:14,Carabobo,94
+E,08:00,08:14,San Jose,13
+A,08:00,08:14,Loria,24
+C,08:00,08:14,Diagonal Norte,3
+D,08:00,08:14,Palermo,61
+B,08:00,08:14,Federico Lacroze,493
+B,08:00,08:14,Pasteur,51
+D,08:15,08:29,Palermo,76
+D,08:15,08:29,Ministro Carranza,58
+E,08:15,08:29,General Belgrano,6
+E,08:15,08:29,Boedo,36
+C,08:15,08:29,Retiro,296
+H,08:15,08:29,Venezuela,40
+E,08:15,08:29,Pichincha,21
+E,08:15,08:29,Bolivar,18
+D,08:15,08:29,Scalabrini Ortiz,70
+A,08:15,08:29,Acoyte,98
+C,08:15,08:29,Avenida de Mayo,21
+E,08:15,08:29,Emilio Mitre,59
+B,08:15,08:29,Florida,20
+H,08:15,08:29,Patricios,68
+B,08:15,08:29,Rosas,364
+H,08:15,08:29,Once,25
+B,08:15,08:29,Tronador,35
+D,08:15,08:29,Pueyrredon.,50
+C,08:15,08:29,Mariano Moreno,16
+A,08:15,08:29,Primera Junta,111
+D,08:15,08:29,Congreso de Tucuman,321
+A,08:15,08:29,Saenz Peña,23
+D,08:15,08:29,Juramento,123
+D,08:15,08:29,Facultad de Medicina,61
+A,08:15,08:29,Pasco,10
+D,08:15,08:29,Bulnes,73
+H,08:15,08:29,Caseros,49
+A,08:15,08:29,Congreso,32
+C,08:15,08:29,Constitucion,1718
+H,08:15,08:29,Inclan,28
+E,08:15,08:29,Jujuy,17
+B,08:15,08:29,Carlos Pellegrini,96
+B,08:15,08:29,Pueyrredon,67
+E,08:15,08:29,Entre Rios,45
+H,08:15,08:29,Humberto I,11
+A,08:15,08:29,Piedras,10
+C,08:15,08:29,Lavalle,11
+E,08:15,08:29,Pza. de los Virreyes,230
+E,08:15,08:29,Avenida La Plata,38
+A,08:15,08:29,Loria,35
+A,08:15,08:29,Plaza Miserere,140
+D,08:15,08:29,Catedral,61
+B,08:15,08:29,Callao,56
+H,08:15,08:29,Hospitales,70
+B,08:15,08:29,Echeverria,96
+A,08:15,08:29,Plaza de Mayo,51
+H,08:15,08:29,Corrientes,13
+E,08:15,08:29,Varela,35
+B,08:15,08:29,Los Incas,166
+D,08:15,08:29,Tribunales,19
+C,08:15,08:29,San Juan,30
+B,08:15,08:29,Dorrego,80
+E,08:15,08:29,Urquiza,31
+E,08:15,08:29,Medalla Milagrosa,21
+D,08:15,08:29,Aguero,62
+A,08:15,08:29,Flores,100
+C,08:15,08:29,General San Martin,24
+B,08:15,08:29,Angel Gallardo,122
+B,08:15,08:29,Pasteur,41
+D,08:15,08:29,Callao.,58
+B,08:15,08:29,Medrano,94
+B,08:15,08:29,Leandro N. Alem,185
+A,08:15,08:29,San Pedrito,397
+B,08:15,08:29,Malabia,173
+E,08:15,08:29,Independencia.,27
+A,08:15,08:29,Lima,14
+A,08:15,08:29,Puan,63
+A,08:15,08:29,Alberti,10
+E,08:15,08:29,San Jose,16
+A,08:15,08:29,Rio de Janeiro,61
+D,08:15,08:29,Plaza Italia,58
+A,08:15,08:29,Carabobo,91
+C,08:15,08:29,Diagonal Norte,8
+A,08:15,08:29,Peru,7
+B,08:15,08:29,Federico Lacroze,512
+A,08:15,08:29,Castro Barros,40
+B,08:15,08:29,Carlos Gardel,45
+B,08:15,08:29,Uruguay,24
+D,08:15,08:29,9 de julio,37
+C,08:15,08:29,Independencia,36
+E,08:15,08:29,Jose Maria Moreno,34
+D,08:15,08:29,Jose Hernandez,81
+D,08:15,08:29,Olleros,75
+B,08:30,08:44,Angel Gallardo,156
+A,08:30,08:44,Plaza de Mayo,48
+D,08:30,08:44,9 de julio,30
+E,08:30,08:44,Medalla Milagrosa,24
+D,08:30,08:44,Tribunales,14
+B,08:30,08:44,Callao,70
+D,08:30,08:44,Palermo,87
+B,08:30,08:44,Pasteur,71
+A,08:30,08:44,San Pedrito,299
+B,08:30,08:44,Federico Lacroze,598
+C,08:30,08:44,Constitucion,1781
+B,08:30,08:44,Medrano,126
+H,08:30,08:44,Humberto I,27
+E,08:30,08:44,Bolivar,16
+D,08:30,08:44,Olleros,90
+D,08:30,08:44,Juramento,130
+E,08:30,08:44,Urquiza,36
+D,08:30,08:44,Callao.,71
+B,08:30,08:44,Pueyrredon,110
+A,08:30,08:44,Carabobo,96
+D,08:30,08:44,Plaza Italia,62
+E,08:30,08:44,General Belgrano,6
+H,08:30,08:44,Corrientes,19
+D,08:30,08:44,Scalabrini Ortiz,103
+A,08:30,08:44,Acoyte,93
+C,08:30,08:44,Retiro,511
+B,08:30,08:44,Carlos Gardel,75
+A,08:30,08:44,Primera Junta,113
+C,08:30,08:44,Independencia,39
+A,08:30,08:44,Pasco,14
+E,08:30,08:44,San Jose,24
+A,08:30,08:44,Castro Barros,70
+D,08:30,08:44,Ministro Carranza,74
+H,08:30,08:44,Hospitales,75
+B,08:30,08:44,Dorrego,84
+E,08:30,08:44,Independencia.,29
+E,08:30,08:44,Jujuy,20
+E,08:30,08:44,Pza. de los Virreyes,131
+A,08:30,08:44,Puan,48
+A,08:30,08:44,Saenz Peña,27
+A,08:30,08:44,Lima,15
+B,08:30,08:44,Los Incas,129
+C,08:30,08:44,Diagonal Norte,18
+A,08:30,08:44,Rio de Janeiro,70
+E,08:30,08:44,Avenida La Plata,36
+D,08:30,08:44,Congreso de Tucuman,344
+B,08:30,08:44,Rosas,304
+H,08:30,08:44,Venezuela,36
+C,08:30,08:44,Avenida de Mayo,14
+D,08:30,08:44,Jose Hernandez,83
+A,08:30,08:44,Alberti,28
+H,08:30,08:44,Patricios,60
+A,08:30,08:44,Piedras,8
+A,08:30,08:44,Loria,38
+E,08:30,08:44,Varela,27
+D,08:30,08:44,Pueyrredon.,83
+C,08:30,08:44,General San Martin,11
+H,08:30,08:44,Inclan,36
+E,08:30,08:44,Pichincha,26
+B,08:30,08:44,Tronador,49
+D,08:30,08:44,Catedral,94
+B,08:30,08:44,Malabia,196
+E,08:30,08:44,Jose Maria Moreno,53
+H,08:30,08:44,Caseros,42
+C,08:30,08:44,Lavalle,10
+A,08:30,08:44,Peru,11
+D,08:30,08:44,Aguero,86
+B,08:30,08:44,Echeverria,77
+A,08:30,08:44,Congreso,35
+B,08:30,08:44,Carlos Pellegrini,92
+D,08:30,08:44,Bulnes,91
+E,08:30,08:44,Boedo,44
+E,08:30,08:44,Entre Rios,20
+A,08:30,08:44,Flores,96
+D,08:30,08:44,Facultad de Medicina,44
+C,08:30,08:44,San Juan,45
+B,08:30,08:44,Uruguay,41
+B,08:30,08:44,Leandro N. Alem,175
+E,08:30,08:44,Emilio Mitre,47
+A,08:30,08:44,Plaza Miserere,108
+C,08:30,08:44,Mariano Moreno,12
+B,08:30,08:44,Florida,26
+H,08:30,08:44,Once,27
+B,08:45,08:59,Medrano,119
+D,08:45,08:59,9 de julio,30
+A,08:45,08:59,Rio de Janeiro,67
+E,08:45,08:59,Boedo,48
+H,08:45,08:59,Caseros,36
+H,08:45,08:59,Hospitales,43
+C,08:45,08:59,Diagonal Norte,12
+C,08:45,08:59,San Juan,39
+C,08:45,08:59,Retiro,355
+D,08:45,08:59,Tribunales,19
+D,08:45,08:59,Jose Hernandez,58
+E,08:45,08:59,Independencia.,23
+A,08:45,08:59,Loria,44
+A,08:45,08:59,Plaza de Mayo,47
+C,08:45,08:59,Lavalle,13
+B,08:45,08:59,Callao,77
+H,08:45,08:59,Corrientes,16
+A,08:45,08:59,Alberti,18
+E,08:45,08:59,Jose Maria Moreno,31
+D,08:45,08:59,Aguero,79
+E,08:45,08:59,San Jose,20
+E,08:45,08:59,Medalla Milagrosa,25
+C,08:45,08:59,Avenida de Mayo,27
+C,08:45,08:59,Independencia,37
+C,08:45,08:59,General San Martin,25
+D,08:45,08:59,Ministro Carranza,70
+E,08:45,08:59,Jujuy,25
+B,08:45,08:59,Carlos Gardel,60
+B,08:45,08:59,Florida,23
+A,08:45,08:59,Piedras,13
+E,08:45,08:59,Urquiza,21
+A,08:45,08:59,Acoyte,96
+B,08:45,08:59,Dorrego,70
+D,08:45,08:59,Pueyrredon.,66
+A,08:45,08:59,Carabobo,90
+D,08:45,08:59,Palermo,67
+B,08:45,08:59,Echeverria,55
+B,08:45,08:59,Rosas,236
+B,08:45,08:59,Uruguay,35
+H,08:45,08:59,Humberto I,10
+A,08:45,08:59,Primera Junta,72
+D,08:45,08:59,Catedral,69
+E,08:45,08:59,General Belgrano,7
+E,08:45,08:59,Entre Rios,37
+B,08:45,08:59,Los Incas,90
+E,08:45,08:59,Bolivar,17
+A,08:45,08:59,San Pedrito,185
+A,08:45,08:59,Flores,69
+D,08:45,08:59,Facultad de Medicina,49
+E,08:45,08:59,Emilio Mitre,37
+B,08:45,08:59,Angel Gallardo,110
+B,08:45,08:59,Federico Lacroze,403
+D,08:45,08:59,Juramento,100
+B,08:45,08:59,Carlos Pellegrini,69
+A,08:45,08:59,Plaza Miserere,110
+B,08:45,08:59,Pasteur,62
+A,08:45,08:59,Saenz Peña,23
+D,08:45,08:59,Callao.,47
+A,08:45,08:59,Lima,24
+A,08:45,08:59,Castro Barros,68
+D,08:45,08:59,Congreso de Tucuman,287
+D,08:45,08:59,Scalabrini Ortiz,89
+D,08:45,08:59,Olleros,60
+B,08:45,08:59,Tronador,47
+B,08:45,08:59,Leandro N. Alem,129
+A,08:45,08:59,Puan,40
+E,08:45,08:59,Varela,18
+A,08:45,08:59,Pasco,15
+A,08:45,08:59,Congreso,43
+E,08:45,08:59,Avenida La Plata,37
+A,08:45,08:59,Peru,11
+D,08:45,08:59,Plaza Italia,34
+D,08:45,08:59,Bulnes,88
+E,08:45,08:59,Pichincha,19
+H,08:45,08:59,Patricios,46
+E,08:45,08:59,Pza. de los Virreyes,91
+H,08:45,08:59,Once,35
+B,08:45,08:59,Malabia,170
+C,08:45,08:59,Mariano Moreno,14
+H,08:45,08:59,Inclan,28
+H,08:45,08:59,Venezuela,35
+B,08:45,08:59,Pueyrredon,93
+C,08:45,08:59,Constitucion,1160
+A,09:00,09:14,Congreso,56
+H,09:00,09:14,Corrientes,10
+H,09:00,09:14,Caseros,17
+D,09:00,09:14,Facultad de Medicina,46
+C,09:00,09:14,Independencia,29
+D,09:00,09:14,Scalabrini Ortiz,84
+B,09:00,09:14,Tronador,43
+B,09:00,09:14,Carlos Pellegrini,90
+D,09:00,09:14,Bulnes,91
+A,09:00,09:14,Acoyte,89
+D,09:00,09:14,Juramento,107
+E,09:00,09:14,Varela,23
+C,09:00,09:14,Avenida de Mayo,19
+E,09:00,09:14,Jose Maria Moreno,33
+D,09:00,09:14,9 de julio,63
+D,09:00,09:14,Palermo,75
+E,09:00,09:14,General Belgrano,8
+A,09:00,09:14,San Pedrito,205
+A,09:00,09:14,Puan,56
+A,09:00,09:14,Rio de Janeiro,67
+E,09:00,09:14,San Jose,16
+A,09:00,09:14,Saenz Peña,19
+D,09:00,09:14,Plaza Italia,73
+A,09:00,09:14,Peru,13
+D,09:00,09:14,Catedral,81
+C,09:00,09:14,Retiro,268
+E,09:00,09:14,Avenida La Plata,41
+B,09:00,09:14,Uruguay,40
+C,09:00,09:14,General San Martin,20
+H,09:00,09:14,Hospitales,54
+B,09:00,09:14,Carlos Gardel,52
+D,09:00,09:14,Ministro Carranza,48
+H,09:00,09:14,Once,25
+A,09:00,09:14,Lima,36
+D,09:00,09:14,Aguero,69
+H,09:00,09:14,Patricios,43
+B,09:00,09:14,Medrano,100
+H,09:00,09:14,Inclan,21
+C,09:00,09:14,Mariano Moreno,22
+E,09:00,09:14,Medalla Milagrosa,16
+E,09:00,09:14,Urquiza,25
+D,09:00,09:14,Pueyrredon.,58
+B,09:00,09:14,Dorrego,78
+D,09:00,09:14,Olleros,67
+B,09:00,09:14,Rosas,234
+A,09:00,09:14,Alberti,25
+C,09:00,09:14,San Juan,40
+A,09:00,09:14,Primera Junta,97
+B,09:00,09:14,Leandro N. Alem,135
+E,09:00,09:14,Pza. de los Virreyes,64
+E,09:00,09:14,Boedo,44
+E,09:00,09:14,Independencia.,24
+C,09:00,09:14,Lavalle,11
+B,09:00,09:14,Echeverria,75
+E,09:00,09:14,Pichincha,15
+A,09:00,09:14,Flores,51
+A,09:00,09:14,Carabobo,75
+B,09:00,09:14,Callao,54
+H,09:00,09:14,Humberto I,23
+A,09:00,09:14,Piedras,8
+B,09:00,09:14,Angel Gallardo,113
+E,09:00,09:14,Entre Rios,41
+D,09:00,09:14,Congreso de Tucuman,269
+A,09:00,09:14,Plaza Miserere,96
+D,09:00,09:14,Tribunales,29
+D,09:00,09:14,Callao.,38
+B,09:00,09:14,Malabia,140
+C,09:00,09:14,Diagonal Norte,8
+B,09:00,09:14,Pueyrredon,90
+A,09:00,09:14,Castro Barros,40
+A,09:00,09:14,Loria,24
+E,09:00,09:14,Emilio Mitre,24
+C,09:00,09:14,Constitucion,900
+B,09:00,09:14,Florida,25
+A,09:00,09:14,Plaza de Mayo,33
+A,09:00,09:14,Pasco,21
+D,09:00,09:14,Jose Hernandez,69
+E,09:00,09:14,Jujuy,9
+B,09:00,09:14,Pasteur,30
+B,09:00,09:14,Federico Lacroze,465
+H,09:00,09:14,Venezuela,20
+E,09:00,09:14,Bolivar,16
+B,09:00,09:14,Los Incas,97
+A,09:15,09:29,Lima,11
+C,09:15,09:29,Diagonal Norte,17
+C,09:15,09:29,General San Martin,16
+A,09:15,09:29,Carabobo,62
+E,09:15,09:29,Independencia.,24
+H,09:15,09:29,Patricios,48
+H,09:15,09:29,Once,28
+B,09:15,09:29,Dorrego,69
+B,09:15,09:29,Callao,73
+D,09:15,09:29,Congreso de Tucuman,277
+A,09:15,09:29,Primera Junta,106
+H,09:15,09:29,Venezuela,32
+A,09:15,09:29,Peru,19
+A,09:15,09:29,Alberti,21
+A,09:15,09:29,Piedras,16
+A,09:15,09:29,Plaza de Mayo,41
+C,09:15,09:29,Avenida de Mayo,16
+B,09:15,09:29,Carlos Gardel,40
+H,09:15,09:29,Caseros,24
+C,09:15,09:29,Retiro,358
+E,09:15,09:29,Jujuy,17
+C,09:15,09:29,Lavalle,27
+D,09:15,09:29,Callao.,66
+H,09:15,09:29,Hospitales,28
+B,09:15,09:29,Leandro N. Alem,121
+H,09:15,09:29,Corrientes,14
+D,09:15,09:29,Olleros,74
+D,09:15,09:29,Ministro Carranza,82
+B,09:15,09:29,Carlos Pellegrini,91
+C,09:15,09:29,Constitucion,1405
+B,09:15,09:29,Medrano,107
+D,09:15,09:29,9 de julio,21
+B,09:15,09:29,Pueyrredon,71
+A,09:15,09:29,San Pedrito,190
+E,09:15,09:29,San Jose,11
+E,09:15,09:29,Medalla Milagrosa,19
+D,09:15,09:29,Catedral,61
+C,09:15,09:29,Independencia,45
+E,09:15,09:29,Varela,21
+D,09:15,09:29,Aguero,55
+A,09:15,09:29,Plaza Miserere,133
+E,09:15,09:29,Urquiza,19
+E,09:15,09:29,Emilio Mitre,26
+A,09:15,09:29,Flores,72
+A,09:15,09:29,Congreso,43
+B,09:15,09:29,Pasteur,53
+E,09:15,09:29,Boedo,31
+D,09:15,09:29,Jose Hernandez,76
+D,09:15,09:29,Scalabrini Ortiz,72
+D,09:15,09:29,Plaza Italia,54
+A,09:15,09:29,Saenz Peña,21
+D,09:15,09:29,Tribunales,31
+A,09:15,09:29,Loria,32
+E,09:15,09:29,Avenida La Plata,46
+D,09:15,09:29,Juramento,103
+B,09:15,09:29,Federico Lacroze,341
+H,09:15,09:29,Humberto I,24
+B,09:15,09:29,Echeverria,62
+A,09:15,09:29,Puan,54
+B,09:15,09:29,Uruguay,63
+C,09:15,09:29,San Juan,38
+C,09:15,09:29,Mariano Moreno,18
+A,09:15,09:29,Rio de Janeiro,57
+B,09:15,09:29,Tronador,27
+B,09:15,09:29,Los Incas,102
+E,09:15,09:29,Pza. de los Virreyes,101
+D,09:15,09:29,Pueyrredon.,66
+D,09:15,09:29,Facultad de Medicina,60
+E,09:15,09:29,Entre Rios,36
+B,09:15,09:29,Florida,33
+B,09:15,09:29,Malabia,138
+E,09:15,09:29,General Belgrano,7
+A,09:15,09:29,Pasco,30
+B,09:15,09:29,Rosas,162
+E,09:15,09:29,Jose Maria Moreno,40
+D,09:15,09:29,Palermo,88
+D,09:15,09:29,Bulnes,91
+E,09:15,09:29,Bolivar,14
+H,09:15,09:29,Inclan,22
+A,09:15,09:29,Acoyte,59
+E,09:15,09:29,Pichincha,20
+B,09:15,09:29,Angel Gallardo,104
+A,09:15,09:29,Castro Barros,74
+D,09:30,09:44,Aguero,61
+B,09:30,09:44,Pasteur,61
+B,09:30,09:44,Tronador,27
+A,09:30,09:44,Congreso,56
+B,09:30,09:44,Carlos Pellegrini,99
+B,09:30,09:44,Rosas,219
+A,09:30,09:44,Acoyte,55
+D,09:30,09:44,Pueyrredon.,102
+E,09:30,09:44,Entre Rios,34
+H,09:30,09:44,Venezuela,25
+B,09:30,09:44,Malabia,147
+B,09:30,09:44,Florida,42
+A,09:30,09:44,Piedras,16
+C,09:30,09:44,Diagonal Norte,14
+D,09:30,09:44,Bulnes,86
+H,09:30,09:44,Humberto I,19
+B,09:30,09:44,Leandro N. Alem,127
+D,09:30,09:44,Scalabrini Ortiz,77
+D,09:30,09:44,Ministro Carranza,45
+A,09:30,09:44,Castro Barros,58
+E,09:30,09:44,Varela,27
+E,09:30,09:44,Emilio Mitre,22
+B,09:30,09:44,Pueyrredon,79
+B,09:30,09:44,Echeverria,48
+B,09:30,09:44,Uruguay,49
+B,09:30,09:44,Los Incas,90
+C,09:30,09:44,Retiro,289
+H,09:30,09:44,Caseros,19
+B,09:30,09:44,Medrano,113
+A,09:30,09:44,Alberti,21
+A,09:30,09:44,Carabobo,54
+D,09:30,09:44,9 de julio,36
+A,09:30,09:44,Primera Junta,84
+D,09:30,09:44,Congreso de Tucuman,258
+E,09:30,09:44,Pichincha,19
+H,09:30,09:44,Patricios,28
+E,09:30,09:44,Jujuy,24
+D,09:30,09:44,Plaza Italia,49
+A,09:30,09:44,Lima,31
+H,09:30,09:44,Corrientes,18
+A,09:30,09:44,Peru,16
+C,09:30,09:44,Mariano Moreno,22
+A,09:30,09:44,Pasco,12
+H,09:30,09:44,Once,20
+E,09:30,09:44,San Jose,16
+D,09:30,09:44,Olleros,73
+A,09:30,09:44,Rio de Janeiro,63
+B,09:30,09:44,Carlos Gardel,67
+D,09:30,09:44,Juramento,93
+D,09:30,09:44,Catedral,105
+E,09:30,09:44,Pza. de los Virreyes,81
+E,09:30,09:44,Avenida La Plata,36
+D,09:30,09:44,Palermo,98
+A,09:30,09:44,Plaza Miserere,89
+E,09:30,09:44,Bolivar,15
+A,09:30,09:44,Puan,49
+B,09:30,09:44,Federico Lacroze,412
+E,09:30,09:44,General Belgrano,9
+E,09:30,09:44,Boedo,30
+C,09:30,09:44,Avenida de Mayo,18
+A,09:30,09:44,Flores,79
+E,09:30,09:44,Jose Maria Moreno,24
+E,09:30,09:44,Medalla Milagrosa,16
+C,09:30,09:44,San Juan,42
+C,09:30,09:44,Lavalle,35
+A,09:30,09:44,Plaza de Mayo,36
+D,09:30,09:44,Jose Hernandez,83
+B,09:30,09:44,Angel Gallardo,104
+E,09:30,09:44,Urquiza,21
+A,09:30,09:44,San Pedrito,176
+B,09:30,09:44,Dorrego,71
+C,09:30,09:44,Independencia,24
+D,09:30,09:44,Facultad de Medicina,66
+H,09:30,09:44,Hospitales,32
+C,09:30,09:44,Constitucion,1089
+C,09:30,09:44,General San Martin,36
+A,09:30,09:44,Saenz Peña,31
+D,09:30,09:44,Tribunales,33
+A,09:30,09:44,Loria,30
+E,09:30,09:44,Independencia.,30
+B,09:30,09:44,Callao,103
+D,09:30,09:44,Callao.,79
+H,09:30,09:44,Inclan,26
+D,09:45,09:59,Plaza Italia,64
+H,09:45,09:59,Inclan,32
+D,09:45,09:59,Aguero,70
+B,09:45,09:59,Tronador,30
+E,09:45,09:59,Entre Rios,44
+E,09:45,09:59,San Jose,13
+E,09:45,09:59,Independencia.,35
+E,09:45,09:59,Medalla Milagrosa,22
+A,09:45,09:59,Puan,36
+C,09:45,09:59,San Juan,40
+C,09:45,09:59,Avenida de Mayo,28
+D,09:45,09:59,Facultad de Medicina,64
+D,09:45,09:59,Olleros,79
+C,09:45,09:59,General San Martin,29
+A,09:45,09:59,Plaza de Mayo,55
+B,09:45,09:59,Carlos Pellegrini,107
+H,09:45,09:59,Humberto I,19
+C,09:45,09:59,Mariano Moreno,17
+C,09:45,09:59,Retiro,193
+A,09:45,09:59,Piedras,14
+E,09:45,09:59,General Belgrano,7
+A,09:45,09:59,Alberti,39
+D,09:45,09:59,Ministro Carranza,63
+B,09:45,09:59,Federico Lacroze,293
+H,09:45,09:59,Once,35
+H,09:45,09:59,Caseros,23
+H,09:45,09:59,Venezuela,14
+A,09:45,09:59,Rio de Janeiro,50
+A,09:45,09:59,Pasco,13
+A,09:45,09:59,Acoyte,71
+B,09:45,09:59,Uruguay,54
+D,09:45,09:59,Juramento,84
+H,09:45,09:59,Hospitales,38
+B,09:45,09:59,Dorrego,71
+A,09:45,09:59,Plaza Miserere,110
+D,09:45,09:59,Callao.,64
+B,09:45,09:59,Angel Gallardo,103
+B,09:45,09:59,Rosas,158
+E,09:45,09:59,Bolivar,15
+B,09:45,09:59,Medrano,118
+E,09:45,09:59,Urquiza,18
+D,09:45,09:59,Pueyrredon.,81
+E,09:45,09:59,Jujuy,19
+D,09:45,09:59,Bulnes,92
+C,09:45,09:59,Diagonal Norte,20
+H,09:45,09:59,Patricios,37
+D,09:45,09:59,9 de julio,27
+D,09:45,09:59,Jose Hernandez,79
+E,09:45,09:59,Pza. de los Virreyes,60
+E,09:45,09:59,Jose Maria Moreno,33
+H,09:45,09:59,Corrientes,17
+D,09:45,09:59,Palermo,70
+B,09:45,09:59,Florida,70
+E,09:45,09:59,Varela,6
+E,09:45,09:59,Emilio Mitre,23
+C,09:45,09:59,Independencia,29
+D,09:45,09:59,Tribunales,20
+A,09:45,09:59,Castro Barros,39
+D,09:45,09:59,Scalabrini Ortiz,84
+B,09:45,09:59,Pasteur,77
+B,09:45,09:59,Echeverria,52
+D,09:45,09:59,Congreso de Tucuman,197
+A,09:45,09:59,Primera Junta,78
+C,09:45,09:59,Lavalle,25
+C,09:45,09:59,Constitucion,682
+B,09:45,09:59,Leandro N. Alem,111
+B,09:45,09:59,Los Incas,90
+A,09:45,09:59,Peru,28
+B,09:45,09:59,Carlos Gardel,48
+D,09:45,09:59,Catedral,69
+B,09:45,09:59,Pueyrredon,89
+A,09:45,09:59,Congreso,59
+A,09:45,09:59,Loria,52
+A,09:45,09:59,Lima,47
+B,09:45,09:59,Callao,82
+A,09:45,09:59,San Pedrito,134
+B,09:45,09:59,Malabia,132
+E,09:45,09:59,Pichincha,13
+A,09:45,09:59,Saenz Peña,35
+E,09:45,09:59,Boedo,39
+A,09:45,09:59,Flores,65
+E,09:45,09:59,Avenida La Plata,31
+A,09:45,09:59,Carabobo,66
+C,10:00,10:14,Constitucion,893
+B,10:00,10:14,Malabia,148
+E,10:00,10:14,Urquiza,16
+D,10:00,10:14,Plaza Italia,58
+H,10:00,10:14,Venezuela,17
+B,10:00,10:14,Dorrego,44
+A,10:00,10:14,Lima,34
+A,10:00,10:14,Plaza Miserere,93
+B,10:00,10:14,Federico Lacroze,320
+B,10:00,10:14,Tronador,27
+E,10:00,10:14,Boedo,34
+A,10:00,10:14,Acoyte,85
+A,10:00,10:14,Saenz Peña,29
+E,10:00,10:14,Varela,10
+C,10:00,10:14,Lavalle,30
+H,10:00,10:14,Humberto I,23
+H,10:00,10:14,Inclan,21
+A,10:00,10:14,Peru,29
+D,10:00,10:14,Callao.,75
+B,10:00,10:14,Pueyrredon,91
+E,10:00,10:14,Jujuy,9
+E,10:00,10:14,Independencia.,25
+D,10:00,10:14,9 de julio,31
+B,10:00,10:14,Carlos Gardel,62
+A,10:00,10:14,Piedras,16
+H,10:00,10:14,Caseros,25
+H,10:00,10:14,Once,30
+B,10:00,10:14,Medrano,121
+A,10:00,10:14,Puan,31
+D,10:00,10:14,Scalabrini Ortiz,79
+D,10:00,10:14,Facultad de Medicina,71
+B,10:00,10:14,Pasteur,81
+E,10:00,10:14,General Belgrano,11
+D,10:00,10:14,Olleros,87
+H,10:00,10:14,Corrientes,18
+A,10:00,10:14,San Pedrito,146
+D,10:00,10:14,Jose Hernandez,62
+B,10:00,10:14,Leandro N. Alem,96
+D,10:00,10:14,Tribunales,27
+C,10:00,10:14,Retiro,330
+D,10:00,10:14,Catedral,63
+E,10:00,10:14,Jose Maria Moreno,25
+C,10:00,10:14,Avenida de Mayo,40
+C,10:00,10:14,Mariano Moreno,32
+A,10:00,10:14,Congreso,81
+B,10:00,10:14,Uruguay,61
+A,10:00,10:14,Loria,43
+D,10:00,10:14,Juramento,111
+D,10:00,10:14,Ministro Carranza,51
+C,10:00,10:14,Independencia,47
+E,10:00,10:14,Entre Rios,34
+E,10:00,10:14,Avenida La Plata,24
+A,10:00,10:14,Alberti,22
+C,10:00,10:14,General San Martin,50
+A,10:00,10:14,Castro Barros,48
+D,10:00,10:14,Aguero,51
+E,10:00,10:14,Bolivar,20
+B,10:00,10:14,Angel Gallardo,128
+C,10:00,10:14,San Juan,41
+H,10:00,10:14,Patricios,34
+A,10:00,10:14,Flores,63
+H,10:00,10:14,Hospitales,32
+A,10:00,10:14,Carabobo,68
+D,10:00,10:14,Bulnes,90
+E,10:00,10:14,Medalla Milagrosa,15
+E,10:00,10:14,Pza. de los Virreyes,51
+B,10:00,10:14,Callao,96
+A,10:00,10:14,Primera Junta,94
+B,10:00,10:14,Carlos Pellegrini,119
+D,10:00,10:14,Pueyrredon.,58
+D,10:00,10:14,Congreso de Tucuman,219
+E,10:00,10:14,Pichincha,16
+B,10:00,10:14,Florida,71
+B,10:00,10:14,Rosas,136
+E,10:00,10:14,San Jose,12
+B,10:00,10:14,Los Incas,106
+D,10:00,10:14,Palermo,84
+C,10:00,10:14,Diagonal Norte,14
+B,10:00,10:14,Echeverria,38
+A,10:00,10:14,Rio de Janeiro,54
+A,10:00,10:14,Pasco,24
+E,10:00,10:14,Emilio Mitre,23
+A,10:00,10:14,Plaza de Mayo,35
+B,10:15,10:29,Tronador,21
+D,10:15,10:29,Bulnes,76
+A,10:15,10:29,Saenz Peña,49
+E,10:15,10:29,Pichincha,16
+E,10:15,10:29,Bolivar,24
+B,10:15,10:29,Federico Lacroze,253
+B,10:15,10:29,Echeverria,45
+B,10:15,10:29,Malabia,131
+E,10:15,10:29,Jujuy,20
+B,10:15,10:29,Uruguay,92
+A,10:15,10:29,Carabobo,70
+D,10:15,10:29,Plaza Italia,67
+A,10:15,10:29,Alberti,22
+A,10:15,10:29,Lima,55
+A,10:15,10:29,Castro Barros,37
+E,10:15,10:29,Pza. de los Virreyes,55
+B,10:15,10:29,Medrano,122
+A,10:15,10:29,Acoyte,77
+C,10:15,10:29,Diagonal Norte,17
+E,10:15,10:29,Avenida La Plata,27
+A,10:15,10:29,Peru,18
+C,10:15,10:29,General San Martin,53
+B,10:15,10:29,Leandro N. Alem,95
+C,10:15,10:29,Lavalle,26
+H,10:15,10:29,Patricios,34
+D,10:15,10:29,Tribunales,42
+E,10:15,10:29,Varela,13
+A,10:15,10:29,Loria,47
+B,10:15,10:29,Rosas,203
+D,10:15,10:29,Pueyrredon.,84
+D,10:15,10:29,Olleros,77
+E,10:15,10:29,San Jose,7
+E,10:15,10:29,General Belgrano,9
+A,10:15,10:29,Rio de Janeiro,55
+B,10:15,10:29,Carlos Gardel,60
+E,10:15,10:29,Jose Maria Moreno,21
+H,10:15,10:29,Venezuela,19
+A,10:15,10:29,Plaza Miserere,97
+H,10:15,10:29,Hospitales,23
+A,10:15,10:29,Plaza de Mayo,40
+D,10:15,10:29,Congreso de Tucuman,224
+C,10:15,10:29,Avenida de Mayo,34
+A,10:15,10:29,Primera Junta,90
+B,10:15,10:29,Angel Gallardo,116
+C,10:15,10:29,San Juan,41
+E,10:15,10:29,Medalla Milagrosa,11
+E,10:15,10:29,Urquiza,16
+B,10:15,10:29,Dorrego,49
+H,10:15,10:29,Inclan,15
+A,10:15,10:29,Flores,55
+D,10:15,10:29,Aguero,76
+A,10:15,10:29,Congreso,67
+C,10:15,10:29,Mariano Moreno,31
+E,10:15,10:29,Entre Rios,22
+D,10:15,10:29,Palermo,105
+B,10:15,10:29,Pasteur,79
+D,10:15,10:29,Callao.,64
+B,10:15,10:29,Callao,82
+E,10:15,10:29,Independencia.,30
+H,10:15,10:29,Once,40
+D,10:15,10:29,9 de julio,35
+A,10:15,10:29,San Pedrito,127
+H,10:15,10:29,Corrientes,23
+D,10:15,10:29,Catedral,86
+B,10:15,10:29,Los Incas,86
+E,10:15,10:29,Boedo,25
+B,10:15,10:29,Florida,64
+A,10:15,10:29,Puan,44
+E,10:15,10:29,Emilio Mitre,15
+B,10:15,10:29,Carlos Pellegrini,146
+B,10:15,10:29,Pueyrredon,120
+H,10:15,10:29,Caseros,29
+D,10:15,10:29,Ministro Carranza,49
+C,10:15,10:29,Retiro,263
+C,10:15,10:29,Constitucion,881
+D,10:15,10:29,Juramento,119
+D,10:15,10:29,Jose Hernandez,67
+H,10:15,10:29,Humberto I,31
+A,10:15,10:29,Piedras,17
+C,10:15,10:29,Independencia,47
+A,10:15,10:29,Pasco,20
+D,10:15,10:29,Scalabrini Ortiz,78
+D,10:15,10:29,Facultad de Medicina,57
+C,10:30,10:44,Avenida de Mayo,42
+A,10:30,10:44,Puan,30
+D,10:30,10:44,Tribunales,48
+E,10:30,10:44,General Belgrano,13
+A,10:30,10:44,Castro Barros,45
+B,10:30,10:44,Florida,75
+B,10:30,10:44,Pasteur,94
+E,10:30,10:44,Emilio Mitre,17
+A,10:30,10:44,Piedras,14
+E,10:30,10:44,Entre Rios,31
+B,10:30,10:44,Rosas,155
+A,10:30,10:44,Plaza Miserere,119
+B,10:30,10:44,Echeverria,43
+D,10:30,10:44,Olleros,78
+A,10:30,10:44,Alberti,39
+B,10:30,10:44,Leandro N. Alem,88
+B,10:30,10:44,Carlos Pellegrini,152
+D,10:30,10:44,Scalabrini Ortiz,79
+C,10:30,10:44,Independencia,60
+D,10:30,10:44,Pueyrredon.,77
+H,10:30,10:44,Venezuela,29
+A,10:30,10:44,Rio de Janeiro,56
+B,10:30,10:44,Tronador,41
+C,10:30,10:44,General San Martin,36
+D,10:30,10:44,Callao.,68
+E,10:30,10:44,Varela,15
+E,10:30,10:44,San Jose,13
+E,10:30,10:44,Avenida La Plata,22
+E,10:30,10:44,Pichincha,10
+D,10:30,10:44,Palermo,86
+D,10:30,10:44,Congreso de Tucuman,226
+A,10:30,10:44,Lima,46
+D,10:30,10:44,Facultad de Medicina,65
+B,10:30,10:44,Pueyrredon,114
+H,10:30,10:44,Patricios,17
+A,10:30,10:44,Plaza de Mayo,36
+E,10:30,10:44,Boedo,21
+B,10:30,10:44,Malabia,131
+A,10:30,10:44,Acoyte,83
+H,10:30,10:44,Hospitales,11
+B,10:30,10:44,Carlos Gardel,77
+B,10:30,10:44,Callao,119
+D,10:30,10:44,Bulnes,87
+A,10:30,10:44,Loria,47
+H,10:30,10:44,Corrientes,23
+D,10:30,10:44,Jose Hernandez,67
+A,10:30,10:44,Congreso,64
+E,10:30,10:44,Urquiza,22
+H,10:30,10:44,Once,24
+E,10:30,10:44,Medalla Milagrosa,15
+B,10:30,10:44,Medrano,141
+C,10:30,10:44,Constitucion,548
+B,10:30,10:44,Uruguay,83
+B,10:30,10:44,Dorrego,68
+A,10:30,10:44,Primera Junta,97
+D,10:30,10:44,Plaza Italia,74
+A,10:30,10:44,Carabobo,56
+D,10:30,10:44,Aguero,78
+H,10:30,10:44,Caseros,28
+D,10:30,10:44,9 de julio,38
+E,10:30,10:44,Jujuy,21
+E,10:30,10:44,Pza. de los Virreyes,63
+B,10:30,10:44,Federico Lacroze,237
+A,10:30,10:44,San Pedrito,141
+H,10:30,10:44,Inclan,20
+E,10:30,10:44,Independencia.,20
+C,10:30,10:44,Mariano Moreno,36
+B,10:30,10:44,Angel Gallardo,108
+C,10:30,10:44,Retiro,327
+A,10:30,10:44,Pasco,19
+C,10:30,10:44,Lavalle,20
+D,10:30,10:44,Ministro Carranza,63
+B,10:30,10:44,Los Incas,101
+C,10:30,10:44,San Juan,35
+E,10:30,10:44,Bolivar,19
+A,10:30,10:44,Flores,56
+D,10:30,10:44,Catedral,61
+E,10:30,10:44,Jose Maria Moreno,22
+H,10:30,10:44,Humberto I,25
+D,10:30,10:44,Juramento,113
+A,10:30,10:44,Saenz Peña,42
+C,10:30,10:44,Diagonal Norte,13
+A,10:30,10:44,Peru,38
+B,10:45,10:59,Carlos Gardel,99
+D,10:45,10:59,Congreso de Tucuman,210
+A,10:45,10:59,Primera Junta,91
+B,10:45,10:59,Uruguay,93
+A,10:45,10:59,Acoyte,84
+E,10:45,10:59,San Jose,13
+A,10:45,10:59,Rio de Janeiro,64
+D,10:45,10:59,Catedral,73
+A,10:45,10:59,Loria,52
+D,10:45,10:59,Plaza Italia,67
+A,10:45,10:59,Piedras,15
+H,10:45,10:59,Humberto I,14
+C,10:45,10:59,Mariano Moreno,30
+E,10:45,10:59,Entre Rios,38
+E,10:45,10:59,Bolivar,28
+B,10:45,10:59,Federico Lacroze,247
+A,10:45,10:59,Carabobo,59
+D,10:45,10:59,Callao.,62
+C,10:45,10:59,Diagonal Norte,16
+E,10:45,10:59,Jujuy,32
+B,10:45,10:59,Echeverria,33
+B,10:45,10:59,Carlos Pellegrini,144
+B,10:45,10:59,Callao,116
+B,10:45,10:59,Tronador,27
+B,10:45,10:59,Malabia,167
+A,10:45,10:59,Castro Barros,63
+D,10:45,10:59,Bulnes,103
+E,10:45,10:59,Pichincha,10
+C,10:45,10:59,Retiro,341
+D,10:45,10:59,Ministro Carranza,68
+E,10:45,10:59,Medalla Milagrosa,12
+C,10:45,10:59,General San Martin,42
+E,10:45,10:59,Avenida La Plata,29
+H,10:45,10:59,Hospitales,20
+B,10:45,10:59,Pueyrredon,114
+D,10:45,10:59,Aguero,81
+C,10:45,10:59,Constitucion,662
+C,10:45,10:59,Lavalle,43
+D,10:45,10:59,Scalabrini Ortiz,86
+A,10:45,10:59,Peru,25
+A,10:45,10:59,Lima,38
+E,10:45,10:59,Pza. de los Virreyes,56
+A,10:45,10:59,Alberti,36
+C,10:45,10:59,Avenida de Mayo,35
+E,10:45,10:59,General Belgrano,12
+A,10:45,10:59,Puan,28
+A,10:45,10:59,Pasco,19
+E,10:45,10:59,Emilio Mitre,19
+A,10:45,10:59,Plaza Miserere,95
+D,10:45,10:59,Jose Hernandez,74
+A,10:45,10:59,Congreso,49
+H,10:45,10:59,Inclan,23
+B,10:45,10:59,Florida,86
+D,10:45,10:59,Juramento,91
+B,10:45,10:59,Medrano,146
+B,10:45,10:59,Rosas,143
+H,10:45,10:59,Venezuela,23
+D,10:45,10:59,Pueyrredon.,88
+C,10:45,10:59,Independencia,43
+E,10:45,10:59,Boedo,35
+A,10:45,10:59,San Pedrito,128
+E,10:45,10:59,Varela,6
+A,10:45,10:59,Plaza de Mayo,51
+D,10:45,10:59,Olleros,72
+E,10:45,10:59,Independencia.,26
+B,10:45,10:59,Pasteur,94
+H,10:45,10:59,Corrientes,21
+D,10:45,10:59,9 de julio,45
+H,10:45,10:59,Caseros,29
+D,10:45,10:59,Palermo,99
+B,10:45,10:59,Leandro N. Alem,103
+B,10:45,10:59,Los Incas,92
+A,10:45,10:59,Saenz Peña,54
+D,10:45,10:59,Tribunales,47
+C,10:45,10:59,San Juan,26
+D,10:45,10:59,Facultad de Medicina,63
+H,10:45,10:59,Patricios,16
+H,10:45,10:59,Once,35
+E,10:45,10:59,Jose Maria Moreno,20
+A,10:45,10:59,Flores,60
+B,10:45,10:59,Dorrego,71
+B,10:45,10:59,Angel Gallardo,100
+E,10:45,10:59,Urquiza,15
+C,11:00,11:14,Mariano Moreno,31
+D,11:00,11:14,Bulnes,127
+C,11:00,11:14,Avenida de Mayo,30
+A,11:00,11:14,Plaza de Mayo,62
+C,11:00,11:14,Constitucion,558
+A,11:00,11:14,Acoyte,96
+C,11:00,11:14,Diagonal Norte,15
+H,11:00,11:14,Hospitales,22
+D,11:00,11:14,Olleros,90
+H,11:00,11:14,Once,12
+D,11:00,11:14,Scalabrini Ortiz,68
+B,11:00,11:14,Florida,93
+B,11:00,11:14,Uruguay,84
+D,11:00,11:14,Plaza Italia,63
+E,11:00,11:14,Independencia.,24
+A,11:00,11:14,San Pedrito,139
+B,11:00,11:14,Pueyrredon,149
+H,11:00,11:14,Inclan,27
+B,11:00,11:14,Pasteur,105
+C,11:00,11:14,General San Martin,45
+D,11:00,11:14,Callao.,66
+D,11:00,11:14,Pueyrredon.,108
+A,11:00,11:14,Congreso,67
+A,11:00,11:14,Lima,43
+B,11:00,11:14,Leandro N. Alem,103
+H,11:00,11:14,Corrientes,23
+A,11:00,11:14,Plaza Miserere,78
+B,11:00,11:14,Rosas,145
+E,11:00,11:14,Pza. de los Virreyes,61
+E,11:00,11:14,Emilio Mitre,15
+D,11:00,11:14,Catedral,100
+D,11:00,11:14,Aguero,74
+D,11:00,11:14,9 de julio,31
+B,11:00,11:14,Carlos Gardel,125
+A,11:00,11:14,Carabobo,69
+A,11:00,11:14,Loria,44
+H,11:00,11:14,Patricios,27
+A,11:00,11:14,Flores,72
+A,11:00,11:14,Rio de Janeiro,58
+E,11:00,11:14,Pichincha,19
+D,11:00,11:14,Ministro Carranza,53
+H,11:00,11:14,Humberto I,20
+D,11:00,11:14,Facultad de Medicina,66
+C,11:00,11:14,San Juan,44
+A,11:00,11:14,Piedras,24
+B,11:00,11:14,Dorrego,67
+D,11:00,11:14,Palermo,99
+A,11:00,11:14,Saenz Peña,48
+B,11:00,11:14,Malabia,139
+A,11:00,11:14,Pasco,32
+E,11:00,11:14,San Jose,18
+E,11:00,11:14,General Belgrano,13
+E,11:00,11:14,Jujuy,23
+E,11:00,11:14,Medalla Milagrosa,10
+D,11:00,11:14,Juramento,107
+A,11:00,11:14,Alberti,42
+D,11:00,11:14,Congreso de Tucuman,225
+C,11:00,11:14,Lavalle,36
+E,11:00,11:14,Bolivar,22
+E,11:00,11:14,Avenida La Plata,27
+B,11:00,11:14,Medrano,141
+B,11:00,11:14,Angel Gallardo,101
+E,11:00,11:14,Boedo,44
+H,11:00,11:14,Caseros,16
+C,11:00,11:14,Independencia,41
+A,11:00,11:14,Primera Junta,80
+E,11:00,11:14,Urquiza,19
+B,11:00,11:14,Tronador,38
+A,11:00,11:14,Puan,30
+B,11:00,11:14,Carlos Pellegrini,156
+E,11:00,11:14,Jose Maria Moreno,14
+H,11:00,11:14,Venezuela,19
+B,11:00,11:14,Echeverria,51
+E,11:00,11:14,Varela,12
+D,11:00,11:14,Tribunales,42
+B,11:00,11:14,Los Incas,98
+D,11:00,11:14,Jose Hernandez,66
+A,11:00,11:14,Castro Barros,69
+C,11:00,11:14,Retiro,267
+A,11:00,11:14,Peru,31
+B,11:00,11:14,Federico Lacroze,282
+E,11:00,11:14,Entre Rios,29
+B,11:00,11:14,Callao,118
+D,11:15,11:29,Plaza Italia,83
+D,11:15,11:29,9 de julio,46
+E,11:15,11:29,Pza. de los Virreyes,63
+B,11:15,11:29,Callao,113
+E,11:15,11:29,General Belgrano,9
+H,11:15,11:29,Venezuela,27
+A,11:15,11:29,Plaza de Mayo,43
+D,11:15,11:29,Olleros,72
+H,11:15,11:29,Corrientes,22
+E,11:15,11:29,Varela,15
+B,11:15,11:29,Los Incas,65
+E,11:15,11:29,Medalla Milagrosa,14
+D,11:15,11:29,Callao.,84
+A,11:15,11:29,San Pedrito,161
+A,11:15,11:29,Puan,43
+B,11:15,11:29,Florida,97
+E,11:15,11:29,Emilio Mitre,25
+H,11:15,11:29,Patricios,26
+C,11:15,11:29,Mariano Moreno,41
+B,11:15,11:29,Angel Gallardo,128
+C,11:15,11:29,San Juan,37
+A,11:15,11:29,Flores,76
+D,11:15,11:29,Tribunales,47
+D,11:15,11:29,Catedral,90
+B,11:15,11:29,Federico Lacroze,261
+E,11:15,11:29,Jujuy,18
+A,11:15,11:29,Alberti,37
+E,11:15,11:29,Independencia.,22
+A,11:15,11:29,Lima,39
+B,11:15,11:29,Pasteur,119
+D,11:15,11:29,Palermo,96
+H,11:15,11:29,Hospitales,20
+A,11:15,11:29,Plaza Miserere,126
+D,11:15,11:29,Aguero,88
+B,11:15,11:29,Dorrego,70
+A,11:15,11:29,Loria,51
+E,11:15,11:29,Urquiza,23
+E,11:15,11:29,Avenida La Plata,27
+C,11:15,11:29,Lavalle,49
+H,11:15,11:29,Humberto I,20
+A,11:15,11:29,Piedras,17
+E,11:15,11:29,Entre Rios,33
+B,11:15,11:29,Pueyrredon,135
+D,11:15,11:29,Scalabrini Ortiz,81
+H,11:15,11:29,Caseros,47
+D,11:15,11:29,Juramento,121
+D,11:15,11:29,Bulnes,122
+A,11:15,11:29,Pasco,37
+D,11:15,11:29,Congreso de Tucuman,239
+A,11:15,11:29,Primera Junta,84
+D,11:15,11:29,Pueyrredon.,95
+B,11:15,11:29,Rosas,143
+H,11:15,11:29,Inclan,20
+A,11:15,11:29,Congreso,72
+C,11:15,11:29,Avenida de Mayo,31
+H,11:15,11:29,Once,39
+B,11:15,11:29,Carlos Pellegrini,142
+B,11:15,11:29,Echeverria,51
+B,11:15,11:29,Tronador,37
+E,11:15,11:29,Bolivar,39
+A,11:15,11:29,Acoyte,95
+A,11:15,11:29,Saenz Peña,53
+D,11:15,11:29,Facultad de Medicina,60
+C,11:15,11:29,Constitucion,760
+A,11:15,11:29,Carabobo,75
+C,11:15,11:29,Diagonal Norte,24
+A,11:15,11:29,Castro Barros,55
+B,11:15,11:29,Carlos Gardel,120
+E,11:15,11:29,Jose Maria Moreno,23
+E,11:15,11:29,Boedo,48
+E,11:15,11:29,Pichincha,20
+D,11:15,11:29,Ministro Carranza,63
+C,11:15,11:29,Retiro,391
+C,11:15,11:29,General San Martin,57
+D,11:15,11:29,Jose Hernandez,73
+C,11:15,11:29,Independencia,43
+B,11:15,11:29,Medrano,147
+B,11:15,11:29,Uruguay,93
+B,11:15,11:29,Leandro N. Alem,93
+A,11:15,11:29,Peru,30
+B,11:15,11:29,Malabia,178
+A,11:15,11:29,Rio de Janeiro,74
+E,11:15,11:29,San Jose,16
+E,11:30,11:44,Bolivar,39
+A,11:30,11:44,Plaza de Mayo,69
+A,11:30,11:44,Lima,32
+C,11:30,11:44,Avenida de Mayo,27
+A,11:30,11:44,Puan,37
+B,11:30,11:44,Pasteur,124
+C,11:30,11:44,Independencia,35
+B,11:30,11:44,Angel Gallardo,113
+A,11:30,11:44,Flores,58
+A,11:30,11:44,Peru,55
+B,11:30,11:44,Carlos Pellegrini,135
+C,11:30,11:44,Lavalle,33
+A,11:30,11:44,San Pedrito,144
+B,11:30,11:44,Malabia,159
+D,11:30,11:44,9 de julio,53
+B,11:30,11:44,Los Incas,73
+A,11:30,11:44,Pasco,40
+E,11:30,11:44,General Belgrano,14
+C,11:30,11:44,Diagonal Norte,20
+B,11:30,11:44,Echeverria,33
+B,11:30,11:44,Carlos Gardel,97
+A,11:30,11:44,Loria,47
+E,11:30,11:44,Boedo,28
+E,11:30,11:44,Avenida La Plata,24
+D,11:30,11:44,Olleros,94
+D,11:30,11:44,Pueyrredon.,113
+A,11:30,11:44,Plaza Miserere,144
+B,11:30,11:44,Leandro N. Alem,110
+B,11:30,11:44,Rosas,166
+D,11:30,11:44,Bulnes,129
+D,11:30,11:44,Facultad de Medicina,83
+B,11:30,11:44,Florida,115
+D,11:30,11:44,Scalabrini Ortiz,85
+B,11:30,11:44,Uruguay,94
+E,11:30,11:44,Emilio Mitre,23
+H,11:30,11:44,Caseros,17
+A,11:30,11:44,Congreso,66
+A,11:30,11:44,Alberti,47
+C,11:30,11:44,San Juan,38
+D,11:30,11:44,Catedral,147
+E,11:30,11:44,Entre Rios,31
+A,11:30,11:44,Carabobo,78
+C,11:30,11:44,General San Martin,46
+H,11:30,11:44,Patricios,39
+D,11:30,11:44,Congreso de Tucuman,204
+D,11:30,11:44,Ministro Carranza,48
+C,11:30,11:44,Retiro,197
+A,11:30,11:44,Saenz Peña,49
+B,11:30,11:44,Callao,140
+D,11:30,11:44,Callao.,82
+E,11:30,11:44,Varela,6
+E,11:30,11:44,Independencia.,30
+B,11:30,11:44,Medrano,154
+H,11:30,11:44,Hospitales,20
+D,11:30,11:44,Aguero,91
+A,11:30,11:44,Piedras,24
+B,11:30,11:44,Tronador,27
+B,11:30,11:44,Dorrego,92
+A,11:30,11:44,Primera Junta,83
+D,11:30,11:44,Palermo,108
+D,11:30,11:44,Plaza Italia,73
+H,11:30,11:44,Humberto I,24
+E,11:30,11:44,Pza. de los Virreyes,40
+A,11:30,11:44,Acoyte,93
+H,11:30,11:44,Inclan,14
+H,11:30,11:44,Corrientes,28
+C,11:30,11:44,Mariano Moreno,35
+D,11:30,11:44,Juramento,137
+E,11:30,11:44,Medalla Milagrosa,4
+H,11:30,11:44,Venezuela,25
+D,11:30,11:44,Tribunales,49
+H,11:30,11:44,Once,51
+E,11:30,11:44,Jujuy,27
+E,11:30,11:44,Pichincha,11
+E,11:30,11:44,San Jose,17
+B,11:30,11:44,Pueyrredon,170
+A,11:30,11:44,Rio de Janeiro,52
+C,11:30,11:44,Constitucion,578
+E,11:30,11:44,Urquiza,20
+A,11:30,11:44,Castro Barros,73
+E,11:30,11:44,Jose Maria Moreno,27
+B,11:30,11:44,Federico Lacroze,212
+D,11:30,11:44,Jose Hernandez,112
+H,11:45,11:59,Hospitales,16
+A,11:45,11:59,Plaza Miserere,102
+A,11:45,11:59,Peru,47
+C,11:45,11:59,Mariano Moreno,32
+E,11:45,11:59,Varela,7
+B,11:45,11:59,Echeverria,40
+A,11:45,11:59,Primera Junta,100
+D,11:45,11:59,Congreso de Tucuman,201
+E,11:45,11:59,Jujuy,11
+A,11:45,11:59,Saenz Peña,57
+D,11:45,11:59,Bulnes,110
+B,11:45,11:59,Leandro N. Alem,120
+D,11:45,11:59,Scalabrini Ortiz,102
+D,11:45,11:59,Facultad de Medicina,71
+B,11:45,11:59,Callao,143
+C,11:45,11:59,General San Martin,58
+D,11:45,11:59,Callao.,71
+D,11:45,11:59,Plaza Italia,86
+C,11:45,11:59,Constitucion,275
+C,11:45,11:59,San Juan,41
+C,11:45,11:59,Retiro,322
+D,11:45,11:59,Pueyrredon.,133
+A,11:45,11:59,Congreso,89
+B,11:45,11:59,Rosas,138
+D,11:45,11:59,Ministro Carranza,61
+B,11:45,11:59,Medrano,137
+C,11:45,11:59,Lavalle,32
+D,11:45,11:59,Tribunales,53
+D,11:45,11:59,Palermo,78
+A,11:45,11:59,Flores,61
+E,11:45,11:59,Jose Maria Moreno,16
+A,11:45,11:59,Plaza de Mayo,86
+B,11:45,11:59,Carlos Pellegrini,190
+B,11:45,11:59,Pasteur,130
+A,11:45,11:59,Carabobo,67
+B,11:45,11:59,Dorrego,70
+B,11:45,11:59,Federico Lacroze,200
+B,11:45,11:59,Tronador,39
+E,11:45,11:59,Urquiza,22
+H,11:45,11:59,Venezuela,27
+E,11:45,11:59,Medalla Milagrosa,11
+C,11:45,11:59,Independencia,34
+D,11:45,11:59,Aguero,91
+E,11:45,11:59,Avenida La Plata,28
+D,11:45,11:59,Juramento,121
+B,11:45,11:59,Pueyrredon,176
+A,11:45,11:59,Alberti,42
+A,11:45,11:59,Acoyte,85
+E,11:45,11:59,Emilio Mitre,34
+H,11:45,11:59,Once,29
+D,11:45,11:59,9 de julio,26
+D,11:45,11:59,Jose Hernandez,87
+A,11:45,11:59,Pasco,22
+E,11:45,11:59,Pichincha,17
+D,11:45,11:59,Catedral,149
+B,11:45,11:59,Carlos Gardel,115
+H,11:45,11:59,Patricios,19
+E,11:45,11:59,General Belgrano,21
+E,11:45,11:59,Boedo,40
+E,11:45,11:59,Entre Rios,24
+A,11:45,11:59,Rio de Janeiro,62
+A,11:45,11:59,Castro Barros,54
+A,11:45,11:59,Lima,47
+E,11:45,11:59,San Jose,13
+B,11:45,11:59,Malabia,154
+H,11:45,11:59,Corrientes,35
+H,11:45,11:59,Caseros,20
+B,11:45,11:59,Florida,88
+C,11:45,11:59,Avenida de Mayo,16
+H,11:45,11:59,Inclan,30
+B,11:45,11:59,Angel Gallardo,136
+H,11:45,11:59,Humberto I,21
+A,11:45,11:59,San Pedrito,132
+A,11:45,11:59,Piedras,25
+B,11:45,11:59,Uruguay,129
+D,11:45,11:59,Olleros,92
+E,11:45,11:59,Independencia.,18
+C,11:45,11:59,Diagonal Norte,24
+E,11:45,11:59,Bolivar,37
+A,11:45,11:59,Loria,55
+E,11:45,11:59,Pza. de los Virreyes,33
+B,11:45,11:59,Los Incas,65
+A,11:45,11:59,Puan,37
+D,12:00,12:14,9 de julio,57
+D,12:00,12:14,Juramento,136
+E,12:00,12:14,Avenida La Plata,38
+B,12:00,12:14,Rosas,168
+D,12:00,12:14,Pueyrredon.,131
+E,12:00,12:14,Emilio Mitre,28
+C,12:00,12:14,Diagonal Norte,25
+B,12:00,12:14,Uruguay,93
+B,12:00,12:14,Pueyrredon,173
+A,12:00,12:14,Loria,51
+A,12:00,12:14,Primera Junta,89
+D,12:00,12:14,Jose Hernandez,97
+C,12:00,12:14,Constitucion,874
+A,12:00,12:14,San Pedrito,156
+A,12:00,12:14,Rio de Janeiro,47
+D,12:00,12:14,Palermo,113
+D,12:00,12:14,Catedral,164
+A,12:00,12:14,Flores,54
+A,12:00,12:14,Acoyte,97
+E,12:00,12:14,San Jose,12
+A,12:00,12:14,Puan,39
+H,12:00,12:14,Hospitales,12
+E,12:00,12:14,Medalla Milagrosa,14
+D,12:00,12:14,Callao.,95
+B,12:00,12:14,Medrano,163
+H,12:00,12:14,Patricios,32
+C,12:00,12:14,San Juan,39
+E,12:00,12:14,Bolivar,52
+D,12:00,12:14,Bulnes,134
+C,12:00,12:14,Mariano Moreno,54
+A,12:00,12:14,Piedras,37
+H,12:00,12:14,Caseros,28
+E,12:00,12:14,General Belgrano,18
+A,12:00,12:14,Plaza de Mayo,69
+B,12:00,12:14,Federico Lacroze,412
+A,12:00,12:14,Castro Barros,64
+D,12:00,12:14,Facultad de Medicina,78
+H,12:00,12:14,Corrientes,39
+B,12:00,12:14,Echeverria,40
+C,12:00,12:14,General San Martin,52
+C,12:00,12:14,Independencia,43
+B,12:00,12:14,Callao,111
+D,12:00,12:14,Plaza Italia,74
+C,12:00,12:14,Avenida de Mayo,22
+E,12:00,12:14,Jujuy,35
+C,12:00,12:14,Lavalle,78
+D,12:00,12:14,Aguero,92
+H,12:00,12:14,Humberto I,29
+E,12:00,12:14,Urquiza,13
+A,12:00,12:14,Pasco,14
+A,12:00,12:14,Saenz Peña,56
+A,12:00,12:14,Carabobo,88
+B,12:00,12:14,Tronador,39
+E,12:00,12:14,Entre Rios,33
+A,12:00,12:14,Alberti,59
+E,12:00,12:14,Independencia.,25
+B,12:00,12:14,Angel Gallardo,114
+E,12:00,12:14,Boedo,30
+D,12:00,12:14,Olleros,88
+D,12:00,12:14,Ministro Carranza,83
+D,12:00,12:14,Scalabrini Ortiz,97
+A,12:00,12:14,Congreso,78
+H,12:00,12:14,Venezuela,34
+B,12:00,12:14,Dorrego,73
+A,12:00,12:14,Lima,48
+A,12:00,12:14,Plaza Miserere,148
+E,12:00,12:14,Pichincha,23
+E,12:00,12:14,Varela,16
+B,12:00,12:14,Carlos Pellegrini,183
+H,12:00,12:14,Once,40
+C,12:00,12:14,Retiro,289
+B,12:00,12:14,Malabia,169
+D,12:00,12:14,Tribunales,54
+B,12:00,12:14,Leandro N. Alem,106
+H,12:00,12:14,Inclan,24
+B,12:00,12:14,Los Incas,98
+E,12:00,12:14,Pza. de los Virreyes,59
+B,12:00,12:14,Carlos Gardel,106
+B,12:00,12:14,Florida,114
+B,12:00,12:14,Pasteur,149
+D,12:00,12:14,Congreso de Tucuman,243
+A,12:00,12:14,Peru,64
+E,12:00,12:14,Jose Maria Moreno,22
+H,12:15,12:29,Hospitales,18
+B,12:15,12:29,Los Incas,102
+D,12:15,12:29,9 de julio,49
+A,12:15,12:29,Piedras,33
+H,12:15,12:29,Corrientes,22
+E,12:15,12:29,San Jose,15
+A,12:15,12:29,Peru,68
+B,12:15,12:29,Angel Gallardo,152
+D,12:15,12:29,Catedral,108
+H,12:15,12:29,Once,49
+H,12:15,12:29,Caseros,30
+D,12:15,12:29,Palermo,122
+E,12:15,12:29,Pza. de los Virreyes,55
+H,12:15,12:29,Venezuela,16
+D,12:15,12:29,Ministro Carranza,82
+D,12:15,12:29,Aguero,122
+D,12:15,12:29,Facultad de Medicina,94
+H,12:15,12:29,Humberto I,14
+E,12:15,12:29,Varela,15
+B,12:15,12:29,Carlos Gardel,154
+C,12:15,12:29,General San Martin,69
+B,12:15,12:29,Uruguay,123
+B,12:15,12:29,Pasteur,143
+B,12:15,12:29,Medrano,161
+C,12:15,12:29,Lavalle,52
+A,12:15,12:29,Pasco,27
+C,12:15,12:29,Avenida de Mayo,32
+B,12:15,12:29,Rosas,155
+D,12:15,12:29,Callao.,65
+A,12:15,12:29,Acoyte,113
+D,12:15,12:29,Plaza Italia,95
+C,12:15,12:29,Retiro,236
+A,12:15,12:29,Saenz Peña,45
+D,12:15,12:29,Bulnes,106
+C,12:15,12:29,Constitucion,733
+E,12:15,12:29,Entre Rios,31
+B,12:15,12:29,Pueyrredon,179
+E,12:15,12:29,Independencia.,41
+E,12:15,12:29,Urquiza,21
+B,12:15,12:29,Callao,147
+D,12:15,12:29,Scalabrini Ortiz,101
+E,12:15,12:29,Jujuy,26
+E,12:15,12:29,Bolivar,73
+B,12:15,12:29,Leandro N. Alem,154
+C,12:15,12:29,Independencia,67
+E,12:15,12:29,Medalla Milagrosa,14
+B,12:15,12:29,Carlos Pellegrini,179
+B,12:15,12:29,Echeverria,47
+D,12:15,12:29,Jose Hernandez,82
+E,12:15,12:29,Pichincha,22
+E,12:15,12:29,Emilio Mitre,28
+D,12:15,12:29,Olleros,110
+E,12:15,12:29,Avenida La Plata,30
+A,12:15,12:29,San Pedrito,141
+B,12:15,12:29,Tronador,47
+E,12:15,12:29,General Belgrano,21
+A,12:15,12:29,Rio de Janeiro,79
+A,12:15,12:29,Plaza Miserere,110
+A,12:15,12:29,Flores,62
+E,12:15,12:29,Boedo,46
+A,12:15,12:29,Castro Barros,83
+B,12:15,12:29,Federico Lacroze,255
+A,12:15,12:29,Plaza de Mayo,83
+C,12:15,12:29,Mariano Moreno,38
+D,12:15,12:29,Congreso de Tucuman,244
+B,12:15,12:29,Florida,171
+A,12:15,12:29,Congreso,75
+C,12:15,12:29,Diagonal Norte,12
+D,12:15,12:29,Pueyrredon.,146
+A,12:15,12:29,Puan,50
+D,12:15,12:29,Tribunales,73
+A,12:15,12:29,Carabobo,70
+E,12:15,12:29,Jose Maria Moreno,29
+C,12:15,12:29,San Juan,34
+A,12:15,12:29,Lima,45
+H,12:15,12:29,Inclan,20
+B,12:15,12:29,Malabia,181
+D,12:15,12:29,Juramento,154
+A,12:15,12:29,Primera Junta,93
+H,12:15,12:29,Patricios,31
+B,12:15,12:29,Dorrego,82
+A,12:15,12:29,Loria,62
+A,12:15,12:29,Alberti,39
+B,12:30,12:44,Carlos Gardel,163
+A,12:30,12:44,Congreso,78
+A,12:30,12:44,Alberti,40
+D,12:30,12:44,Palermo,87
+D,12:30,12:44,Callao.,124
+H,12:30,12:44,Inclan,23
+E,12:30,12:44,Jose Maria Moreno,37
+C,12:30,12:44,Diagonal Norte,22
+B,12:30,12:44,Pasteur,180
+B,12:30,12:44,Malabia,192
+C,12:30,12:44,Mariano Moreno,25
+D,12:30,12:44,Bulnes,145
+H,12:30,12:44,Caseros,25
+H,12:30,12:44,Corrientes,44
+E,12:30,12:44,Varela,12
+D,12:30,12:44,Aguero,86
+D,12:30,12:44,Catedral,125
+H,12:30,12:44,Patricios,27
+E,12:30,12:44,Medalla Milagrosa,11
+A,12:30,12:44,Carabobo,75
+D,12:30,12:44,Plaza Italia,82
+D,12:30,12:44,Scalabrini Ortiz,74
+C,12:30,12:44,Independencia,59
+A,12:30,12:44,Puan,34
+D,12:30,12:44,Jose Hernandez,100
+D,12:30,12:44,9 de julio,46
+H,12:30,12:44,Hospitales,22
+B,12:30,12:44,Los Incas,87
+B,12:30,12:44,Pueyrredon,236
+A,12:30,12:44,Piedras,33
+H,12:30,12:44,Humberto I,26
+E,12:30,12:44,Urquiza,14
+C,12:30,12:44,Retiro,259
+D,12:30,12:44,Ministro Carranza,71
+E,12:30,12:44,Independencia.,35
+D,12:30,12:44,Tribunales,79
+A,12:30,12:44,Flores,89
+C,12:30,12:44,San Juan,22
+E,12:30,12:44,Pza. de los Virreyes,55
+B,12:30,12:44,Angel Gallardo,124
+A,12:30,12:44,Plaza Miserere,144
+E,12:30,12:44,Boedo,35
+H,12:30,12:44,Once,50
+E,12:30,12:44,General Belgrano,13
+E,12:30,12:44,Pichincha,16
+D,12:30,12:44,Congreso de Tucuman,225
+H,12:30,12:44,Venezuela,29
+A,12:30,12:44,Loria,42
+A,12:30,12:44,San Pedrito,152
+B,12:30,12:44,Echeverria,42
+A,12:30,12:44,Pasco,16
+B,12:30,12:44,Carlos Pellegrini,190
+B,12:30,12:44,Tronador,46
+B,12:30,12:44,Dorrego,83
+E,12:30,12:44,San Jose,16
+A,12:30,12:44,Rio de Janeiro,65
+B,12:30,12:44,Federico Lacroze,297
+E,12:30,12:44,Bolivar,44
+D,12:30,12:44,Olleros,96
+A,12:30,12:44,Acoyte,99
+C,12:30,12:44,General San Martin,61
+A,12:30,12:44,Peru,48
+E,12:30,12:44,Avenida La Plata,22
+B,12:30,12:44,Medrano,168
+B,12:30,12:44,Uruguay,124
+E,12:30,12:44,Entre Rios,32
+D,12:30,12:44,Juramento,164
+B,12:30,12:44,Florida,131
+B,12:30,12:44,Callao,159
+C,12:30,12:44,Avenida de Mayo,32
+A,12:30,12:44,Saenz Peña,53
+B,12:30,12:44,Leandro N. Alem,114
+E,12:30,12:44,Emilio Mitre,28
+C,12:30,12:44,Lavalle,52
+D,12:30,12:44,Facultad de Medicina,119
+A,12:30,12:44,Primera Junta,94
+B,12:30,12:44,Rosas,152
+A,12:30,12:44,Plaza de Mayo,69
+D,12:30,12:44,Pueyrredon.,140
+C,12:30,12:44,Constitucion,693
+A,12:30,12:44,Castro Barros,75
+A,12:30,12:44,Lima,54
+E,12:30,12:44,Jujuy,31
+B,12:45,12:59,Los Incas,75
+D,12:45,12:59,Juramento,152
+B,12:45,12:59,Pueyrredon,245
+E,12:45,12:59,Medalla Milagrosa,8
+D,12:45,12:59,Olleros,88
+C,12:45,12:59,San Juan,27
+C,12:45,12:59,Constitucion,603
+D,12:45,12:59,Plaza Italia,78
+H,12:45,12:59,Humberto I,17
+A,12:45,12:59,Puan,39
+H,12:45,12:59,Once,75
+E,12:45,12:59,Bolivar,41
+B,12:45,12:59,Leandro N. Alem,106
+E,12:45,12:59,Pichincha,16
+A,12:45,12:59,Peru,57
+H,12:45,12:59,Venezuela,22
+D,12:45,12:59,9 de julio,55
+A,12:45,12:59,Piedras,35
+H,12:45,12:59,Inclan,16
+C,12:45,12:59,Independencia,46
+C,12:45,12:59,General San Martin,69
+E,12:45,12:59,Boedo,34
+C,12:45,12:59,Diagonal Norte,31
+D,12:45,12:59,Congreso de Tucuman,218
+A,12:45,12:59,Alberti,45
+B,12:45,12:59,Angel Gallardo,143
+B,12:45,12:59,Dorrego,97
+D,12:45,12:59,Tribunales,80
+E,12:45,12:59,Avenida La Plata,31
+D,12:45,12:59,Jose Hernandez,97
+D,12:45,12:59,Catedral,106
+A,12:45,12:59,Plaza de Mayo,64
+H,12:45,12:59,Corrientes,39
+B,12:45,12:59,Medrano,143
+E,12:45,12:59,Entre Rios,26
+E,12:45,12:59,San Jose,19
+A,12:45,12:59,Primera Junta,82
+B,12:45,12:59,Uruguay,113
+D,12:45,12:59,Pueyrredon.,130
+D,12:45,12:59,Palermo,122
+D,12:45,12:59,Bulnes,133
+E,12:45,12:59,Emilio Mitre,21
+A,12:45,12:59,Acoyte,109
+E,12:45,12:59,General Belgrano,19
+A,12:45,12:59,Saenz Peña,45
+D,12:45,12:59,Scalabrini Ortiz,92
+C,12:45,12:59,Avenida de Mayo,30
+B,12:45,12:59,Florida,100
+A,12:45,12:59,Congreso,71
+B,12:45,12:59,Callao,136
+A,12:45,12:59,Rio de Janeiro,95
+A,12:45,12:59,Castro Barros,61
+E,12:45,12:59,Independencia.,33
+A,12:45,12:59,Carabobo,87
+H,12:45,12:59,Hospitales,11
+E,12:45,12:59,Pza. de los Virreyes,29
+H,12:45,12:59,Patricios,31
+B,12:45,12:59,Malabia,184
+A,12:45,12:59,San Pedrito,174
+B,12:45,12:59,Rosas,164
+C,12:45,12:59,Retiro,338
+C,12:45,12:59,Mariano Moreno,37
+A,12:45,12:59,Plaza Miserere,112
+A,12:45,12:59,Loria,46
+B,12:45,12:59,Carlos Pellegrini,153
+E,12:45,12:59,Urquiza,13
+B,12:45,12:59,Echeverria,40
+B,12:45,12:59,Tronador,49
+C,12:45,12:59,Lavalle,50
+E,12:45,12:59,Jose Maria Moreno,26
+E,12:45,12:59,Varela,13
+A,12:45,12:59,Lima,47
+B,12:45,12:59,Carlos Gardel,175
+E,12:45,12:59,Jujuy,21
+B,12:45,12:59,Pasteur,183
+H,12:45,12:59,Caseros,25
+D,12:45,12:59,Facultad de Medicina,108
+A,12:45,12:59,Flores,55
+D,12:45,12:59,Ministro Carranza,71
+D,12:45,12:59,Aguero,95
+D,12:45,12:59,Callao.,87
+A,12:45,12:59,Pasco,32
+B,12:45,12:59,Federico Lacroze,261
+E,13:00,13:14,General Belgrano,19
+C,13:00,13:14,Avenida de Mayo,45
+E,13:00,13:14,Bolivar,75
+B,13:00,13:14,Florida,223
+D,13:00,13:14,Pueyrredon.,127
+C,13:00,13:14,San Juan,29
+A,13:00,13:14,Primera Junta,87
+D,13:00,13:14,Aguero,103
+D,13:00,13:14,Callao.,127
+D,13:00,13:14,Olleros,106
+B,13:00,13:14,Pueyrredon,213
+A,13:00,13:14,Flores,66
+E,13:00,13:14,Boedo,47
+C,13:00,13:14,Lavalle,116
+D,13:00,13:14,Tribunales,84
+C,13:00,13:14,Diagonal Norte,55
+H,13:00,13:14,Venezuela,31
+B,13:00,13:14,Carlos Pellegrini,257
+B,13:00,13:14,Echeverria,51
+B,13:00,13:14,Medrano,162
+B,13:00,13:14,Tronador,58
+E,13:00,13:14,Jujuy,35
+B,13:00,13:14,Federico Lacroze,314
+D,13:00,13:14,Congreso de Tucuman,231
+B,13:00,13:14,Callao,136
+D,13:00,13:14,Bulnes,168
+B,13:00,13:14,Pasteur,193
+D,13:00,13:14,Facultad de Medicina,90
+A,13:00,13:14,Puan,38
+C,13:00,13:14,General San Martin,128
+D,13:00,13:14,Ministro Carranza,90
+A,13:00,13:14,Plaza de Mayo,99
+D,13:00,13:14,Catedral,212
+C,13:00,13:14,Retiro,321
+E,13:00,13:14,Entre Rios,37
+D,13:00,13:14,Plaza Italia,91
+A,13:00,13:14,Saenz Peña,77
+E,13:00,13:14,Varela,13
+D,13:00,13:14,Palermo,124
+E,13:00,13:14,San Jose,16
+H,13:00,13:14,Caseros,24
+E,13:00,13:14,Independencia.,30
+D,13:00,13:14,Scalabrini Ortiz,126
+A,13:00,13:14,Loria,49
+B,13:00,13:14,Malabia,159
+A,13:00,13:14,Castro Barros,72
+E,13:00,13:14,Pichincha,19
+E,13:00,13:14,Pza. de los Virreyes,60
+H,13:00,13:14,Corrientes,41
+B,13:00,13:14,Uruguay,144
+H,13:00,13:14,Once,52
+C,13:00,13:14,Independencia,56
+A,13:00,13:14,Rio de Janeiro,65
+A,13:00,13:14,San Pedrito,168
+D,13:00,13:14,Jose Hernandez,99
+B,13:00,13:14,Leandro N. Alem,196
+A,13:00,13:14,Pasco,34
+C,13:00,13:14,Mariano Moreno,70
+A,13:00,13:14,Piedras,48
+B,13:00,13:14,Los Incas,95
+E,13:00,13:14,Emilio Mitre,22
+H,13:00,13:14,Humberto I,41
+H,13:00,13:14,Patricios,28
+B,13:00,13:14,Rosas,171
+A,13:00,13:14,Carabobo,95
+C,13:00,13:14,Constitucion,571
+A,13:00,13:14,Alberti,41
+A,13:00,13:14,Peru,107
+E,13:00,13:14,Jose Maria Moreno,17
+H,13:00,13:14,Hospitales,25
+D,13:00,13:14,Juramento,143
+D,13:00,13:14,9 de julio,73
+E,13:00,13:14,Avenida La Plata,25
+A,13:00,13:14,Plaza Miserere,91
+E,13:00,13:14,Urquiza,38
+A,13:00,13:14,Acoyte,89
+H,13:00,13:14,Inclan,27
+B,13:00,13:14,Angel Gallardo,130
+B,13:00,13:14,Carlos Gardel,145
+E,13:00,13:14,Medalla Milagrosa,9
+A,13:00,13:14,Lima,67
+A,13:00,13:14,Congreso,91
+B,13:00,13:14,Dorrego,90
+A,13:15,13:29,Pasco,32
+B,13:15,13:29,Pasteur,168
+E,13:15,13:29,Entre Rios,18
+B,13:15,13:29,Los Incas,102
+A,13:15,13:29,Carabobo,71
+A,13:15,13:29,Plaza Miserere,176
+D,13:15,13:29,Bulnes,142
+B,13:15,13:29,Carlos Gardel,175
+D,13:15,13:29,Ministro Carranza,73
+C,13:15,13:29,Retiro,395
+A,13:15,13:29,Puan,36
+E,13:15,13:29,Medalla Milagrosa,18
+E,13:15,13:29,Emilio Mitre,24
+H,13:15,13:29,Caseros,29
+B,13:15,13:29,Malabia,201
+E,13:15,13:29,Jose Maria Moreno,28
+A,13:15,13:29,Congreso,83
+A,13:15,13:29,Plaza de Mayo,112
+H,13:15,13:29,Hospitales,24
+D,13:15,13:29,Jose Hernandez,118
+B,13:15,13:29,Uruguay,144
+B,13:15,13:29,Tronador,67
+E,13:15,13:29,Independencia.,30
+H,13:15,13:29,Venezuela,26
+A,13:15,13:29,Saenz Peña,63
+A,13:15,13:29,Acoyte,90
+D,13:15,13:29,Catedral,189
+A,13:15,13:29,Primera Junta,119
+H,13:15,13:29,Once,71
+A,13:15,13:29,Lima,67
+D,13:15,13:29,Aguero,95
+B,13:15,13:29,Florida,241
+A,13:15,13:29,Piedras,51
+H,13:15,13:29,Humberto I,29
+B,13:15,13:29,Echeverria,45
+C,13:15,13:29,Lavalle,72
+D,13:15,13:29,Tribunales,80
+D,13:15,13:29,Scalabrini Ortiz,112
+D,13:15,13:29,Congreso de Tucuman,251
+B,13:15,13:29,Medrano,182
+E,13:15,13:29,Pichincha,16
+H,13:15,13:29,Corrientes,50
+E,13:15,13:29,Jujuy,22
+C,13:15,13:29,General San Martin,79
+A,13:15,13:29,Loria,52
+B,13:15,13:29,Carlos Pellegrini,233
+A,13:15,13:29,Castro Barros,66
+D,13:15,13:29,Palermo,129
+E,13:15,13:29,General Belgrano,17
+A,13:15,13:29,Alberti,41
+C,13:15,13:29,Mariano Moreno,46
+A,13:15,13:29,San Pedrito,232
+B,13:15,13:29,Dorrego,75
+E,13:15,13:29,Varela,11
+H,13:15,13:29,Inclan,18
+D,13:15,13:29,Olleros,99
+D,13:15,13:29,Juramento,159
+E,13:15,13:29,Pza. de los Virreyes,62
+C,13:15,13:29,Constitucion,721
+E,13:15,13:29,San Jose,10
+B,13:15,13:29,Angel Gallardo,132
+H,13:15,13:29,Patricios,41
+B,13:15,13:29,Federico Lacroze,186
+B,13:15,13:29,Leandro N. Alem,157
+A,13:15,13:29,Flores,62
+D,13:15,13:29,Plaza Italia,84
+A,13:15,13:29,Rio de Janeiro,78
+B,13:15,13:29,Callao,129
+B,13:15,13:29,Rosas,175
+C,13:15,13:29,San Juan,52
+B,13:15,13:29,Pueyrredon,177
+D,13:15,13:29,9 de julio,65
+E,13:15,13:29,Avenida La Plata,45
+D,13:15,13:29,Pueyrredon.,131
+C,13:15,13:29,Diagonal Norte,47
+E,13:15,13:29,Bolivar,69
+C,13:15,13:29,Avenida de Mayo,35
+D,13:15,13:29,Callao.,120
+E,13:15,13:29,Urquiza,16
+A,13:15,13:29,Peru,87
+E,13:15,13:29,Boedo,37
+C,13:15,13:29,Independencia,41
+D,13:15,13:29,Facultad de Medicina,95
+D,13:30,13:44,Aguero,82
+A,13:30,13:44,Castro Barros,63
+B,13:30,13:44,Malabia,224
+D,13:30,13:44,Catedral,132
+B,13:30,13:44,Carlos Gardel,174
+H,13:30,13:44,Corrientes,47
+B,13:30,13:44,Los Incas,102
+B,13:30,13:44,Uruguay,144
+B,13:30,13:44,Pueyrredon,262
+A,13:30,13:44,Primera Junta,80
+D,13:30,13:44,Congreso de Tucuman,242
+A,13:30,13:44,Peru,65
+D,13:30,13:44,Bulnes,159
+H,13:30,13:44,Humberto I,14
+A,13:30,13:44,Piedras,47
+D,13:30,13:44,Palermo,145
+E,13:30,13:44,Entre Rios,32
+H,13:30,13:44,Once,64
+H,13:30,13:44,Hospitales,17
+E,13:30,13:44,San Jose,23
+A,13:30,13:44,Rio de Janeiro,53
+A,13:30,13:44,Plaza Miserere,147
+A,13:30,13:44,Congreso,73
+H,13:30,13:44,Inclan,20
+A,13:30,13:44,Loria,33
+A,13:30,13:44,Puan,41
+B,13:30,13:44,Callao,142
+A,13:30,13:44,Plaza de Mayo,83
+E,13:30,13:44,Avenida La Plata,38
+C,13:30,13:44,Avenida de Mayo,27
+C,13:30,13:44,Lavalle,76
+B,13:30,13:44,Federico Lacroze,350
+D,13:30,13:44,Pueyrredon.,130
+B,13:30,13:44,Rosas,199
+A,13:30,13:44,San Pedrito,212
+D,13:30,13:44,Scalabrini Ortiz,136
+E,13:30,13:44,Boedo,34
+E,13:30,13:44,Jujuy,23
+D,13:30,13:44,Juramento,148
+D,13:30,13:44,Callao.,150
+A,13:30,13:44,Pasco,33
+D,13:30,13:44,Ministro Carranza,88
+C,13:30,13:44,Retiro,391
+C,13:30,13:44,General San Martin,74
+A,13:30,13:44,Lima,59
+E,13:30,13:44,Independencia.,31
+A,13:30,13:44,Alberti,42
+E,13:30,13:44,Medalla Milagrosa,16
+E,13:30,13:44,Pichincha,19
+E,13:30,13:44,Emilio Mitre,21
+C,13:30,13:44,Constitucion,424
+B,13:30,13:44,Pasteur,157
+B,13:30,13:44,Florida,198
+A,13:30,13:44,Saenz Peña,42
+E,13:30,13:44,Urquiza,15
+D,13:30,13:44,Facultad de Medicina,107
+H,13:30,13:44,Patricios,33
+B,13:30,13:44,Dorrego,115
+E,13:30,13:44,Pza. de los Virreyes,40
+D,13:30,13:44,Olleros,89
+H,13:30,13:44,Caseros,34
+C,13:30,13:44,Independencia,56
+E,13:30,13:44,Varela,14
+B,13:30,13:44,Medrano,135
+D,13:30,13:44,Jose Hernandez,91
+A,13:30,13:44,Acoyte,105
+H,13:30,13:44,Venezuela,23
+E,13:30,13:44,General Belgrano,11
+A,13:30,13:44,Flores,84
+C,13:30,13:44,San Juan,34
+D,13:30,13:44,Plaza Italia,91
+B,13:30,13:44,Angel Gallardo,152
+B,13:30,13:44,Tronador,52
+B,13:30,13:44,Carlos Pellegrini,185
+B,13:30,13:44,Echeverria,41
+E,13:30,13:44,Bolivar,59
+D,13:30,13:44,9 de julio,49
+A,13:30,13:44,Carabobo,78
+D,13:30,13:44,Tribunales,67
+E,13:30,13:44,Jose Maria Moreno,15
+B,13:30,13:44,Leandro N. Alem,148
+C,13:30,13:44,Mariano Moreno,46
+C,13:30,13:44,Diagonal Norte,51
+E,13:45,13:59,Pichincha,13
+C,13:45,13:59,Lavalle,53
+B,13:45,13:59,Malabia,197
+A,13:45,13:59,Carabobo,64
+C,13:45,13:59,Diagonal Norte,25
+E,13:45,13:59,Independencia.,26
+E,13:45,13:59,Pza. de los Virreyes,60
+B,13:45,13:59,Medrano,139
+A,13:45,13:59,Alberti,35
+A,13:45,13:59,Peru,60
+D,13:45,13:59,Plaza Italia,82
+C,13:45,13:59,Avenida de Mayo,39
+D,13:45,13:59,Bulnes,139
+B,13:45,13:59,Carlos Pellegrini,202
+D,13:45,13:59,Facultad de Medicina,106
+B,13:45,13:59,Echeverria,38
+B,13:45,13:59,Uruguay,145
+A,13:45,13:59,San Pedrito,187
+B,13:45,13:59,Tronador,40
+D,13:45,13:59,Olleros,102
+A,13:45,13:59,Saenz Peña,52
+C,13:45,13:59,General San Martin,81
+H,13:45,13:59,Corrientes,38
+E,13:45,13:59,Urquiza,17
+E,13:45,13:59,Bolivar,45
+B,13:45,13:59,Federico Lacroze,296
+E,13:45,13:59,Jose Maria Moreno,29
+D,13:45,13:59,Callao.,89
+B,13:45,13:59,Leandro N. Alem,120
+C,13:45,13:59,Retiro,253
+A,13:45,13:59,Piedras,32
+A,13:45,13:59,Acoyte,102
+D,13:45,13:59,Scalabrini Ortiz,89
+H,13:45,13:59,Caseros,32
+E,13:45,13:59,Varela,14
+D,13:45,13:59,Palermo,123
+H,13:45,13:59,Humberto I,25
+E,13:45,13:59,Entre Rios,36
+E,13:45,13:59,Medalla Milagrosa,11
+D,13:45,13:59,Tribunales,73
+C,13:45,13:59,Mariano Moreno,31
+H,13:45,13:59,Once,50
+E,13:45,13:59,Boedo,26
+E,13:45,13:59,Avenida La Plata,33
+B,13:45,13:59,Rosas,127
+H,13:45,13:59,Hospitales,23
+A,13:45,13:59,Puan,36
+C,13:45,13:59,San Juan,36
+D,13:45,13:59,Pueyrredon.,121
+A,13:45,13:59,Pasco,16
+D,13:45,13:59,Catedral,129
+H,13:45,13:59,Patricios,26
+B,13:45,13:59,Los Incas,92
+A,13:45,13:59,Flores,71
+B,13:45,13:59,Pasteur,178
+A,13:45,13:59,Congreso,81
+C,13:45,13:59,Independencia,31
+C,13:45,13:59,Constitucion,354
+D,13:45,13:59,Congreso de Tucuman,263
+B,13:45,13:59,Carlos Gardel,173
+B,13:45,13:59,Angel Gallardo,126
+A,13:45,13:59,Primera Junta,84
+B,13:45,13:59,Pueyrredon,194
+H,13:45,13:59,Inclan,26
+E,13:45,13:59,Jujuy,34
+A,13:45,13:59,Loria,48
+A,13:45,13:59,Lima,64
+B,13:45,13:59,Florida,145
+D,13:45,13:59,Jose Hernandez,112
+H,13:45,13:59,Venezuela,24
+D,13:45,13:59,Aguero,107
+E,13:45,13:59,San Jose,19
+E,13:45,13:59,General Belgrano,10
+A,13:45,13:59,Rio de Janeiro,59
+A,13:45,13:59,Castro Barros,58
+D,13:45,13:59,Juramento,158
+B,13:45,13:59,Dorrego,95
+A,13:45,13:59,Plaza de Mayo,50
+B,13:45,13:59,Callao,143
+D,13:45,13:59,9 de julio,27
+D,13:45,13:59,Ministro Carranza,80
+A,13:45,13:59,Plaza Miserere,129
+E,13:45,13:59,Emilio Mitre,25
+B,14:00,14:14,Leandro N. Alem,148
+A,14:00,14:14,Peru,85
+E,14:00,14:14,General Belgrano,17
+C,14:00,14:14,Mariano Moreno,49
+H,14:00,14:14,Patricios,37
+H,14:00,14:14,Corrientes,31
+A,14:00,14:14,Plaza Miserere,161
+H,14:00,14:14,Venezuela,26
+A,14:00,14:14,Puan,34
+B,14:00,14:14,Uruguay,138
+D,14:00,14:14,Scalabrini Ortiz,104
+B,14:00,14:14,Carlos Gardel,191
+E,14:00,14:14,Varela,12
+D,14:00,14:14,Olleros,116
+A,14:00,14:14,Loria,73
+B,14:00,14:14,Los Incas,88
+D,14:00,14:14,Bulnes,173
+E,14:00,14:14,Pza. de los Virreyes,63
+E,14:00,14:14,Independencia.,32
+A,14:00,14:14,Alberti,40
+A,14:00,14:14,Carabobo,76
+A,14:00,14:14,Lima,69
+E,14:00,14:14,Medalla Milagrosa,16
+E,14:00,14:14,Emilio Mitre,13
+E,14:00,14:14,Avenida La Plata,28
+D,14:00,14:14,Congreso de Tucuman,238
+B,14:00,14:14,Federico Lacroze,164
+A,14:00,14:14,Primera Junta,80
+B,14:00,14:14,Florida,228
+B,14:00,14:14,Pasteur,199
+B,14:00,14:14,Callao,162
+C,14:00,14:14,Lavalle,103
+E,14:00,14:14,Bolivar,57
+C,14:00,14:14,San Juan,62
+D,14:00,14:14,Callao.,112
+A,14:00,14:14,Flores,56
+B,14:00,14:14,Carlos Pellegrini,185
+E,14:00,14:14,Boedo,50
+B,14:00,14:14,Echeverria,57
+A,14:00,14:14,Plaza de Mayo,74
+H,14:00,14:14,Caseros,28
+B,14:00,14:14,Tronador,55
+B,14:00,14:14,Angel Gallardo,145
+C,14:00,14:14,Diagonal Norte,54
+A,14:00,14:14,Acoyte,97
+H,14:00,14:14,Once,50
+D,14:00,14:14,Tribunales,73
+E,14:00,14:14,Entre Rios,28
+C,14:00,14:14,General San Martin,69
+B,14:00,14:14,Dorrego,97
+E,14:00,14:14,Urquiza,22
+D,14:00,14:14,Aguero,144
+C,14:00,14:14,Avenida de Mayo,46
+H,14:00,14:14,Humberto I,20
+D,14:00,14:14,Ministro Carranza,74
+B,14:00,14:14,Medrano,136
+C,14:00,14:14,Retiro,391
+A,14:00,14:14,Piedras,56
+D,14:00,14:14,Pueyrredon.,155
+B,14:00,14:14,Rosas,121
+E,14:00,14:14,Pichincha,15
+A,14:00,14:14,San Pedrito,175
+B,14:00,14:14,Pueyrredon,194
+A,14:00,14:14,Congreso,107
+E,14:00,14:14,Jujuy,31
+D,14:00,14:14,Catedral,182
+D,14:00,14:14,Facultad de Medicina,87
+B,14:00,14:14,Malabia,177
+H,14:00,14:14,Inclan,21
+E,14:00,14:14,Jose Maria Moreno,29
+A,14:00,14:14,Saenz Peña,66
+C,14:00,14:14,Independencia,48
+C,14:00,14:14,Constitucion,235
+D,14:00,14:14,Jose Hernandez,127
+A,14:00,14:14,Castro Barros,51
+D,14:00,14:14,Plaza Italia,92
+D,14:00,14:14,Palermo,115
+D,14:00,14:14,9 de julio,55
+A,14:00,14:14,Pasco,26
+H,14:00,14:14,Hospitales,20
+E,14:00,14:14,San Jose,18
+D,14:00,14:14,Juramento,171
+A,14:00,14:14,Rio de Janeiro,62
+A,14:15,14:29,Primera Junta,73
+B,14:15,14:29,Medrano,158
+A,14:15,14:29,Plaza de Mayo,65
+B,14:15,14:29,Los Incas,105
+E,14:15,14:29,Emilio Mitre,20
+A,14:15,14:29,Acoyte,114
+B,14:15,14:29,Leandro N. Alem,174
+E,14:15,14:29,General Belgrano,13
+D,14:15,14:29,Callao.,101
+A,14:15,14:29,Rio de Janeiro,63
+D,14:15,14:29,Juramento,166
+B,14:15,14:29,Pasteur,147
+C,14:15,14:29,Constitucion,369
+E,14:15,14:29,Avenida La Plata,24
+C,14:15,14:29,Mariano Moreno,43
+A,14:15,14:29,Lima,37
+D,14:15,14:29,Plaza Italia,91
+E,14:15,14:29,Entre Rios,33
+A,14:15,14:29,Plaza Miserere,146
+B,14:15,14:29,Echeverria,52
+A,14:15,14:29,Loria,52
+A,14:15,14:29,Flores,65
+E,14:15,14:29,Bolivar,78
+D,14:15,14:29,Bulnes,144
+C,14:15,14:29,Independencia,38
+H,14:15,14:29,Inclan,19
+D,14:15,14:29,Facultad de Medicina,108
+D,14:15,14:29,Olleros,125
+A,14:15,14:29,Carabobo,72
+E,14:15,14:29,Varela,15
+A,14:15,14:29,Congreso,86
+A,14:15,14:29,San Pedrito,239
+D,14:15,14:29,9 de julio,60
+E,14:15,14:29,Urquiza,7
+D,14:15,14:29,Jose Hernandez,116
+D,14:15,14:29,Catedral,175
+C,14:15,14:29,General San Martin,77
+A,14:15,14:29,Saenz Peña,67
+H,14:15,14:29,Patricios,31
+H,14:15,14:29,Caseros,36
+B,14:15,14:29,Callao,155
+H,14:15,14:29,Hospitales,11
+D,14:15,14:29,Congreso de Tucuman,282
+B,14:15,14:29,Angel Gallardo,121
+C,14:15,14:29,Lavalle,106
+B,14:15,14:29,Pueyrredon,203
+A,14:15,14:29,Piedras,39
+D,14:15,14:29,Palermo,156
+B,14:15,14:29,Florida,183
+A,14:15,14:29,Peru,94
+C,14:15,14:29,San Juan,62
+E,14:15,14:29,Medalla Milagrosa,14
+B,14:15,14:29,Carlos Gardel,184
+B,14:15,14:29,Uruguay,138
+B,14:15,14:29,Rosas,148
+E,14:15,14:29,Pza. de los Virreyes,32
+D,14:15,14:29,Tribunales,76
+C,14:15,14:29,Diagonal Norte,39
+E,14:15,14:29,Independencia.,25
+E,14:15,14:29,Jujuy,25
+D,14:15,14:29,Aguero,104
+D,14:15,14:29,Pueyrredon.,136
+H,14:15,14:29,Venezuela,34
+E,14:15,14:29,Pichincha,11
+D,14:15,14:29,Ministro Carranza,75
+A,14:15,14:29,Alberti,56
+H,14:15,14:29,Humberto I,38
+C,14:15,14:29,Avenida de Mayo,59
+A,14:15,14:29,Pasco,30
+A,14:15,14:29,Castro Barros,62
+B,14:15,14:29,Malabia,204
+H,14:15,14:29,Once,69
+C,14:15,14:29,Retiro,382
+H,14:15,14:29,Corrientes,30
+E,14:15,14:29,Boedo,29
+B,14:15,14:29,Dorrego,110
+B,14:15,14:29,Tronador,67
+B,14:15,14:29,Carlos Pellegrini,190
+A,14:15,14:29,Puan,32
+D,14:15,14:29,Scalabrini Ortiz,111
+E,14:15,14:29,San Jose,12
+E,14:15,14:29,Jose Maria Moreno,25
+B,14:15,14:29,Federico Lacroze,338
+D,14:30,14:44,Juramento,161
+D,14:30,14:44,Congreso de Tucuman,261
+A,14:30,14:44,Primera Junta,72
+A,14:30,14:44,Pasco,30
+E,14:30,14:44,Varela,11
+D,14:30,14:44,Scalabrini Ortiz,89
+H,14:30,14:44,Corrientes,57
+E,14:30,14:44,Entre Rios,25
+B,14:30,14:44,Los Incas,95
+B,14:30,14:44,Pasteur,138
+D,14:30,14:44,Callao.,99
+A,14:30,14:44,Congreso,84
+H,14:30,14:44,Inclan,17
+B,14:30,14:44,Dorrego,77
+E,14:30,14:44,Urquiza,22
+E,14:30,14:44,Medalla Milagrosa,11
+A,14:30,14:44,Plaza de Mayo,66
+D,14:30,14:44,Aguero,106
+A,14:30,14:44,Puan,24
+A,14:30,14:44,San Pedrito,169
+H,14:30,14:44,Once,45
+E,14:30,14:44,Independencia.,34
+C,14:30,14:44,Diagonal Norte,37
+B,14:30,14:44,Callao,160
+A,14:30,14:44,Castro Barros,73
+D,14:30,14:44,Plaza Italia,124
+A,14:30,14:44,Plaza Miserere,141
+A,14:30,14:44,Carabobo,69
+E,14:30,14:44,Jose Maria Moreno,12
+B,14:30,14:44,Tronador,58
+B,14:30,14:44,Carlos Pellegrini,208
+B,14:30,14:44,Carlos Gardel,180
+E,14:30,14:44,Boedo,40
+A,14:30,14:44,Acoyte,100
+E,14:30,14:44,Pza. de los Virreyes,57
+D,14:30,14:44,Jose Hernandez,101
+C,14:30,14:44,Independencia,46
+B,14:30,14:44,Leandro N. Alem,102
+C,14:30,14:44,Retiro,395
+D,14:30,14:44,Ministro Carranza,60
+A,14:30,14:44,Peru,74
+A,14:30,14:44,Lima,54
+C,14:30,14:44,General San Martin,59
+A,14:30,14:44,Alberti,53
+B,14:30,14:44,Uruguay,133
+B,14:30,14:44,Medrano,160
+C,14:30,14:44,Constitucion,384
+A,14:30,14:44,Rio de Janeiro,68
+E,14:30,14:44,San Jose,10
+B,14:30,14:44,Federico Lacroze,331
+B,14:30,14:44,Malabia,228
+E,14:30,14:44,Jujuy,18
+H,14:30,14:44,Hospitales,17
+D,14:30,14:44,Catedral,114
+D,14:30,14:44,Palermo,159
+E,14:30,14:44,Avenida La Plata,44
+C,14:30,14:44,Lavalle,90
+D,14:30,14:44,9 de julio,49
+A,14:30,14:44,Loria,40
+B,14:30,14:44,Florida,228
+D,14:30,14:44,Olleros,134
+A,14:30,14:44,Piedras,43
+H,14:30,14:44,Humberto I,23
+B,14:30,14:44,Pueyrredon,198
+E,14:30,14:44,General Belgrano,11
+H,14:30,14:44,Caseros,40
+D,14:30,14:44,Bulnes,169
+E,14:30,14:44,Pichincha,13
+C,14:30,14:44,Avenida de Mayo,33
+H,14:30,14:44,Venezuela,22
+E,14:30,14:44,Emilio Mitre,19
+D,14:30,14:44,Pueyrredon.,104
+B,14:30,14:44,Rosas,140
+H,14:30,14:44,Patricios,36
+B,14:30,14:44,Angel Gallardo,117
+C,14:30,14:44,Mariano Moreno,26
+A,14:30,14:44,Saenz Peña,45
+D,14:30,14:44,Facultad de Medicina,96
+B,14:30,14:44,Echeverria,47
+D,14:30,14:44,Tribunales,66
+E,14:30,14:44,Bolivar,50
+C,14:30,14:44,San Juan,44
+A,14:30,14:44,Flores,76
+A,14:45,14:59,Peru,65
+A,14:45,14:59,Loria,44
+E,14:45,14:59,Boedo,43
+C,14:45,14:59,General San Martin,98
+D,14:45,14:59,Aguero,81
+A,14:45,14:59,Saenz Peña,48
+H,14:45,14:59,Hospitales,13
+E,14:45,14:59,Medalla Milagrosa,7
+C,14:45,14:59,Diagonal Norte,33
+E,14:45,14:59,Entre Rios,22
+A,14:45,14:59,Congreso,116
+B,14:45,14:59,Los Incas,104
+A,14:45,14:59,Castro Barros,66
+C,14:45,14:59,Constitucion,341
+D,14:45,14:59,Facultad de Medicina,86
+H,14:45,14:59,Humberto I,27
+B,14:45,14:59,Callao,149
+H,14:45,14:59,Patricios,14
+B,14:45,14:59,Federico Lacroze,196
+H,14:45,14:59,Inclan,16
+A,14:45,14:59,Piedras,47
+B,14:45,14:59,Tronador,71
+B,14:45,14:59,Angel Gallardo,139
+D,14:45,14:59,Pueyrredon.,115
+A,14:45,14:59,Flores,63
+C,14:45,14:59,San Juan,44
+D,14:45,14:59,Jose Hernandez,105
+D,14:45,14:59,Bulnes,159
+B,14:45,14:59,Rosas,143
+D,14:45,14:59,Olleros,110
+E,14:45,14:59,Avenida La Plata,22
+A,14:45,14:59,Alberti,38
+E,14:45,14:59,Pza. de los Virreyes,43
+H,14:45,14:59,Venezuela,13
+C,14:45,14:59,Avenida de Mayo,40
+C,14:45,14:59,Independencia,37
+A,14:45,14:59,Acoyte,111
+B,14:45,14:59,Carlos Gardel,146
+D,14:45,14:59,Catedral,121
+C,14:45,14:59,Lavalle,71
+D,14:45,14:59,Scalabrini Ortiz,109
+A,14:45,14:59,Plaza de Mayo,58
+B,14:45,14:59,Malabia,190
+H,14:45,14:59,Once,48
+H,14:45,14:59,Corrientes,40
+E,14:45,14:59,Jujuy,21
+E,14:45,14:59,Jose Maria Moreno,23
+D,14:45,14:59,9 de julio,55
+B,14:45,14:59,Pasteur,112
+A,14:45,14:59,Pasco,22
+H,14:45,14:59,Caseros,23
+D,14:45,14:59,Tribunales,56
+D,14:45,14:59,Juramento,141
+E,14:45,14:59,San Jose,16
+E,14:45,14:59,Varela,16
+A,14:45,14:59,San Pedrito,150
+E,14:45,14:59,Bolivar,50
+D,14:45,14:59,Palermo,85
+D,14:45,14:59,Plaza Italia,114
+A,14:45,14:59,Rio de Janeiro,68
+D,14:45,14:59,Callao.,84
+B,14:45,14:59,Leandro N. Alem,107
+E,14:45,14:59,Emilio Mitre,14
+D,14:45,14:59,Congreso de Tucuman,244
+A,14:45,14:59,Carabobo,97
+A,14:45,14:59,Plaza Miserere,131
+B,14:45,14:59,Uruguay,101
+A,14:45,14:59,Primera Junta,83
+B,14:45,14:59,Dorrego,129
+A,14:45,14:59,Lima,43
+B,14:45,14:59,Medrano,172
+B,14:45,14:59,Florida,194
+E,14:45,14:59,General Belgrano,18
+C,14:45,14:59,Mariano Moreno,32
+E,14:45,14:59,Pichincha,17
+B,14:45,14:59,Echeverria,42
+D,14:45,14:59,Ministro Carranza,62
+E,14:45,14:59,Urquiza,21
+C,14:45,14:59,Retiro,249
+B,14:45,14:59,Carlos Pellegrini,204
+E,14:45,14:59,Independencia.,19
+A,14:45,14:59,Puan,45
+B,14:45,14:59,Pueyrredon,207
+A,15:00,15:14,Plaza de Mayo,106
+B,15:00,15:14,Florida,309
+D,15:00,15:14,Juramento,155
+C,15:00,15:14,General San Martin,147
+C,15:00,15:14,Avenida de Mayo,54
+H,15:00,15:14,Corrientes,37
+E,15:00,15:14,Emilio Mitre,16
+B,15:00,15:14,Leandro N. Alem,161
+B,15:00,15:14,Malabia,187
+H,15:00,15:14,Caseros,25
+A,15:00,15:14,Pasco,35
+D,15:00,15:14,Plaza Italia,77
+A,15:00,15:14,Congreso,99
+B,15:00,15:14,Uruguay,152
+H,15:00,15:14,Once,57
+A,15:00,15:14,Carabobo,58
+C,15:00,15:14,Independencia,46
+E,15:00,15:14,General Belgrano,19
+B,15:00,15:14,Federico Lacroze,342
+D,15:00,15:14,Tribunales,112
+C,15:00,15:14,Diagonal Norte,119
+A,15:00,15:14,Loria,66
+D,15:00,15:14,Catedral,217
+C,15:00,15:14,Retiro,327
+D,15:00,15:14,Ministro Carranza,84
+B,15:00,15:14,Carlos Gardel,208
+H,15:00,15:14,Venezuela,19
+A,15:00,15:14,Plaza Miserere,125
+A,15:00,15:14,Peru,141
+D,15:00,15:14,Aguero,103
+B,15:00,15:14,Pueyrredon,239
+B,15:00,15:14,Dorrego,118
+E,15:00,15:14,Medalla Milagrosa,11
+E,15:00,15:14,Urquiza,17
+C,15:00,15:14,Mariano Moreno,53
+C,15:00,15:14,Lavalle,149
+A,15:00,15:14,Acoyte,110
+D,15:00,15:14,Pueyrredon.,149
+H,15:00,15:14,Hospitales,19
+E,15:00,15:14,Pza. de los Virreyes,43
+B,15:00,15:14,Rosas,160
+A,15:00,15:14,Piedras,85
+E,15:00,15:14,Jose Maria Moreno,22
+D,15:00,15:14,Callao.,143
+H,15:00,15:14,Humberto I,23
+B,15:00,15:14,Pasteur,140
+B,15:00,15:14,Carlos Pellegrini,285
+B,15:00,15:14,Tronador,67
+D,15:00,15:14,Congreso de Tucuman,234
+A,15:00,15:14,Primera Junta,87
+E,15:00,15:14,Boedo,32
+E,15:00,15:14,Varela,15
+A,15:00,15:14,Flores,82
+E,15:00,15:14,San Jose,13
+E,15:00,15:14,Independencia.,37
+A,15:00,15:14,Rio de Janeiro,68
+H,15:00,15:14,Inclan,27
+H,15:00,15:14,Patricios,19
+D,15:00,15:14,Scalabrini Ortiz,113
+A,15:00,15:14,San Pedrito,150
+A,15:00,15:14,Alberti,50
+E,15:00,15:14,Bolivar,78
+C,15:00,15:14,Constitucion,258
+B,15:00,15:14,Los Incas,86
+C,15:00,15:14,San Juan,53
+B,15:00,15:14,Echeverria,31
+E,15:00,15:14,Pichincha,15
+D,15:00,15:14,Palermo,138
+D,15:00,15:14,Olleros,119
+D,15:00,15:14,Facultad de Medicina,97
+B,15:00,15:14,Medrano,165
+D,15:00,15:14,9 de julio,61
+A,15:00,15:14,Saenz Peña,55
+A,15:00,15:14,Lima,74
+B,15:00,15:14,Callao,146
+E,15:00,15:14,Entre Rios,23
+E,15:00,15:14,Jujuy,26
+A,15:00,15:14,Castro Barros,70
+A,15:00,15:14,Puan,24
+E,15:00,15:14,Avenida La Plata,32
+D,15:00,15:14,Jose Hernandez,105
+B,15:00,15:14,Angel Gallardo,128
+D,15:00,15:14,Bulnes,143
+B,15:15,15:29,Tronador,74
+B,15:15,15:29,Pasteur,164
+B,15:15,15:29,Medrano,199
+A,15:15,15:29,Rio de Janeiro,57
+A,15:15,15:29,Alberti,43
+E,15:15,15:29,Independencia.,15
+B,15:15,15:29,Callao,182
+B,15:15,15:29,Malabia,189
+A,15:15,15:29,Flores,69
+D,15:15,15:29,9 de julio,57
+A,15:15,15:29,Loria,55
+H,15:15,15:29,Once,53
+A,15:15,15:29,Lima,46
+D,15:15,15:29,Bulnes,187
+A,15:15,15:29,Puan,28
+E,15:15,15:29,General Belgrano,16
+B,15:15,15:29,Leandro N. Alem,166
+A,15:15,15:29,Pasco,25
+A,15:15,15:29,Plaza Miserere,134
+A,15:15,15:29,Plaza de Mayo,86
+A,15:15,15:29,Acoyte,101
+C,15:15,15:29,Constitucion,300
+A,15:15,15:29,San Pedrito,160
+E,15:15,15:29,Entre Rios,30
+D,15:15,15:29,Palermo,133
+B,15:15,15:29,Pueyrredon,187
+A,15:15,15:29,Carabobo,73
+H,15:15,15:29,Hospitales,7
+A,15:15,15:29,Piedras,64
+B,15:15,15:29,Dorrego,102
+D,15:15,15:29,Pueyrredon.,104
+H,15:15,15:29,Inclan,16
+H,15:15,15:29,Corrientes,43
+E,15:15,15:29,Urquiza,17
+E,15:15,15:29,Medalla Milagrosa,11
+A,15:15,15:29,Primera Junta,96
+D,15:15,15:29,Congreso de Tucuman,279
+H,15:15,15:29,Caseros,34
+H,15:15,15:29,Humberto I,24
+B,15:15,15:29,Los Incas,114
+B,15:15,15:29,Rosas,138
+D,15:15,15:29,Scalabrini Ortiz,127
+A,15:15,15:29,Saenz Peña,36
+E,15:15,15:29,Bolivar,53
+E,15:15,15:29,Jose Maria Moreno,30
+D,15:15,15:29,Plaza Italia,112
+B,15:15,15:29,Carlos Gardel,211
+B,15:15,15:29,Echeverria,46
+E,15:15,15:29,Emilio Mitre,33
+E,15:15,15:29,Varela,12
+B,15:15,15:29,Uruguay,134
+D,15:15,15:29,Juramento,171
+E,15:15,15:29,Jujuy,30
+A,15:15,15:29,Peru,99
+E,15:15,15:29,Avenida La Plata,23
+A,15:15,15:29,Congreso,94
+C,15:15,15:29,San Juan,41
+C,15:15,15:29,General San Martin,115
+E,15:15,15:29,Pichincha,15
+B,15:15,15:29,Florida,248
+D,15:15,15:29,Facultad de Medicina,95
+H,15:15,15:29,Patricios,30
+C,15:15,15:29,Diagonal Norte,52
+D,15:15,15:29,Tribunales,87
+E,15:15,15:29,Boedo,33
+D,15:15,15:29,Catedral,173
+C,15:15,15:29,Retiro,491
+D,15:15,15:29,Ministro Carranza,81
+D,15:15,15:29,Callao.,117
+C,15:15,15:29,Lavalle,97
+D,15:15,15:29,Olleros,135
+B,15:15,15:29,Federico Lacroze,200
+D,15:15,15:29,Jose Hernandez,118
+B,15:15,15:29,Carlos Pellegrini,225
+C,15:15,15:29,Independencia,46
+A,15:15,15:29,Castro Barros,64
+H,15:15,15:29,Venezuela,31
+B,15:15,15:29,Angel Gallardo,131
+C,15:15,15:29,Mariano Moreno,32
+D,15:15,15:29,Aguero,78
+E,15:15,15:29,San Jose,21
+E,15:15,15:29,Pza. de los Virreyes,48
+C,15:15,15:29,Avenida de Mayo,52
+B,15:30,15:44,Pasteur,161
+A,15:30,15:44,San Pedrito,165
+A,15:30,15:44,Alberti,56
+D,15:30,15:44,Bulnes,192
+A,15:30,15:44,Acoyte,106
+C,15:30,15:44,Independencia,43
+E,15:30,15:44,Jujuy,20
+B,15:30,15:44,Tronador,55
+D,15:30,15:44,Ministro Carranza,60
+C,15:30,15:44,Retiro,376
+E,15:30,15:44,Bolivar,46
+C,15:30,15:44,Diagonal Norte,44
+C,15:30,15:44,General San Martin,84
+B,15:30,15:44,Carlos Pellegrini,175
+A,15:30,15:44,Peru,85
+B,15:30,15:44,Callao,160
+C,15:30,15:44,Avenida de Mayo,46
+E,15:30,15:44,General Belgrano,14
+A,15:30,15:44,Loria,59
+C,15:30,15:44,San Juan,35
+B,15:30,15:44,Medrano,162
+E,15:30,15:44,Jose Maria Moreno,17
+B,15:30,15:44,Uruguay,109
+A,15:30,15:44,Saenz Peña,71
+A,15:30,15:44,Plaza de Mayo,77
+D,15:30,15:44,9 de julio,77
+A,15:30,15:44,Puan,40
+H,15:30,15:44,Humberto I,22
+B,15:30,15:44,Florida,194
+A,15:30,15:44,Castro Barros,62
+C,15:30,15:44,Lavalle,114
+B,15:30,15:44,Carlos Gardel,229
+B,15:30,15:44,Federico Lacroze,276
+D,15:30,15:44,Olleros,98
+B,15:30,15:44,Rosas,169
+D,15:30,15:44,Pueyrredon.,118
+E,15:30,15:44,Avenida La Plata,28
+E,15:30,15:44,Emilio Mitre,21
+A,15:30,15:44,Flores,68
+D,15:30,15:44,Callao.,119
+E,15:30,15:44,Entre Rios,29
+D,15:30,15:44,Plaza Italia,166
+D,15:30,15:44,Palermo,112
+A,15:30,15:44,Piedras,37
+C,15:30,15:44,Constitucion,314
+A,15:30,15:44,Congreso,86
+D,15:30,15:44,Aguero,111
+E,15:30,15:44,Urquiza,14
+A,15:30,15:44,Carabobo,78
+B,15:30,15:44,Pueyrredon,208
+E,15:30,15:44,Pza. de los Virreyes,54
+H,15:30,15:44,Once,50
+E,15:30,15:44,Medalla Milagrosa,9
+H,15:30,15:44,Corrientes,69
+H,15:30,15:44,Patricios,24
+H,15:30,15:44,Caseros,35
+H,15:30,15:44,Inclan,16
+A,15:30,15:44,Plaza Miserere,116
+D,15:30,15:44,Catedral,125
+H,15:30,15:44,Hospitales,21
+E,15:30,15:44,Pichincha,12
+A,15:30,15:44,Lima,37
+D,15:30,15:44,Juramento,142
+B,15:30,15:44,Leandro N. Alem,114
+D,15:30,15:44,Facultad de Medicina,83
+D,15:30,15:44,Scalabrini Ortiz,106
+B,15:30,15:44,Angel Gallardo,116
+B,15:30,15:44,Dorrego,98
+C,15:30,15:44,Mariano Moreno,42
+A,15:30,15:44,Pasco,22
+B,15:30,15:44,Malabia,196
+E,15:30,15:44,Independencia.,36
+D,15:30,15:44,Tribunales,66
+E,15:30,15:44,Boedo,27
+A,15:30,15:44,Primera Junta,76
+E,15:30,15:44,Varela,15
+D,15:30,15:44,Congreso de Tucuman,246
+A,15:30,15:44,Rio de Janeiro,84
+H,15:30,15:44,Venezuela,22
+B,15:30,15:44,Echeverria,41
+E,15:30,15:44,San Jose,17
+D,15:30,15:44,Jose Hernandez,102
+B,15:30,15:44,Los Incas,105
+B,15:45,15:59,Rosas,148
+E,15:45,15:59,San Jose,15
+B,15:45,15:59,Federico Lacroze,257
+E,15:45,15:59,Entre Rios,31
+E,15:45,15:59,Varela,32
+H,15:45,15:59,Inclan,22
+A,15:45,15:59,Saenz Peña,62
+D,15:45,15:59,Jose Hernandez,97
+A,15:45,15:59,Pasco,37
+H,15:45,15:59,Hospitales,13
+D,15:45,15:59,9 de julio,61
+B,15:45,15:59,Florida,156
+A,15:45,15:59,Congreso,87
+E,15:45,15:59,Medalla Milagrosa,14
+H,15:45,15:59,Humberto I,25
+A,15:45,15:59,Rio de Janeiro,60
+C,15:45,15:59,Retiro,258
+D,15:45,15:59,Palermo,135
+B,15:45,15:59,Leandro N. Alem,164
+E,15:45,15:59,Pichincha,17
+A,15:45,15:59,Primera Junta,94
+A,15:45,15:59,Loria,43
+E,15:45,15:59,Bolivar,48
+A,15:45,15:59,Plaza de Mayo,61
+E,15:45,15:59,Urquiza,22
+C,15:45,15:59,Constitucion,216
+C,15:45,15:59,Independencia,52
+H,15:45,15:59,Caseros,21
+A,15:45,15:59,San Pedrito,153
+D,15:45,15:59,Congreso de Tucuman,241
+B,15:45,15:59,Echeverria,52
+D,15:45,15:59,Olleros,91
+D,15:45,15:59,Ministro Carranza,96
+B,15:45,15:59,Medrano,161
+D,15:45,15:59,Scalabrini Ortiz,140
+B,15:45,15:59,Uruguay,122
+C,15:45,15:59,General San Martin,79
+H,15:45,15:59,Corrientes,45
+B,15:45,15:59,Pueyrredon,209
+B,15:45,15:59,Dorrego,113
+B,15:45,15:59,Angel Gallardo,157
+B,15:45,15:59,Pasteur,154
+H,15:45,15:59,Patricios,36
+D,15:45,15:59,Tribunales,61
+C,15:45,15:59,Avenida de Mayo,39
+A,15:45,15:59,Carabobo,83
+D,15:45,15:59,Catedral,113
+E,15:45,15:59,General Belgrano,13
+B,15:45,15:59,Carlos Pellegrini,187
+B,15:45,15:59,Tronador,45
+D,15:45,15:59,Juramento,162
+B,15:45,15:59,Malabia,186
+E,15:45,15:59,Jujuy,19
+E,15:45,15:59,Pza. de los Virreyes,41
+A,15:45,15:59,Piedras,58
+A,15:45,15:59,Castro Barros,68
+B,15:45,15:59,Los Incas,111
+E,15:45,15:59,Boedo,32
+E,15:45,15:59,Avenida La Plata,27
+B,15:45,15:59,Callao,153
+D,15:45,15:59,Callao.,129
+C,15:45,15:59,Diagonal Norte,41
+A,15:45,15:59,Alberti,47
+E,15:45,15:59,Jose Maria Moreno,25
+D,15:45,15:59,Aguero,74
+C,15:45,15:59,Mariano Moreno,29
+C,15:45,15:59,San Juan,33
+A,15:45,15:59,Flores,66
+A,15:45,15:59,Peru,56
+D,15:45,15:59,Plaza Italia,119
+D,15:45,15:59,Bulnes,178
+A,15:45,15:59,Lima,44
+B,15:45,15:59,Carlos Gardel,249
+A,15:45,15:59,Acoyte,80
+E,15:45,15:59,Emilio Mitre,16
+A,15:45,15:59,Plaza Miserere,144
+D,15:45,15:59,Facultad de Medicina,77
+E,15:45,15:59,Independencia.,35
+H,15:45,15:59,Once,42
+H,15:45,15:59,Venezuela,15
+D,15:45,15:59,Pueyrredon.,145
+A,15:45,15:59,Puan,40
+C,15:45,15:59,Lavalle,83
+A,16:00,16:14,Rio de Janeiro,75
+D,16:00,16:14,Juramento,167
+A,16:00,16:14,Acoyte,135
+A,16:00,16:14,Pasco,42
+B,16:00,16:14,Tronador,78
+B,16:00,16:14,Carlos Pellegrini,249
+D,16:00,16:14,Scalabrini Ortiz,127
+E,16:00,16:14,Varela,9
+B,16:00,16:14,Los Incas,100
+D,16:00,16:14,Pueyrredon.,119
+B,16:00,16:14,Rosas,131
+H,16:00,16:14,Corrientes,48
+H,16:00,16:14,Once,54
+B,16:00,16:14,Callao,170
+E,16:00,16:14,Emilio Mitre,23
+B,16:00,16:14,Florida,202
+E,16:00,16:14,Independencia.,31
+A,16:00,16:14,Plaza Miserere,161
+B,16:00,16:14,Uruguay,137
+D,16:00,16:14,Bulnes,184
+A,16:00,16:14,San Pedrito,166
+H,16:00,16:14,Caseros,24
+C,16:00,16:14,Mariano Moreno,49
+E,16:00,16:14,Boedo,30
+A,16:00,16:14,Primera Junta,84
+D,16:00,16:14,Congreso de Tucuman,242
+B,16:00,16:14,Echeverria,62
+A,16:00,16:14,Peru,111
+A,16:00,16:14,Alberti,54
+H,16:00,16:14,Patricios,23
+A,16:00,16:14,Puan,52
+E,16:00,16:14,Bolivar,61
+E,16:00,16:14,Pichincha,16
+E,16:00,16:14,Pza. de los Virreyes,31
+A,16:00,16:14,Saenz Peña,53
+B,16:00,16:14,Pueyrredon,193
+H,16:00,16:14,Humberto I,21
+D,16:00,16:14,Facultad de Medicina,94
+C,16:00,16:14,Diagonal Norte,45
+A,16:00,16:14,Carabobo,76
+A,16:00,16:14,Piedras,64
+E,16:00,16:14,Medalla Milagrosa,13
+A,16:00,16:14,Castro Barros,67
+E,16:00,16:14,Urquiza,18
+B,16:00,16:14,Dorrego,128
+E,16:00,16:14,Entre Rios,21
+A,16:00,16:14,Lima,67
+D,16:00,16:14,Aguero,84
+B,16:00,16:14,Carlos Gardel,219
+D,16:00,16:14,Catedral,119
+B,16:00,16:14,Pasteur,156
+B,16:00,16:14,Medrano,155
+D,16:00,16:14,Callao.,130
+C,16:00,16:14,Independencia,46
+D,16:00,16:14,Jose Hernandez,121
+C,16:00,16:14,General San Martin,152
+A,16:00,16:14,Loria,35
+D,16:00,16:14,Ministro Carranza,93
+C,16:00,16:14,Retiro,456
+C,16:00,16:14,Lavalle,118
+B,16:00,16:14,Leandro N. Alem,144
+H,16:00,16:14,Hospitales,29
+D,16:00,16:14,9 de julio,64
+E,16:00,16:14,Avenida La Plata,32
+B,16:00,16:14,Malabia,209
+A,16:00,16:14,Plaza de Mayo,85
+D,16:00,16:14,Tribunales,81
+D,16:00,16:14,Olleros,101
+D,16:00,16:14,Palermo,142
+E,16:00,16:14,General Belgrano,39
+B,16:00,16:14,Angel Gallardo,143
+C,16:00,16:14,San Juan,27
+A,16:00,16:14,Flores,82
+E,16:00,16:14,Jujuy,24
+H,16:00,16:14,Venezuela,31
+D,16:00,16:14,Plaza Italia,137
+A,16:00,16:14,Congreso,124
+H,16:00,16:14,Inclan,17
+B,16:00,16:14,Federico Lacroze,264
+C,16:00,16:14,Constitucion,465
+E,16:00,16:14,San Jose,26
+E,16:00,16:14,Jose Maria Moreno,30
+C,16:00,16:14,Avenida de Mayo,50
+A,16:15,16:29,Rio de Janeiro,59
+E,16:15,16:29,Entre Rios,21
+D,16:15,16:29,Jose Hernandez,87
+C,16:15,16:29,Constitucion,540
+E,16:15,16:29,Urquiza,29
+B,16:15,16:29,Tronador,64
+B,16:15,16:29,Malabia,234
+A,16:15,16:29,Carabobo,72
+B,16:15,16:29,Echeverria,33
+D,16:15,16:29,Ministro Carranza,84
+B,16:15,16:29,Carlos Pellegrini,220
+B,16:15,16:29,Callao,131
+A,16:15,16:29,Loria,47
+H,16:15,16:29,Humberto I,31
+E,16:15,16:29,Jose Maria Moreno,30
+B,16:15,16:29,Dorrego,118
+A,16:15,16:29,Alberti,36
+C,16:15,16:29,Independencia,48
+C,16:15,16:29,Mariano Moreno,47
+D,16:15,16:29,Plaza Italia,130
+E,16:15,16:29,Avenida La Plata,23
+H,16:15,16:29,Corrientes,46
+A,16:15,16:29,Flores,99
+A,16:15,16:29,Acoyte,108
+A,16:15,16:29,San Pedrito,129
+B,16:15,16:29,Los Incas,99
+E,16:15,16:29,Pza. de los Virreyes,52
+D,16:15,16:29,Catedral,165
+A,16:15,16:29,Plaza de Mayo,117
+A,16:15,16:29,Castro Barros,78
+B,16:15,16:29,Uruguay,106
+C,16:15,16:29,Avenida de Mayo,51
+A,16:15,16:29,Pasco,23
+C,16:15,16:29,San Juan,53
+C,16:15,16:29,Diagonal Norte,46
+D,16:15,16:29,Tribunales,61
+A,16:15,16:29,Lima,49
+E,16:15,16:29,Pichincha,19
+D,16:15,16:29,Bulnes,145
+C,16:15,16:29,Lavalle,112
+E,16:15,16:29,Independencia.,34
+B,16:15,16:29,Pueyrredon,158
+H,16:15,16:29,Once,46
+H,16:15,16:29,Venezuela,40
+H,16:15,16:29,Patricios,31
+D,16:15,16:29,Facultad de Medicina,64
+E,16:15,16:29,Varela,13
+H,16:15,16:29,Inclan,13
+H,16:15,16:29,Caseros,24
+A,16:15,16:29,Piedras,52
+A,16:15,16:29,Primera Junta,71
+E,16:15,16:29,Boedo,34
+B,16:15,16:29,Federico Lacroze,361
+A,16:15,16:29,Puan,53
+E,16:15,16:29,San Jose,20
+D,16:15,16:29,Juramento,175
+C,16:15,16:29,Retiro,468
+D,16:15,16:29,Pueyrredon.,144
+A,16:15,16:29,Plaza Miserere,117
+E,16:15,16:29,General Belgrano,23
+D,16:15,16:29,Scalabrini Ortiz,148
+B,16:15,16:29,Pasteur,125
+B,16:15,16:29,Rosas,193
+H,16:15,16:29,Hospitales,22
+E,16:15,16:29,Emilio Mitre,21
+E,16:15,16:29,Medalla Milagrosa,11
+C,16:15,16:29,General San Martin,113
+D,16:15,16:29,Callao.,128
+A,16:15,16:29,Saenz Peña,56
+D,16:15,16:29,Olleros,133
+E,16:15,16:29,Bolivar,65
+B,16:15,16:29,Carlos Gardel,295
+D,16:15,16:29,Palermo,125
+D,16:15,16:29,Congreso de Tucuman,253
+A,16:15,16:29,Congreso,99
+B,16:15,16:29,Florida,175
+D,16:15,16:29,Aguero,116
+D,16:15,16:29,9 de julio,42
+B,16:15,16:29,Leandro N. Alem,156
+B,16:15,16:29,Medrano,176
+B,16:15,16:29,Angel Gallardo,140
+E,16:15,16:29,Jujuy,21
+A,16:15,16:29,Peru,83
+E,16:30,16:44,Avenida La Plata,30
+C,16:30,16:44,Independencia,33
+C,16:30,16:44,Retiro,467
+B,16:30,16:44,Medrano,154
+D,16:30,16:44,Aguero,111
+C,16:30,16:44,Constitucion,318
+D,16:30,16:44,9 de julio,66
+A,16:30,16:44,Rio de Janeiro,58
+A,16:30,16:44,Saenz Peña,50
+E,16:30,16:44,San Jose,12
+D,16:30,16:44,Jose Hernandez,105
+D,16:30,16:44,Juramento,164
+H,16:30,16:44,Venezuela,28
+A,16:30,16:44,Piedras,51
+A,16:30,16:44,Plaza Miserere,116
+E,16:30,16:44,General Belgrano,22
+B,16:30,16:44,Rosas,143
+D,16:30,16:44,Bulnes,185
+E,16:30,16:44,Medalla Milagrosa,6
+A,16:30,16:44,Castro Barros,83
+B,16:30,16:44,Leandro N. Alem,139
+D,16:30,16:44,Facultad de Medicina,89
+A,16:30,16:44,Congreso,90
+H,16:30,16:44,Inclan,13
+A,16:30,16:44,Alberti,35
+E,16:30,16:44,Jose Maria Moreno,32
+A,16:30,16:44,Peru,78
+D,16:30,16:44,Tribunales,63
+H,16:30,16:44,Humberto I,23
+B,16:30,16:44,Malabia,205
+B,16:30,16:44,Carlos Gardel,297
+D,16:30,16:44,Catedral,148
+B,16:30,16:44,Angel Gallardo,136
+E,16:30,16:44,Pza. de los Virreyes,35
+E,16:30,16:44,Boedo,28
+A,16:30,16:44,San Pedrito,119
+A,16:30,16:44,Lima,40
+B,16:30,16:44,Dorrego,141
+B,16:30,16:44,Echeverria,56
+B,16:30,16:44,Pasteur,136
+B,16:30,16:44,Carlos Pellegrini,197
+B,16:30,16:44,Tronador,57
+A,16:30,16:44,Plaza de Mayo,77
+H,16:30,16:44,Once,48
+A,16:30,16:44,Puan,39
+E,16:30,16:44,Bolivar,45
+B,16:30,16:44,Uruguay,154
+D,16:30,16:44,Scalabrini Ortiz,129
+B,16:30,16:44,Los Incas,114
+E,16:30,16:44,Independencia.,32
+C,16:30,16:44,Avenida de Mayo,44
+D,16:30,16:44,Olleros,92
+D,16:30,16:44,Plaza Italia,109
+H,16:30,16:44,Hospitales,11
+C,16:30,16:44,Mariano Moreno,47
+D,16:30,16:44,Callao.,85
+D,16:30,16:44,Pueyrredon.,129
+H,16:30,16:44,Patricios,22
+B,16:30,16:44,Federico Lacroze,135
+C,16:30,16:44,General San Martin,94
+A,16:30,16:44,Loria,61
+B,16:30,16:44,Pueyrredon,204
+A,16:30,16:44,Flores,62
+C,16:30,16:44,San Juan,34
+A,16:30,16:44,Pasco,23
+E,16:30,16:44,Urquiza,22
+D,16:30,16:44,Congreso de Tucuman,260
+A,16:30,16:44,Acoyte,87
+H,16:30,16:44,Caseros,45
+E,16:30,16:44,Varela,13
+E,16:30,16:44,Emilio Mitre,29
+H,16:30,16:44,Corrientes,53
+A,16:30,16:44,Carabobo,68
+E,16:30,16:44,Jujuy,14
+D,16:30,16:44,Palermo,150
+C,16:30,16:44,Lavalle,106
+A,16:30,16:44,Primera Junta,71
+C,16:30,16:44,Diagonal Norte,28
+E,16:30,16:44,Pichincha,11
+D,16:30,16:44,Ministro Carranza,88
+B,16:30,16:44,Callao,165
+E,16:30,16:44,Entre Rios,34
+B,16:30,16:44,Florida,168
+E,16:45,16:59,Independencia.,29
+B,16:45,16:59,Los Incas,94
+D,16:45,16:59,Palermo,132
+D,16:45,16:59,Olleros,100
+B,16:45,16:59,Medrano,134
+B,16:45,16:59,Federico Lacroze,320
+A,16:45,16:59,Congreso,92
+H,16:45,16:59,Inclan,28
+A,16:45,16:59,Saenz Peña,70
+E,16:45,16:59,Entre Rios,23
+E,16:45,16:59,Medalla Milagrosa,9
+D,16:45,16:59,Scalabrini Ortiz,130
+A,16:45,16:59,Primera Junta,75
+B,16:45,16:59,Angel Gallardo,141
+A,16:45,16:59,Acoyte,135
+H,16:45,16:59,Hospitales,16
+D,16:45,16:59,Facultad de Medicina,73
+E,16:45,16:59,Varela,5
+D,16:45,16:59,Congreso de Tucuman,264
+B,16:45,16:59,Echeverria,45
+D,16:45,16:59,Bulnes,190
+A,16:45,16:59,Flores,64
+A,16:45,16:59,Plaza de Mayo,86
+C,16:45,16:59,San Juan,51
+C,16:45,16:59,General San Martin,79
+E,16:45,16:59,Bolivar,40
+H,16:45,16:59,Caseros,35
+C,16:45,16:59,Diagonal Norte,26
+D,16:45,16:59,Tribunales,88
+E,16:45,16:59,Urquiza,18
+D,16:45,16:59,Jose Hernandez,87
+B,16:45,16:59,Pueyrredon,194
+C,16:45,16:59,Independencia,54
+E,16:45,16:59,Pichincha,13
+C,16:45,16:59,Retiro,404
+D,16:45,16:59,Ministro Carranza,87
+D,16:45,16:59,Juramento,141
+H,16:45,16:59,Humberto I,37
+A,16:45,16:59,Piedras,41
+B,16:45,16:59,Carlos Pellegrini,207
+A,16:45,16:59,Alberti,47
+B,16:45,16:59,Leandro N. Alem,120
+B,16:45,16:59,Tronador,56
+A,16:45,16:59,Pasco,15
+A,16:45,16:59,Lima,40
+A,16:45,16:59,Rio de Janeiro,83
+H,16:45,16:59,Corrientes,37
+E,16:45,16:59,San Jose,10
+C,16:45,16:59,Avenida de Mayo,17
+B,16:45,16:59,Florida,171
+D,16:45,16:59,9 de julio,65
+B,16:45,16:59,Pasteur,135
+A,16:45,16:59,Peru,71
+A,16:45,16:59,Plaza Miserere,130
+D,16:45,16:59,Plaza Italia,178
+B,16:45,16:59,Callao,158
+E,16:45,16:59,Emilio Mitre,16
+H,16:45,16:59,Venezuela,15
+A,16:45,16:59,Carabobo,97
+H,16:45,16:59,Patricios,23
+A,16:45,16:59,Castro Barros,47
+H,16:45,16:59,Once,61
+D,16:45,16:59,Callao.,106
+B,16:45,16:59,Rosas,119
+D,16:45,16:59,Pueyrredon.,141
+E,16:45,16:59,Jose Maria Moreno,31
+E,16:45,16:59,General Belgrano,12
+B,16:45,16:59,Uruguay,111
+B,16:45,16:59,Dorrego,123
+A,16:45,16:59,Puan,40
+D,16:45,16:59,Catedral,124
+A,16:45,16:59,San Pedrito,121
+B,16:45,16:59,Malabia,219
+E,16:45,16:59,Boedo,53
+C,16:45,16:59,Lavalle,96
+E,16:45,16:59,Pza. de los Virreyes,37
+E,16:45,16:59,Avenida La Plata,27
+D,16:45,16:59,Aguero,96
+A,16:45,16:59,Loria,53
+B,16:45,16:59,Carlos Gardel,269
+E,16:45,16:59,Jujuy,21
+C,16:45,16:59,Mariano Moreno,35
+C,16:45,16:59,Constitucion,331
+C,17:00,17:14,Avenida de Mayo,52
+H,17:00,17:14,Corrientes,38
+C,17:00,17:14,Independencia,48
+D,17:00,17:14,Callao.,112
+H,17:00,17:14,Hospitales,20
+E,17:00,17:14,Medalla Milagrosa,9
+D,17:00,17:14,9 de julio,60
+A,17:00,17:14,Castro Barros,75
+B,17:00,17:14,Medrano,212
+A,17:00,17:14,Puan,30
+B,17:00,17:14,Dorrego,155
+B,17:00,17:14,Federico Lacroze,160
+E,17:00,17:14,Independencia.,19
+H,17:00,17:14,Inclan,37
+D,17:00,17:14,Aguero,101
+E,17:00,17:14,Jose Maria Moreno,22
+D,17:00,17:14,Jose Hernandez,117
+B,17:00,17:14,Tronador,78
+D,17:00,17:14,Ministro Carranza,75
+C,17:00,17:14,Retiro,498
+B,17:00,17:14,Carlos Pellegrini,220
+C,17:00,17:14,Mariano Moreno,59
+B,17:00,17:14,Carlos Gardel,293
+A,17:00,17:14,Rio de Janeiro,77
+E,17:00,17:14,Avenida La Plata,35
+A,17:00,17:14,Pasco,27
+E,17:00,17:14,San Jose,26
+A,17:00,17:14,Plaza de Mayo,94
+E,17:00,17:14,Varela,31
+B,17:00,17:14,Rosas,179
+D,17:00,17:14,Olleros,103
+D,17:00,17:14,Pueyrredon.,149
+D,17:00,17:14,Tribunales,81
+A,17:00,17:14,Saenz Peña,74
+B,17:00,17:14,Florida,234
+A,17:00,17:14,Lima,70
+H,17:00,17:14,Caseros,42
+A,17:00,17:14,Peru,79
+B,17:00,17:14,Callao,168
+A,17:00,17:14,Primera Junta,65
+E,17:00,17:14,Emilio Mitre,17
+D,17:00,17:14,Congreso de Tucuman,224
+C,17:00,17:14,Lavalle,163
+H,17:00,17:14,Venezuela,39
+E,17:00,17:14,General Belgrano,22
+C,17:00,17:14,General San Martin,115
+B,17:00,17:14,Echeverria,51
+A,17:00,17:14,Plaza Miserere,126
+D,17:00,17:14,Catedral,142
+A,17:00,17:14,Loria,50
+B,17:00,17:14,Malabia,236
+A,17:00,17:14,Alberti,29
+A,17:00,17:14,Flores,59
+A,17:00,17:14,Piedras,46
+D,17:00,17:14,Facultad de Medicina,98
+E,17:00,17:14,Pichincha,19
+C,17:00,17:14,San Juan,47
+E,17:00,17:14,Jujuy,27
+B,17:00,17:14,Pasteur,147
+B,17:00,17:14,Leandro N. Alem,150
+D,17:00,17:14,Scalabrini Ortiz,138
+H,17:00,17:14,Once,67
+D,17:00,17:14,Juramento,217
+A,17:00,17:14,San Pedrito,125
+A,17:00,17:14,Carabobo,99
+E,17:00,17:14,Entre Rios,36
+H,17:00,17:14,Humberto I,28
+B,17:00,17:14,Uruguay,114
+D,17:00,17:14,Palermo,130
+C,17:00,17:14,Constitucion,341
+E,17:00,17:14,Bolivar,56
+B,17:00,17:14,Angel Gallardo,115
+D,17:00,17:14,Bulnes,209
+H,17:00,17:14,Patricios,40
+B,17:00,17:14,Pueyrredon,215
+D,17:00,17:14,Plaza Italia,193
+C,17:00,17:14,Diagonal Norte,39
+E,17:00,17:14,Boedo,36
+A,17:00,17:14,Congreso,107
+B,17:00,17:14,Los Incas,109
+A,17:00,17:14,Acoyte,132
+E,17:00,17:14,Urquiza,19
+E,17:00,17:14,Pza. de los Virreyes,49
+H,17:15,17:29,Inclan,35
+A,17:15,17:29,Castro Barros,65
+C,17:15,17:29,Diagonal Norte,36
+B,17:15,17:29,Carlos Gardel,304
+E,17:15,17:29,Pichincha,21
+C,17:15,17:29,General San Martin,86
+B,17:15,17:29,Medrano,158
+B,17:15,17:29,Leandro N. Alem,178
+A,17:15,17:29,Plaza Miserere,131
+E,17:15,17:29,Entre Rios,28
+A,17:15,17:29,Primera Junta,95
+D,17:15,17:29,Congreso de Tucuman,265
+H,17:15,17:29,Once,45
+D,17:15,17:29,Facultad de Medicina,94
+A,17:15,17:29,Saenz Peña,63
+A,17:15,17:29,Acoyte,98
+E,17:15,17:29,Bolivar,61
+B,17:15,17:29,Carlos Pellegrini,196
+B,17:15,17:29,Echeverria,39
+B,17:15,17:29,Tronador,59
+C,17:15,17:29,Constitucion,339
+D,17:15,17:29,Catedral,183
+B,17:15,17:29,Angel Gallardo,137
+C,17:15,17:29,San Juan,51
+A,17:15,17:29,Flores,53
+D,17:15,17:29,Tribunales,56
+E,17:15,17:29,Emilio Mitre,31
+B,17:15,17:29,Florida,196
+C,17:15,17:29,Mariano Moreno,43
+H,17:15,17:29,Patricios,33
+E,17:15,17:29,General Belgrano,14
+H,17:15,17:29,Venezuela,35
+D,17:15,17:29,Olleros,86
+D,17:15,17:29,9 de julio,64
+E,17:15,17:29,Jujuy,27
+B,17:15,17:29,Federico Lacroze,348
+A,17:15,17:29,Lima,54
+A,17:15,17:29,Alberti,40
+E,17:15,17:29,Pza. de los Virreyes,38
+B,17:15,17:29,Callao,156
+A,17:15,17:29,Congreso,93
+A,17:15,17:29,Plaza de Mayo,88
+H,17:15,17:29,Corrientes,61
+D,17:15,17:29,Juramento,141
+A,17:15,17:29,Pasco,16
+B,17:15,17:29,Los Incas,99
+D,17:15,17:29,Scalabrini Ortiz,128
+E,17:15,17:29,Varela,20
+D,17:15,17:29,Callao.,115
+B,17:15,17:29,Pasteur,125
+D,17:15,17:29,Aguero,74
+B,17:15,17:29,Dorrego,105
+E,17:15,17:29,Medalla Milagrosa,11
+E,17:15,17:29,Urquiza,14
+A,17:15,17:29,Puan,56
+E,17:15,17:29,Independencia.,21
+A,17:15,17:29,San Pedrito,169
+A,17:15,17:29,Carabobo,69
+D,17:15,17:29,Plaza Italia,159
+E,17:15,17:29,Jose Maria Moreno,21
+E,17:15,17:29,Boedo,37
+C,17:15,17:29,Independencia,49
+D,17:15,17:29,Jose Hernandez,83
+D,17:15,17:29,Ministro Carranza,85
+C,17:15,17:29,Retiro,566
+A,17:15,17:29,Peru,79
+B,17:15,17:29,Uruguay,143
+E,17:15,17:29,San Jose,18
+A,17:15,17:29,Rio de Janeiro,78
+B,17:15,17:29,Malabia,264
+H,17:15,17:29,Hospitales,13
+D,17:15,17:29,Palermo,142
+C,17:15,17:29,Lavalle,90
+E,17:15,17:29,Avenida La Plata,33
+A,17:15,17:29,Loria,57
+B,17:15,17:29,Pueyrredon,204
+A,17:15,17:29,Piedras,32
+H,17:15,17:29,Humberto I,27
+D,17:15,17:29,Bulnes,201
+H,17:15,17:29,Caseros,44
+C,17:15,17:29,Avenida de Mayo,53
+B,17:15,17:29,Rosas,181
+D,17:15,17:29,Pueyrredon.,123
+B,17:30,17:44,Carlos Pellegrini,237
+E,17:30,17:44,Urquiza,30
+A,17:30,17:44,San Pedrito,132
+A,17:30,17:44,Peru,61
+C,17:30,17:44,Independencia,56
+B,17:30,17:44,Malabia,219
+A,17:30,17:44,Congreso,95
+H,17:30,17:44,Inclan,28
+A,17:30,17:44,Flores,67
+E,17:30,17:44,Boedo,35
+B,17:30,17:44,Callao,164
+E,17:30,17:44,Emilio Mitre,15
+A,17:30,17:44,Acoyte,99
+E,17:30,17:44,Medalla Milagrosa,10
+B,17:30,17:44,Echeverria,39
+B,17:30,17:44,Florida,169
+H,17:30,17:44,Once,44
+C,17:30,17:44,Constitucion,429
+E,17:30,17:44,Pichincha,25
+D,17:30,17:44,Plaza Italia,174
+B,17:30,17:44,Angel Gallardo,150
+E,17:30,17:44,Pza. de los Virreyes,49
+E,17:30,17:44,Bolivar,62
+A,17:30,17:44,Rio de Janeiro,71
+A,17:30,17:44,Plaza Miserere,122
+E,17:30,17:44,Entre Rios,39
+D,17:30,17:44,Juramento,191
+D,17:30,17:44,Catedral,128
+D,17:30,17:44,Jose Hernandez,93
+C,17:30,17:44,Lavalle,74
+C,17:30,17:44,Retiro,432
+B,17:30,17:44,Carlos Gardel,295
+D,17:30,17:44,Bulnes,181
+E,17:30,17:44,San Jose,4
+B,17:30,17:44,Uruguay,132
+E,17:30,17:44,Jose Maria Moreno,29
+H,17:30,17:44,Humberto I,25
+A,17:30,17:44,Castro Barros,76
+B,17:30,17:44,Federico Lacroze,245
+D,17:30,17:44,Scalabrini Ortiz,101
+D,17:30,17:44,Olleros,92
+B,17:30,17:44,Rosas,167
+A,17:30,17:44,Lima,59
+D,17:30,17:44,Palermo,123
+H,17:30,17:44,Venezuela,25
+D,17:30,17:44,Ministro Carranza,74
+A,17:30,17:44,Piedras,35
+B,17:30,17:44,Los Incas,111
+C,17:30,17:44,Mariano Moreno,39
+E,17:30,17:44,Independencia.,22
+D,17:30,17:44,Tribunales,63
+D,17:30,17:44,Pueyrredon.,111
+E,17:30,17:44,Avenida La Plata,35
+B,17:30,17:44,Medrano,152
+B,17:30,17:44,Dorrego,174
+C,17:30,17:44,Avenida de Mayo,30
+H,17:30,17:44,Patricios,21
+E,17:30,17:44,General Belgrano,11
+A,17:30,17:44,Alberti,31
+A,17:30,17:44,Primera Junta,73
+D,17:30,17:44,Aguero,95
+C,17:30,17:44,Diagonal Norte,24
+C,17:30,17:44,General San Martin,84
+B,17:30,17:44,Pasteur,133
+C,17:30,17:44,San Juan,36
+D,17:30,17:44,Callao.,100
+A,17:30,17:44,Carabobo,65
+A,17:30,17:44,Pasco,17
+B,17:30,17:44,Pueyrredon,208
+B,17:30,17:44,Leandro N. Alem,169
+H,17:30,17:44,Corrientes,58
+D,17:30,17:44,Congreso de Tucuman,240
+A,17:30,17:44,Saenz Peña,31
+H,17:30,17:44,Hospitales,17
+A,17:30,17:44,Puan,37
+B,17:30,17:44,Tronador,70
+A,17:30,17:44,Plaza de Mayo,76
+D,17:30,17:44,Facultad de Medicina,87
+E,17:30,17:44,Varela,15
+A,17:30,17:44,Loria,46
+H,17:30,17:44,Caseros,47
+E,17:30,17:44,Jujuy,20
+D,17:30,17:44,9 de julio,63
+B,17:45,17:59,Angel Gallardo,125
+D,17:45,17:59,Congreso de Tucuman,243
+C,17:45,17:59,Avenida de Mayo,26
+A,17:45,17:59,Primera Junta,88
+D,17:45,17:59,Tribunales,67
+A,17:45,17:59,Lima,51
+B,17:45,17:59,Uruguay,98
+B,17:45,17:59,Malabia,236
+H,17:45,17:59,Inclan,28
+E,17:45,17:59,Bolivar,49
+H,17:45,17:59,Venezuela,22
+E,17:45,17:59,Jose Maria Moreno,32
+A,17:45,17:59,Congreso,72
+H,17:45,17:59,Corrientes,36
+H,17:45,17:59,Caseros,38
+D,17:45,17:59,Plaza Italia,178
+D,17:45,17:59,Bulnes,183
+E,17:45,17:59,Pichincha,18
+B,17:45,17:59,Los Incas,135
+E,17:45,17:59,Varela,11
+D,17:45,17:59,Pueyrredon.,117
+D,17:45,17:59,Scalabrini Ortiz,108
+E,17:45,17:59,General Belgrano,18
+B,17:45,17:59,Federico Lacroze,340
+D,17:45,17:59,Olleros,94
+B,17:45,17:59,Echeverria,46
+B,17:45,17:59,Carlos Gardel,252
+B,17:45,17:59,Medrano,131
+A,17:45,17:59,Piedras,37
+D,17:45,17:59,9 de julio,55
+E,17:45,17:59,Pza. de los Virreyes,37
+H,17:45,17:59,Humberto I,15
+D,17:45,17:59,Facultad de Medicina,81
+C,17:45,17:59,Diagonal Norte,33
+B,17:45,17:59,Pueyrredon,183
+E,17:45,17:59,Urquiza,16
+E,17:45,17:59,Medalla Milagrosa,15
+D,17:45,17:59,Juramento,163
+B,17:45,17:59,Dorrego,128
+D,17:45,17:59,Aguero,62
+E,17:45,17:59,Avenida La Plata,36
+C,17:45,17:59,Mariano Moreno,28
+A,17:45,17:59,Castro Barros,65
+C,17:45,17:59,Lavalle,87
+A,17:45,17:59,Plaza de Mayo,64
+B,17:45,17:59,Pasteur,133
+D,17:45,17:59,Callao.,105
+A,17:45,17:59,Loria,69
+E,17:45,17:59,San Jose,24
+A,17:45,17:59,Rio de Janeiro,77
+E,17:45,17:59,Boedo,36
+B,17:45,17:59,Callao,147
+E,17:45,17:59,Independencia.,36
+E,17:45,17:59,Jujuy,18
+A,17:45,17:59,San Pedrito,149
+H,17:45,17:59,Hospitales,18
+H,17:45,17:59,Patricios,31
+C,17:45,17:59,Constitucion,368
+E,17:45,17:59,Entre Rios,39
+A,17:45,17:59,Puan,25
+B,17:45,17:59,Leandro N. Alem,161
+A,17:45,17:59,Plaza Miserere,129
+C,17:45,17:59,Retiro,335
+D,17:45,17:59,Ministro Carranza,69
+D,17:45,17:59,Catedral,131
+A,17:45,17:59,Carabobo,84
+A,17:45,17:59,Peru,84
+B,17:45,17:59,Carlos Pellegrini,152
+B,17:45,17:59,Tronador,62
+D,17:45,17:59,Palermo,128
+D,17:45,17:59,Jose Hernandez,107
+A,17:45,17:59,Pasco,15
+A,17:45,17:59,Acoyte,97
+C,17:45,17:59,Independencia,49
+A,17:45,17:59,Saenz Peña,40
+E,17:45,17:59,Emilio Mitre,17
+C,17:45,17:59,General San Martin,75
+B,17:45,17:59,Florida,156
+H,17:45,17:59,Once,47
+A,17:45,17:59,Flores,86
+A,17:45,17:59,Alberti,32
+C,17:45,17:59,San Juan,33
+B,17:45,17:59,Rosas,165
+B,18:00,18:14,Dorrego,118
+H,18:00,18:14,Inclan,36
+A,18:00,18:14,Puan,42
+E,18:00,18:14,San Jose,21
+A,18:00,18:14,Rio de Janeiro,86
+D,18:00,18:14,Scalabrini Ortiz,129
+H,18:00,18:14,Caseros,66
+D,18:00,18:14,9 de julio,62
+D,18:00,18:14,Jose Hernandez,109
+E,18:00,18:14,Avenida La Plata,26
+E,18:00,18:14,Pichincha,24
+B,18:00,18:14,Callao,155
+A,18:00,18:14,Plaza Miserere,142
+E,18:00,18:14,Emilio Mitre,17
+E,18:00,18:14,Jujuy,22
+A,18:00,18:14,Castro Barros,91
+D,18:00,18:14,Bulnes,178
+B,18:00,18:14,Florida,210
+D,18:00,18:14,Pueyrredon.,130
+A,18:00,18:14,Plaza de Mayo,98
+B,18:00,18:14,Pasteur,123
+C,18:00,18:14,Constitucion,283
+C,18:00,18:14,San Juan,45
+C,18:00,18:14,General San Martin,136
+B,18:00,18:14,Angel Gallardo,160
+D,18:00,18:14,Palermo,181
+H,18:00,18:14,Humberto I,21
+B,18:00,18:14,Medrano,159
+A,18:00,18:14,Piedras,67
+A,18:00,18:14,Carabobo,89
+E,18:00,18:14,General Belgrano,25
+E,18:00,18:14,Entre Rios,36
+B,18:00,18:14,Carlos Gardel,292
+B,18:00,18:14,Rosas,154
+H,18:00,18:14,Hospitales,8
+H,18:00,18:14,Venezuela,31
+A,18:00,18:14,Loria,62
+D,18:00,18:14,Congreso de Tucuman,251
+B,18:00,18:14,Tronador,101
+B,18:00,18:14,Echeverria,51
+B,18:00,18:14,Carlos Pellegrini,232
+D,18:00,18:14,Facultad de Medicina,73
+B,18:00,18:14,Uruguay,136
+B,18:00,18:14,Pueyrredon,135
+E,18:00,18:14,Bolivar,82
+D,18:00,18:14,Ministro Carranza,75
+D,18:00,18:14,Aguero,91
+C,18:00,18:14,Avenida de Mayo,49
+A,18:00,18:14,Lima,76
+C,18:00,18:14,Mariano Moreno,68
+C,18:00,18:14,Retiro,373
+D,18:00,18:14,Plaza Italia,203
+A,18:00,18:14,Acoyte,113
+E,18:00,18:14,Urquiza,11
+E,18:00,18:14,Independencia.,32
+E,18:00,18:14,Varela,10
+D,18:00,18:14,Catedral,214
+E,18:00,18:14,Jose Maria Moreno,31
+D,18:00,18:14,Tribunales,120
+B,18:00,18:14,Federico Lacroze,298
+A,18:00,18:14,Congreso,92
+C,18:00,18:14,Lavalle,162
+A,18:00,18:14,Alberti,42
+B,18:00,18:14,Leandro N. Alem,211
+B,18:00,18:14,Malabia,277
+H,18:00,18:14,Once,57
+A,18:00,18:14,Peru,106
+C,18:00,18:14,Independencia,45
+C,18:00,18:14,Diagonal Norte,37
+E,18:00,18:14,Boedo,30
+A,18:00,18:14,Flores,76
+D,18:00,18:14,Juramento,159
+D,18:00,18:14,Callao.,112
+A,18:00,18:14,Primera Junta,93
+A,18:00,18:14,San Pedrito,142
+A,18:00,18:14,Pasco,28
+D,18:00,18:14,Olleros,134
+E,18:00,18:14,Pza. de los Virreyes,48
+H,18:00,18:14,Patricios,51
+E,18:00,18:14,Medalla Milagrosa,16
+H,18:00,18:14,Corrientes,62
+A,18:00,18:14,Saenz Peña,57
+B,18:00,18:14,Los Incas,92
+H,18:15,18:29,Venezuela,28
+E,18:15,18:29,Medalla Milagrosa,12
+H,18:15,18:29,Inclan,22
+A,18:15,18:29,Congreso,97
+B,18:15,18:29,Federico Lacroze,247
+B,18:15,18:29,Carlos Gardel,287
+D,18:15,18:29,Callao.,114
+C,18:15,18:29,Diagonal Norte,30
+D,18:15,18:29,Facultad de Medicina,87
+D,18:15,18:29,Olleros,90
+H,18:15,18:29,Patricios,39
+B,18:15,18:29,Tronador,62
+B,18:15,18:29,Echeverria,45
+B,18:15,18:29,Carlos Pellegrini,233
+E,18:15,18:29,General Belgrano,21
+E,18:15,18:29,Bolivar,61
+E,18:15,18:29,Boedo,36
+C,18:15,18:29,Mariano Moreno,30
+A,18:15,18:29,Acoyte,126
+C,18:15,18:29,Avenida de Mayo,49
+E,18:15,18:29,Avenida La Plata,35
+C,18:15,18:29,Lavalle,96
+D,18:15,18:29,9 de julio,55
+E,18:15,18:29,Independencia.,33
+B,18:15,18:29,Pasteur,138
+A,18:15,18:29,Loria,67
+H,18:15,18:29,Hospitales,29
+D,18:15,18:29,Ministro Carranza,85
+A,18:15,18:29,Plaza Miserere,153
+B,18:15,18:29,Dorrego,146
+C,18:15,18:29,Retiro,452
+E,18:15,18:29,Pichincha,23
+E,18:15,18:29,Urquiza,12
+C,18:15,18:29,Constitucion,400
+D,18:15,18:29,Palermo,133
+H,18:15,18:29,Corrientes,51
+D,18:15,18:29,Aguero,64
+E,18:15,18:29,Jujuy,31
+A,18:15,18:29,Primera Junta,76
+D,18:15,18:29,Congreso de Tucuman,292
+D,18:15,18:29,Scalabrini Ortiz,99
+H,18:15,18:29,Caseros,29
+C,18:15,18:29,Independencia,54
+H,18:15,18:29,Once,31
+D,18:15,18:29,Bulnes,148
+A,18:15,18:29,Pasco,23
+A,18:15,18:29,Piedras,58
+E,18:15,18:29,Varela,12
+H,18:15,18:29,Humberto I,21
+E,18:15,18:29,Entre Rios,44
+D,18:15,18:29,Pueyrredon.,120
+E,18:15,18:29,Emilio Mitre,23
+B,18:15,18:29,Pueyrredon,172
+D,18:15,18:29,Jose Hernandez,100
+E,18:15,18:29,San Jose,19
+A,18:15,18:29,Rio de Janeiro,69
+A,18:15,18:29,Peru,91
+A,18:15,18:29,Alberti,35
+B,18:15,18:29,Callao,151
+A,18:15,18:29,Carabobo,77
+B,18:15,18:29,Los Incas,107
+B,18:15,18:29,Florida,189
+D,18:15,18:29,Juramento,162
+B,18:15,18:29,Uruguay,120
+B,18:15,18:29,Rosas,165
+A,18:15,18:29,Lima,54
+D,18:15,18:29,Catedral,210
+A,18:15,18:29,Plaza de Mayo,93
+D,18:15,18:29,Plaza Italia,200
+E,18:15,18:29,Pza. de los Virreyes,41
+B,18:15,18:29,Angel Gallardo,135
+A,18:15,18:29,Flores,56
+C,18:15,18:29,San Juan,46
+B,18:15,18:29,Medrano,129
+D,18:15,18:29,Tribunales,74
+C,18:15,18:29,General San Martin,87
+A,18:15,18:29,Puan,45
+A,18:15,18:29,Castro Barros,78
+B,18:15,18:29,Malabia,251
+B,18:15,18:29,Leandro N. Alem,235
+A,18:15,18:29,Saenz Peña,49
+A,18:15,18:29,San Pedrito,89
+E,18:15,18:29,Jose Maria Moreno,26
+B,18:30,18:44,Dorrego,104
+A,18:30,18:44,San Pedrito,102
+D,18:30,18:44,Juramento,196
+C,18:30,18:44,Diagonal Norte,25
+D,18:30,18:44,Olleros,107
+B,18:30,18:44,Leandro N. Alem,205
+A,18:30,18:44,Castro Barros,85
+E,18:30,18:44,Entre Rios,24
+C,18:30,18:44,Lavalle,104
+A,18:30,18:44,Pasco,15
+D,18:30,18:44,Catedral,167
+A,18:30,18:44,Peru,87
+B,18:30,18:44,Pueyrredon,158
+D,18:30,18:44,Palermo,97
+D,18:30,18:44,Plaza Italia,134
+E,18:30,18:44,Independencia.,43
+H,18:30,18:44,Corrientes,42
+A,18:30,18:44,Acoyte,101
+A,18:30,18:44,Plaza Miserere,100
+B,18:30,18:44,Medrano,115
+A,18:30,18:44,Carabobo,67
+E,18:30,18:44,Jujuy,17
+E,18:30,18:44,Emilio Mitre,36
+C,18:30,18:44,Constitucion,311
+B,18:30,18:44,Tronador,53
+B,18:30,18:44,Carlos Pellegrini,212
+B,18:30,18:44,Rosas,163
+E,18:30,18:44,Medalla Milagrosa,10
+E,18:30,18:44,San Jose,27
+B,18:30,18:44,Echeverria,38
+A,18:30,18:44,Plaza de Mayo,91
+C,18:30,18:44,San Juan,38
+D,18:30,18:44,Pueyrredon.,117
+A,18:30,18:44,Flores,55
+C,18:30,18:44,Mariano Moreno,50
+E,18:30,18:44,Boedo,31
+B,18:30,18:44,Federico Lacroze,180
+B,18:30,18:44,Los Incas,97
+E,18:30,18:44,Bolivar,49
+B,18:30,18:44,Angel Gallardo,151
+C,18:30,18:44,Avenida de Mayo,35
+H,18:30,18:44,Humberto I,26
+B,18:30,18:44,Malabia,207
+A,18:30,18:44,Saenz Peña,54
+E,18:30,18:44,Pza. de los Virreyes,38
+H,18:30,18:44,Inclan,12
+D,18:30,18:44,Facultad de Medicina,88
+A,18:30,18:44,Lima,51
+A,18:30,18:44,Alberti,33
+B,18:30,18:44,Uruguay,129
+H,18:30,18:44,Once,45
+D,18:30,18:44,Bulnes,192
+A,18:30,18:44,Piedras,56
+D,18:30,18:44,9 de julio,36
+D,18:30,18:44,Scalabrini Ortiz,116
+D,18:30,18:44,Tribunales,49
+B,18:30,18:44,Carlos Gardel,311
+A,18:30,18:44,Puan,37
+C,18:30,18:44,Independencia,62
+B,18:30,18:44,Callao,194
+H,18:30,18:44,Hospitales,12
+D,18:30,18:44,Jose Hernandez,71
+A,18:30,18:44,Primera Junta,83
+B,18:30,18:44,Pasteur,102
+D,18:30,18:44,Callao.,102
+D,18:30,18:44,Ministro Carranza,54
+C,18:30,18:44,Retiro,463
+A,18:30,18:44,Rio de Janeiro,81
+D,18:30,18:44,Congreso de Tucuman,254
+E,18:30,18:44,Pichincha,17
+E,18:30,18:44,Jose Maria Moreno,26
+E,18:30,18:44,Avenida La Plata,16
+E,18:30,18:44,Varela,10
+H,18:30,18:44,Venezuela,34
+H,18:30,18:44,Patricios,22
+E,18:30,18:44,General Belgrano,10
+D,18:30,18:44,Aguero,87
+A,18:30,18:44,Congreso,93
+H,18:30,18:44,Caseros,21
+E,18:30,18:44,Urquiza,19
+B,18:30,18:44,Florida,145
+A,18:30,18:44,Loria,58
+C,18:30,18:44,General San Martin,79
+E,18:45,18:59,Entre Rios,35
+D,18:45,18:59,Plaza Italia,148
+A,18:45,18:59,Piedras,28
+C,18:45,18:59,Constitucion,317
+B,18:45,18:59,Malabia,229
+A,18:45,18:59,Peru,64
+H,18:45,18:59,Patricios,27
+B,18:45,18:59,Callao,132
+H,18:45,18:59,Humberto I,23
+A,18:45,18:59,Saenz Peña,48
+B,18:45,18:59,Dorrego,99
+H,18:45,18:59,Inclan,21
+B,18:45,18:59,Pasteur,79
+B,18:45,18:59,Los Incas,77
+A,18:45,18:59,Plaza de Mayo,84
+E,18:45,18:59,Emilio Mitre,21
+B,18:45,18:59,Florida,141
+C,18:45,18:59,Independencia,32
+E,18:45,18:59,Jose Maria Moreno,25
+E,18:45,18:59,Independencia.,21
+B,18:45,18:59,Medrano,120
+D,18:45,18:59,Catedral,134
+A,18:45,18:59,Loria,35
+C,18:45,18:59,Lavalle,60
+B,18:45,18:59,Uruguay,78
+A,18:45,18:59,Primera Junta,81
+D,18:45,18:59,Olleros,89
+E,18:45,18:59,Boedo,35
+E,18:45,18:59,General Belgrano,10
+D,18:45,18:59,Aguero,83
+E,18:45,18:59,Varela,10
+B,18:45,18:59,Leandro N. Alem,112
+H,18:45,18:59,Venezuela,17
+D,18:45,18:59,Callao.,124
+D,18:45,18:59,Bulnes,217
+E,18:45,18:59,Avenida La Plata,23
+E,18:45,18:59,Jujuy,16
+D,18:45,18:59,Jose Hernandez,87
+H,18:45,18:59,Caseros,22
+A,18:45,18:59,Acoyte,115
+B,18:45,18:59,Rosas,137
+D,18:45,18:59,Congreso de Tucuman,248
+C,18:45,18:59,General San Martin,56
+D,18:45,18:59,Tribunales,38
+A,18:45,18:59,Rio de Janeiro,65
+B,18:45,18:59,Carlos Pellegrini,206
+H,18:45,18:59,Corrientes,41
+C,18:45,18:59,Retiro,384
+E,18:45,18:59,San Jose,8
+A,18:45,18:59,Carabobo,69
+B,18:45,18:59,Echeverria,31
+D,18:45,18:59,Palermo,121
+E,18:45,18:59,Urquiza,16
+D,18:45,18:59,Ministro Carranza,40
+B,18:45,18:59,Pueyrredon,142
+B,18:45,18:59,Tronador,34
+A,18:45,18:59,Plaza Miserere,94
+C,18:45,18:59,San Juan,34
+E,18:45,18:59,Pichincha,14
+D,18:45,18:59,Scalabrini Ortiz,79
+B,18:45,18:59,Angel Gallardo,130
+E,18:45,18:59,Medalla Milagrosa,16
+D,18:45,18:59,Facultad de Medicina,71
+A,18:45,18:59,Alberti,33
+A,18:45,18:59,Puan,31
+E,18:45,18:59,Bolivar,65
+D,18:45,18:59,Juramento,153
+C,18:45,18:59,Mariano Moreno,30
+B,18:45,18:59,Carlos Gardel,303
+A,18:45,18:59,Pasco,20
+A,18:45,18:59,Lima,35
+D,18:45,18:59,Pueyrredon.,112
+A,18:45,18:59,San Pedrito,111
+A,18:45,18:59,Flores,43
+C,18:45,18:59,Diagonal Norte,39
+B,18:45,18:59,Federico Lacroze,249
+E,18:45,18:59,Pza. de los Virreyes,51
+A,18:45,18:59,Castro Barros,63
+C,18:45,18:59,Avenida de Mayo,24
+D,18:45,18:59,9 de julio,57
+H,18:45,18:59,Once,33
+A,18:45,18:59,Congreso,79
+H,18:45,18:59,Hospitales,9
+A,19:00,19:14,Plaza Miserere,84
+D,19:00,19:14,Aguero,87
+B,19:00,19:14,Angel Gallardo,149
+B,19:00,19:14,Los Incas,80
+B,19:00,19:14,Carlos Gardel,255
+E,19:00,19:14,Boedo,37
+B,19:00,19:14,Malabia,198
+D,19:00,19:14,Jose Hernandez,77
+H,19:00,19:14,Inclan,15
+D,19:00,19:14,Callao.,81
+B,19:00,19:14,Florida,152
+B,19:00,19:14,Echeverria,38
+A,19:00,19:14,Plaza de Mayo,84
+C,19:00,19:14,San Juan,51
+D,19:00,19:14,9 de julio,42
+E,19:00,19:14,General Belgrano,10
+E,19:00,19:14,Varela,12
+D,19:00,19:14,Palermo,128
+E,19:00,19:14,Bolivar,47
+B,19:00,19:14,Pueyrredon,136
+E,19:00,19:14,Emilio Mitre,14
+C,19:00,19:14,Independencia,51
+A,19:00,19:14,Peru,66
+D,19:00,19:14,Congreso de Tucuman,211
+B,19:00,19:14,Tronador,43
+H,19:00,19:14,Patricios,35
+E,19:00,19:14,Independencia.,35
+A,19:00,19:14,Lima,47
+H,19:00,19:14,Caseros,28
+H,19:00,19:14,Corrientes,40
+A,19:00,19:14,Saenz Peña,56
+B,19:00,19:14,Leandro N. Alem,124
+C,19:00,19:14,Constitucion,195
+C,19:00,19:14,Lavalle,83
+A,19:00,19:14,Primera Junta,58
+A,19:00,19:14,Rio de Janeiro,77
+D,19:00,19:14,Juramento,187
+D,19:00,19:14,Olleros,91
+E,19:00,19:14,Pichincha,15
+C,19:00,19:14,Diagonal Norte,37
+E,19:00,19:14,San Jose,17
+E,19:00,19:14,Medalla Milagrosa,4
+E,19:00,19:14,Pza. de los Virreyes,29
+D,19:00,19:14,Pueyrredon.,130
+B,19:00,19:14,Rosas,126
+D,19:00,19:14,Catedral,114
+H,19:00,19:14,Humberto I,11
+B,19:00,19:14,Medrano,115
+E,19:00,19:14,Avenida La Plata,26
+D,19:00,19:14,Facultad de Medicina,75
+H,19:00,19:14,Once,32
+A,19:00,19:14,Loria,47
+A,19:00,19:14,Carabobo,60
+H,19:00,19:14,Hospitales,16
+B,19:00,19:14,Pasteur,97
+E,19:00,19:14,Urquiza,17
+E,19:00,19:14,Entre Rios,33
+D,19:00,19:14,Tribunales,55
+B,19:00,19:14,Federico Lacroze,225
+A,19:00,19:14,Flores,54
+A,19:00,19:14,Alberti,35
+E,19:00,19:14,Jujuy,21
+C,19:00,19:14,Avenida de Mayo,54
+C,19:00,19:14,Retiro,260
+D,19:00,19:14,Scalabrini Ortiz,95
+A,19:00,19:14,Puan,37
+D,19:00,19:14,Bulnes,195
+D,19:00,19:14,Ministro Carranza,44
+H,19:00,19:14,Venezuela,21
+A,19:00,19:14,San Pedrito,59
+A,19:00,19:14,Acoyte,154
+B,19:00,19:14,Uruguay,125
+A,19:00,19:14,Congreso,80
+B,19:00,19:14,Callao,134
+C,19:00,19:14,General San Martin,79
+A,19:00,19:14,Castro Barros,69
+C,19:00,19:14,Mariano Moreno,35
+A,19:00,19:14,Piedras,33
+B,19:00,19:14,Dorrego,52
+B,19:00,19:14,Carlos Pellegrini,193
+E,19:00,19:14,Jose Maria Moreno,24
+A,19:00,19:14,Pasco,20
+D,19:00,19:14,Plaza Italia,149
+A,19:15,19:29,Carabobo,45
+A,19:15,19:29,Plaza de Mayo,89
+B,19:15,19:29,Florida,129
+A,19:15,19:29,Puan,31
+A,19:15,19:29,Pasco,10
+A,19:15,19:29,Plaza Miserere,69
+D,19:15,19:29,Congreso de Tucuman,223
+A,19:15,19:29,Lima,38
+E,19:15,19:29,Pichincha,23
+A,19:15,19:29,Congreso,67
+D,19:15,19:29,Juramento,165
+H,19:15,19:29,Humberto I,15
+B,19:15,19:29,Dorrego,74
+C,19:15,19:29,Diagonal Norte,26
+C,19:15,19:29,General San Martin,62
+E,19:15,19:29,Urquiza,9
+E,19:15,19:29,Medalla Milagrosa,12
+D,19:15,19:29,Aguero,57
+A,19:15,19:29,Castro Barros,80
+E,19:15,19:29,Jujuy,15
+A,19:15,19:29,Piedras,37
+D,19:15,19:29,Palermo,96
+B,19:15,19:29,Malabia,165
+E,19:15,19:29,Pza. de los Virreyes,41
+B,19:15,19:29,Pueyrredon,99
+D,19:15,19:29,Ministro Carranza,45
+C,19:15,19:29,Retiro,405
+B,19:15,19:29,Pasteur,69
+E,19:15,19:29,San Jose,21
+D,19:15,19:29,Callao.,93
+C,19:15,19:29,San Juan,32
+A,19:15,19:29,Flores,54
+A,19:15,19:29,Alberti,33
+B,19:15,19:29,Angel Gallardo,148
+B,19:15,19:29,Carlos Gardel,315
+D,19:15,19:29,Scalabrini Ortiz,71
+H,19:15,19:29,Caseros,15
+D,19:15,19:29,Tribunales,39
+B,19:15,19:29,Leandro N. Alem,151
+D,19:15,19:29,Pueyrredon.,108
+E,19:15,19:29,Varela,12
+B,19:15,19:29,Rosas,106
+C,19:15,19:29,Lavalle,66
+D,19:15,19:29,Bulnes,185
+B,19:15,19:29,Los Incas,68
+E,19:15,19:29,Bolivar,54
+D,19:15,19:29,Catedral,99
+A,19:15,19:29,Rio de Janeiro,60
+D,19:15,19:29,Jose Hernandez,91
+E,19:15,19:29,Jose Maria Moreno,12
+B,19:15,19:29,Tronador,32
+B,19:15,19:29,Carlos Pellegrini,184
+H,19:15,19:29,Inclan,16
+A,19:15,19:29,Acoyte,89
+D,19:15,19:29,Facultad de Medicina,61
+A,19:15,19:29,Loria,41
+A,19:15,19:29,Peru,49
+H,19:15,19:29,Venezuela,13
+B,19:15,19:29,Callao,153
+H,19:15,19:29,Patricios,26
+C,19:15,19:29,Constitucion,242
+D,19:15,19:29,Plaza Italia,113
+B,19:15,19:29,Federico Lacroze,231
+B,19:15,19:29,Echeverria,33
+H,19:15,19:29,Hospitales,10
+C,19:15,19:29,Independencia,28
+C,19:15,19:29,Avenida de Mayo,26
+B,19:15,19:29,Uruguay,108
+A,19:15,19:29,Primera Junta,70
+D,19:15,19:29,9 de julio,45
+C,19:15,19:29,Mariano Moreno,15
+H,19:15,19:29,Once,26
+D,19:15,19:29,Olleros,79
+E,19:15,19:29,General Belgrano,10
+E,19:15,19:29,Boedo,18
+E,19:15,19:29,Entre Rios,19
+A,19:15,19:29,Saenz Peña,24
+E,19:15,19:29,Avenida La Plata,20
+E,19:15,19:29,Independencia.,29
+B,19:15,19:29,Medrano,112
+A,19:15,19:29,San Pedrito,87
+E,19:15,19:29,Emilio Mitre,14
+H,19:15,19:29,Corrientes,42
+H,19:30,19:44,Caseros,15
+C,19:30,19:44,Avenida de Mayo,28
+E,19:30,19:44,Medalla Milagrosa,9
+D,19:30,19:44,Catedral,112
+D,19:30,19:44,Bulnes,156
+B,19:30,19:44,Federico Lacroze,203
+C,19:30,19:44,Constitucion,223
+B,19:30,19:44,Pasteur,98
+E,19:30,19:44,Boedo,26
+C,19:30,19:44,Diagonal Norte,24
+C,19:30,19:44,Independencia,45
+D,19:30,19:44,Juramento,148
+C,19:30,19:44,San Juan,42
+A,19:30,19:44,Lima,42
+A,19:30,19:44,Piedras,22
+A,19:30,19:44,Alberti,36
+H,19:30,19:44,Humberto I,21
+D,19:30,19:44,Callao.,96
+E,19:30,19:44,Avenida La Plata,17
+E,19:30,19:44,General Belgrano,12
+H,19:30,19:44,Corrientes,23
+D,19:30,19:44,Tribunales,44
+A,19:30,19:44,Castro Barros,59
+D,19:30,19:44,Congreso de Tucuman,190
+D,19:30,19:44,Ministro Carranza,57
+A,19:30,19:44,Flores,32
+C,19:30,19:44,Retiro,331
+E,19:30,19:44,Pichincha,18
+B,19:30,19:44,Dorrego,63
+E,19:30,19:44,Independencia.,29
+H,19:30,19:44,Venezuela,18
+A,19:30,19:44,Pasco,21
+B,19:30,19:44,Pueyrredon,83
+C,19:30,19:44,Mariano Moreno,29
+B,19:30,19:44,Medrano,123
+A,19:30,19:44,Loria,28
+D,19:30,19:44,Aguero,60
+D,19:30,19:44,Olleros,77
+D,19:30,19:44,Jose Hernandez,78
+D,19:30,19:44,9 de julio,37
+B,19:30,19:44,Tronador,32
+B,19:30,19:44,Carlos Pellegrini,155
+E,19:30,19:44,San Jose,10
+H,19:30,19:44,Patricios,17
+A,19:30,19:44,Rio de Janeiro,59
+A,19:30,19:44,Carabobo,40
+E,19:30,19:44,Varela,5
+B,19:30,19:44,Los Incas,72
+E,19:30,19:44,Pza. de los Virreyes,37
+H,19:30,19:44,Once,30
+A,19:30,19:44,Plaza de Mayo,51
+B,19:30,19:44,Carlos Gardel,243
+A,19:30,19:44,Saenz Peña,29
+D,19:30,19:44,Scalabrini Ortiz,63
+D,19:30,19:44,Plaza Italia,86
+E,19:30,19:44,Emilio Mitre,7
+B,19:30,19:44,Callao,106
+D,19:30,19:44,Pueyrredon.,103
+B,19:30,19:44,Uruguay,103
+H,19:30,19:44,Inclan,12
+A,19:30,19:44,Puan,35
+A,19:30,19:44,Congreso,87
+B,19:30,19:44,Angel Gallardo,98
+B,19:30,19:44,Rosas,105
+C,19:30,19:44,General San Martin,49
+E,19:30,19:44,Jujuy,18
+A,19:30,19:44,Peru,41
+B,19:30,19:44,Florida,110
+B,19:30,19:44,Leandro N. Alem,110
+B,19:30,19:44,Malabia,118
+D,19:30,19:44,Palermo,72
+E,19:30,19:44,Urquiza,13
+E,19:30,19:44,Bolivar,23
+E,19:30,19:44,Jose Maria Moreno,26
+D,19:30,19:44,Facultad de Medicina,39
+A,19:30,19:44,Primera Junta,57
+A,19:30,19:44,San Pedrito,86
+A,19:30,19:44,Plaza Miserere,85
+A,19:30,19:44,Acoyte,90
+C,19:30,19:44,Lavalle,64
+B,19:30,19:44,Echeverria,39
+H,19:30,19:44,Hospitales,12
+E,19:30,19:44,Entre Rios,23
+H,19:45,19:59,Hospitales,6
+H,19:45,19:59,Once,23
+E,19:45,19:59,Independencia.,22
+H,19:45,19:59,Corrientes,26
+B,19:45,19:59,Dorrego,54
+E,19:45,19:59,Medalla Milagrosa,9
+E,19:45,19:59,Urquiza,7
+C,19:45,19:59,Constitucion,287
+D,19:45,19:59,Aguero,64
+C,19:45,19:59,Independencia,43
+A,19:45,19:59,Pasco,14
+D,19:45,19:59,Jose Hernandez,70
+D,19:45,19:59,Ministro Carranza,43
+C,19:45,19:59,Retiro,334
+B,19:45,19:59,Pasteur,95
+D,19:45,19:59,Callao.,64
+D,19:45,19:59,Juramento,136
+D,19:45,19:59,Plaza Italia,90
+A,19:45,19:59,Carabobo,63
+A,19:45,19:59,Acoyte,91
+B,19:45,19:59,Tronador,31
+B,19:45,19:59,Carlos Pellegrini,137
+E,19:45,19:59,Boedo,28
+E,19:45,19:59,Jose Maria Moreno,25
+E,19:45,19:59,Pza. de los Virreyes,14
+A,19:45,19:59,San Pedrito,59
+D,19:45,19:59,Scalabrini Ortiz,64
+B,19:45,19:59,Malabia,163
+E,19:45,19:59,Varela,2
+H,19:45,19:59,Inclan,14
+A,19:45,19:59,Congreso,88
+A,19:45,19:59,Plaza de Mayo,60
+B,19:45,19:59,Los Incas,58
+A,19:45,19:59,Peru,46
+B,19:45,19:59,Callao,85
+A,19:45,19:59,Puan,29
+B,19:45,19:59,Uruguay,83
+A,19:45,19:59,Rio de Janeiro,45
+E,19:45,19:59,San Jose,19
+D,19:45,19:59,9 de julio,33
+H,19:45,19:59,Humberto I,9
+E,19:45,19:59,Pichincha,5
+D,19:45,19:59,Olleros,69
+A,19:45,19:59,Piedras,25
+E,19:45,19:59,General Belgrano,8
+B,19:45,19:59,Pueyrredon,102
+H,19:45,19:59,Venezuela,17
+C,19:45,19:59,Diagonal Norte,17
+A,19:45,19:59,Castro Barros,48
+A,19:45,19:59,Alberti,25
+A,19:45,19:59,Lima,34
+A,19:45,19:59,Plaza Miserere,80
+H,19:45,19:59,Caseros,16
+D,19:45,19:59,Bulnes,164
+B,19:45,19:59,Florida,117
+D,19:45,19:59,Palermo,62
+E,19:45,19:59,Avenida La Plata,24
+B,19:45,19:59,Federico Lacroze,171
+C,19:45,19:59,Lavalle,76
+A,19:45,19:59,Loria,43
+B,19:45,19:59,Carlos Gardel,305
+A,19:45,19:59,Primera Junta,65
+E,19:45,19:59,Jujuy,7
+D,19:45,19:59,Congreso de Tucuman,157
+C,19:45,19:59,San Juan,35
+A,19:45,19:59,Flores,47
+B,19:45,19:59,Medrano,116
+B,19:45,19:59,Angel Gallardo,115
+D,19:45,19:59,Facultad de Medicina,58
+A,19:45,19:59,Saenz Peña,32
+D,19:45,19:59,Tribunales,37
+C,19:45,19:59,General San Martin,51
+E,19:45,19:59,Bolivar,40
+B,19:45,19:59,Echeverria,21
+B,19:45,19:59,Leandro N. Alem,82
+E,19:45,19:59,Entre Rios,23
+D,19:45,19:59,Catedral,91
+C,19:45,19:59,Avenida de Mayo,28
+H,19:45,19:59,Patricios,14
+C,19:45,19:59,Mariano Moreno,20
+D,19:45,19:59,Pueyrredon.,91
+B,19:45,19:59,Rosas,102
+E,19:45,19:59,Emilio Mitre,11
+H,20:00,20:14,Patricios,13
+A,20:00,20:14,Loria,48
+E,20:00,20:14,Jujuy,13
+D,20:00,20:14,9 de julio,42
+A,20:00,20:14,Carabobo,48
+C,20:00,20:14,General San Martin,87
+E,20:00,20:14,General Belgrano,8
+D,20:00,20:14,Aguero,73
+H,20:00,20:14,Venezuela,19
+E,20:00,20:14,San Jose,10
+E,20:00,20:14,Avenida La Plata,19
+C,20:00,20:14,Lavalle,75
+E,20:00,20:14,Entre Rios,15
+B,20:00,20:14,Echeverria,31
+B,20:00,20:14,Carlos Pellegrini,168
+D,20:00,20:14,Callao.,106
+A,20:00,20:14,Rio de Janeiro,58
+E,20:00,20:14,Jose Maria Moreno,17
+B,20:00,20:14,Pasteur,89
+D,20:00,20:14,Olleros,61
+A,20:00,20:14,Piedras,20
+D,20:00,20:14,Plaza Italia,95
+H,20:00,20:14,Humberto I,12
+B,20:00,20:14,Dorrego,69
+B,20:00,20:14,Tronador,18
+B,20:00,20:14,Pueyrredon,117
+D,20:00,20:14,Catedral,115
+B,20:00,20:14,Florida,179
+H,20:00,20:14,Corrientes,41
+E,20:00,20:14,Bolivar,43
+H,20:00,20:14,Caseros,22
+B,20:00,20:14,Callao,122
+D,20:00,20:14,Bulnes,171
+C,20:00,20:14,Constitucion,123
+B,20:00,20:14,Carlos Gardel,263
+B,20:00,20:14,Uruguay,99
+A,20:00,20:14,Plaza de Mayo,45
+E,20:00,20:14,Emilio Mitre,13
+D,20:00,20:14,Tribunales,30
+A,20:00,20:14,Saenz Peña,41
+C,20:00,20:14,Mariano Moreno,17
+A,20:00,20:14,Primera Junta,64
+D,20:00,20:14,Congreso de Tucuman,168
+D,20:00,20:14,Facultad de Medicina,77
+E,20:00,20:14,Varela,11
+C,20:00,20:14,Independencia,24
+A,20:00,20:14,Castro Barros,52
+D,20:00,20:14,Juramento,168
+A,20:00,20:14,Alberti,20
+A,20:00,20:14,Lima,24
+E,20:00,20:14,Medalla Milagrosa,5
+B,20:00,20:14,Los Incas,52
+D,20:00,20:14,Jose Hernandez,61
+A,20:00,20:14,Pasco,12
+B,20:00,20:14,Rosas,109
+A,20:00,20:14,Flores,49
+D,20:00,20:14,Pueyrredon.,106
+C,20:00,20:14,San Juan,27
+B,20:00,20:14,Angel Gallardo,91
+C,20:00,20:14,Diagonal Norte,20
+B,20:00,20:14,Malabia,167
+A,20:00,20:14,San Pedrito,80
+A,20:00,20:14,Congreso,78
+D,20:00,20:14,Palermo,92
+C,20:00,20:14,Avenida de Mayo,52
+A,20:00,20:14,Peru,62
+E,20:00,20:14,Boedo,37
+B,20:00,20:14,Leandro N. Alem,96
+A,20:00,20:14,Acoyte,121
+H,20:00,20:14,Hospitales,6
+H,20:00,20:14,Inclan,18
+A,20:00,20:14,Puan,34
+E,20:00,20:14,Urquiza,11
+E,20:00,20:14,Independencia.,11
+E,20:00,20:14,Pza. de los Virreyes,15
+D,20:00,20:14,Scalabrini Ortiz,106
+H,20:00,20:14,Once,33
+B,20:00,20:14,Federico Lacroze,194
+A,20:00,20:14,Plaza Miserere,69
+C,20:00,20:14,Retiro,196
+B,20:00,20:14,Medrano,132
+D,20:00,20:14,Ministro Carranza,45
+E,20:00,20:14,Pichincha,7
+B,20:15,20:29,Tronador,26
+D,20:15,20:29,Catedral,90
+C,20:15,20:29,Constitucion,164
+B,20:15,20:29,Pueyrredon,78
+H,20:15,20:29,Patricios,24
+A,20:15,20:29,Piedras,23
+A,20:15,20:29,Alberti,26
+A,20:15,20:29,Lima,27
+H,20:15,20:29,Humberto I,18
+A,20:15,20:29,Plaza Miserere,47
+D,20:15,20:29,Plaza Italia,54
+D,20:15,20:29,Tribunales,44
+A,20:15,20:29,Carabobo,43
+B,20:15,20:29,Federico Lacroze,133
+B,20:15,20:29,Angel Gallardo,90
+E,20:15,20:29,Jose Maria Moreno,22
+E,20:15,20:29,Entre Rios,23
+A,20:15,20:29,Loria,39
+C,20:15,20:29,Lavalle,83
+E,20:15,20:29,Jujuy,11
+E,20:15,20:29,Pichincha,7
+H,20:15,20:29,Caseros,11
+A,20:15,20:29,Flores,28
+E,20:15,20:29,Boedo,21
+A,20:15,20:29,Primera Junta,66
+D,20:15,20:29,Congreso de Tucuman,169
+C,20:15,20:29,San Juan,19
+D,20:15,20:29,Bulnes,131
+D,20:15,20:29,Callao.,69
+E,20:15,20:29,Avenida La Plata,19
+B,20:15,20:29,Malabia,203
+D,20:15,20:29,9 de julio,56
+D,20:15,20:29,Olleros,68
+E,20:15,20:29,General Belgrano,8
+H,20:15,20:29,Venezuela,23
+D,20:15,20:29,Palermo,90
+B,20:15,20:29,Florida,94
+C,20:15,20:29,Independencia,31
+H,20:15,20:29,Inclan,13
+D,20:15,20:29,Jose Hernandez,72
+A,20:15,20:29,Congreso,84
+A,20:15,20:29,Plaza de Mayo,42
+C,20:15,20:29,Retiro,262
+D,20:15,20:29,Ministro Carranza,37
+E,20:15,20:29,Emilio Mitre,19
+B,20:15,20:29,Los Incas,60
+B,20:15,20:29,Medrano,117
+C,20:15,20:29,General San Martin,55
+B,20:15,20:29,Leandro N. Alem,88
+H,20:15,20:29,Hospitales,10
+B,20:15,20:29,Callao,101
+H,20:15,20:29,Corrientes,28
+A,20:15,20:29,Pasco,15
+B,20:15,20:29,Dorrego,45
+C,20:15,20:29,Diagonal Norte,13
+A,20:15,20:29,Castro Barros,56
+E,20:15,20:29,Urquiza,6
+D,20:15,20:29,Juramento,144
+B,20:15,20:29,Rosas,84
+H,20:15,20:29,Once,27
+B,20:15,20:29,Carlos Gardel,274
+E,20:15,20:29,Medalla Milagrosa,9
+E,20:15,20:29,Pza. de los Virreyes,20
+C,20:15,20:29,Mariano Moreno,22
+A,20:15,20:29,Rio de Janeiro,35
+B,20:15,20:29,Echeverria,30
+E,20:15,20:29,Independencia.,23
+E,20:15,20:29,San Jose,27
+E,20:15,20:29,Bolivar,53
+D,20:15,20:29,Aguero,64
+A,20:15,20:29,San Pedrito,54
+A,20:15,20:29,Saenz Peña,32
+D,20:15,20:29,Scalabrini Ortiz,56
+A,20:15,20:29,Puan,23
+D,20:15,20:29,Facultad de Medicina,61
+B,20:15,20:29,Pasteur,46
+A,20:15,20:29,Peru,68
+D,20:15,20:29,Pueyrredon.,96
+B,20:15,20:29,Uruguay,70
+E,20:15,20:29,Varela,10
+A,20:15,20:29,Acoyte,98
+B,20:15,20:29,Carlos Pellegrini,124
+C,20:15,20:29,Avenida de Mayo,26
+H,20:30,20:44,Caseros,20
+E,20:30,20:44,Pza. de los Virreyes,11
+B,20:30,20:44,Callao,120
+A,20:30,20:44,Puan,21
+E,20:30,20:44,Independencia.,24
+A,20:30,20:44,San Pedrito,53
+A,20:30,20:44,Plaza de Mayo,25
+D,20:30,20:44,Callao.,87
+B,20:30,20:44,Pasteur,58
+H,20:30,20:44,Inclan,9
+A,20:30,20:44,Congreso,66
+D,20:30,20:44,Aguero,58
+E,20:30,20:44,Medalla Milagrosa,6
+E,20:30,20:44,Urquiza,10
+B,20:30,20:44,Dorrego,37
+B,20:30,20:44,Los Incas,33
+D,20:30,20:44,Scalabrini Ortiz,50
+E,20:30,20:44,Varela,6
+H,20:30,20:44,Corrientes,17
+B,20:30,20:44,Uruguay,73
+D,20:30,20:44,Juramento,134
+A,20:30,20:44,Pasco,15
+A,20:30,20:44,Peru,30
+C,20:30,20:44,Mariano Moreno,12
+H,20:30,20:44,Patricios,19
+B,20:30,20:44,Florida,94
+A,20:30,20:44,Rio de Janeiro,37
+E,20:30,20:44,Emilio Mitre,8
+E,20:30,20:44,San Jose,13
+B,20:30,20:44,Malabia,163
+B,20:30,20:44,Angel Gallardo,101
+A,20:30,20:44,Flores,39
+C,20:30,20:44,San Juan,22
+D,20:30,20:44,Tribunales,25
+D,20:30,20:44,Catedral,74
+C,20:30,20:44,Lavalle,59
+D,20:30,20:44,Plaza Italia,53
+A,20:30,20:44,Carabobo,50
+A,20:30,20:44,Lima,27
+A,20:30,20:44,Alberti,16
+E,20:30,20:44,Jujuy,14
+B,20:30,20:44,Federico Lacroze,119
+D,20:30,20:44,9 de julio,35
+E,20:30,20:44,Jose Maria Moreno,20
+E,20:30,20:44,General Belgrano,5
+H,20:30,20:44,Venezuela,26
+D,20:30,20:44,Olleros,64
+E,20:30,20:44,Boedo,14
+A,20:30,20:44,Primera Junta,45
+D,20:30,20:44,Congreso de Tucuman,166
+D,20:30,20:44,Ministro Carranza,27
+D,20:30,20:44,Bulnes,142
+C,20:30,20:44,Retiro,218
+D,20:30,20:44,Jose Hernandez,69
+B,20:30,20:44,Pueyrredon,49
+C,20:30,20:44,Independencia,34
+E,20:30,20:44,Entre Rios,17
+D,20:30,20:44,Pueyrredon.,76
+B,20:30,20:44,Rosas,105
+H,20:30,20:44,Humberto I,14
+A,20:30,20:44,Piedras,13
+C,20:30,20:44,Avenida de Mayo,25
+A,20:30,20:44,Plaza Miserere,35
+C,20:30,20:44,Constitucion,145
+A,20:30,20:44,Acoyte,86
+B,20:30,20:44,Echeverria,24
+E,20:30,20:44,Bolivar,29
+B,20:30,20:44,Tronador,34
+B,20:30,20:44,Carlos Pellegrini,106
+H,20:30,20:44,Once,11
+A,20:30,20:44,Saenz Peña,30
+D,20:30,20:44,Facultad de Medicina,46
+E,20:30,20:44,Pichincha,11
+B,20:30,20:44,Carlos Gardel,243
+A,20:30,20:44,Castro Barros,33
+C,20:30,20:44,Diagonal Norte,11
+D,20:30,20:44,Palermo,77
+H,20:30,20:44,Hospitales,7
+C,20:30,20:44,General San Martin,27
+B,20:30,20:44,Medrano,83
+B,20:30,20:44,Leandro N. Alem,67
+A,20:30,20:44,Loria,29
+E,20:30,20:44,Avenida La Plata,22
+A,20:45,20:59,Rio de Janeiro,35
+A,20:45,20:59,Plaza Miserere,34
+E,20:45,20:59,Varela,7
+A,20:45,20:59,Castro Barros,34
+C,20:45,20:59,Constitucion,142
+B,20:45,20:59,Rosas,59
+D,20:45,20:59,Aguero,46
+E,20:45,20:59,Avenida La Plata,13
+B,20:45,20:59,Pasteur,38
+D,20:45,20:59,Pueyrredon.,48
+D,20:45,20:59,Catedral,68
+E,20:45,20:59,Jujuy,12
+E,20:45,20:59,Medalla Milagrosa,4
+H,20:45,20:59,Inclan,9
+D,20:45,20:59,Jose Hernandez,46
+E,20:45,20:59,Entre Rios,17
+D,20:45,20:59,Congreso de Tucuman,129
+E,20:45,20:59,Urquiza,4
+C,20:45,20:59,Avenida de Mayo,28
+B,20:45,20:59,Carlos Pellegrini,107
+E,20:45,20:59,San Jose,13
+B,20:45,20:59,Los Incas,58
+B,20:45,20:59,Dorrego,37
+A,20:45,20:59,Congreso,54
+D,20:45,20:59,Bulnes,114
+B,20:45,20:59,Florida,38
+A,20:45,20:59,San Pedrito,48
+H,20:45,20:59,Venezuela,10
+A,20:45,20:59,Plaza de Mayo,33
+H,20:45,20:59,Humberto I,12
+A,20:45,20:59,Lima,14
+A,20:45,20:59,Primera Junta,39
+E,20:45,20:59,Jose Maria Moreno,13
+H,20:45,20:59,Hospitales,7
+C,20:45,20:59,Independencia,31
+B,20:45,20:59,Medrano,87
+H,20:45,20:59,Corrientes,13
+H,20:45,20:59,Once,29
+D,20:45,20:59,Callao.,49
+H,20:45,20:59,Caseros,13
+E,20:45,20:59,Pichincha,2
+B,20:45,20:59,Carlos Gardel,233
+D,20:45,20:59,Scalabrini Ortiz,24
+C,20:45,20:59,Lavalle,50
+D,20:45,20:59,Palermo,68
+B,20:45,20:59,Pueyrredon,54
+E,20:45,20:59,Independencia.,19
+B,20:45,20:59,Tronador,16
+A,20:45,20:59,Alberti,26
+A,20:45,20:59,Piedras,32
+C,20:45,20:59,General San Martin,35
+A,20:45,20:59,Loria,29
+E,20:45,20:59,Boedo,19
+A,20:45,20:59,Peru,38
+A,20:45,20:59,Carabobo,36
+C,20:45,20:59,San Juan,24
+B,20:45,20:59,Uruguay,60
+A,20:45,20:59,Puan,14
+A,20:45,20:59,Flores,27
+D,20:45,20:59,Facultad de Medicina,28
+B,20:45,20:59,Angel Gallardo,75
+D,20:45,20:59,9 de julio,23
+E,20:45,20:59,Emilio Mitre,4
+C,20:45,20:59,Mariano Moreno,13
+E,20:45,20:59,Pza. de los Virreyes,11
+A,20:45,20:59,Pasco,5
+D,20:45,20:59,Olleros,46
+H,20:45,20:59,Patricios,21
+D,20:45,20:59,Tribunales,19
+A,20:45,20:59,Saenz Peña,25
+D,20:45,20:59,Juramento,75
+D,20:45,20:59,Plaza Italia,66
+D,20:45,20:59,Ministro Carranza,28
+C,20:45,20:59,Diagonal Norte,9
+C,20:45,20:59,Retiro,345
+E,20:45,20:59,General Belgrano,3
+E,20:45,20:59,Bolivar,23
+B,20:45,20:59,Leandro N. Alem,75
+B,20:45,20:59,Callao,89
+B,20:45,20:59,Federico Lacroze,106
+B,20:45,20:59,Echeverria,20
+A,20:45,20:59,Acoyte,62
+B,20:45,20:59,Malabia,135
+H,21:00,21:14,Hospitales,11
+A,21:00,21:14,Lima,34
+H,21:00,21:14,Humberto I,14
+D,21:00,21:14,Juramento,102
+H,21:00,21:14,Venezuela,18
+E,21:00,21:14,Pichincha,11
+E,21:00,21:14,Boedo,20
+B,21:00,21:14,Callao,105
+B,21:00,21:14,Malabia,77
+A,21:00,21:14,Acoyte,69
+A,21:00,21:14,Puan,19
+A,21:00,21:14,Primera Junta,37
+D,21:00,21:14,Aguero,43
+B,21:00,21:14,Pasteur,42
+D,21:00,21:14,Catedral,101
+B,21:00,21:14,Dorrego,94
+A,21:00,21:14,Saenz Peña,22
+D,21:00,21:14,Callao.,49
+D,21:00,21:14,Bulnes,108
+E,21:00,21:14,Medalla Milagrosa,1
+A,21:00,21:14,Plaza Miserere,32
+E,21:00,21:14,Urquiza,11
+H,21:00,21:14,Inclan,10
+D,21:00,21:14,Facultad de Medicina,77
+D,21:00,21:14,Olleros,54
+B,21:00,21:14,Carlos Gardel,190
+B,21:00,21:14,Echeverria,17
+B,21:00,21:14,Leandro N. Alem,87
+C,21:00,21:14,Avenida de Mayo,37
+E,21:00,21:14,Bolivar,45
+B,21:00,21:14,Tronador,18
+B,21:00,21:14,Carlos Pellegrini,128
+B,21:00,21:14,Rosas,83
+E,21:00,21:14,Pza. de los Virreyes,12
+B,21:00,21:14,Medrano,121
+C,21:00,21:14,Constitucion,163
+E,21:00,21:14,General Belgrano,7
+C,21:00,21:14,Mariano Moreno,19
+E,21:00,21:14,Jujuy,8
+D,21:00,21:14,Congreso de Tucuman,141
+B,21:00,21:14,Angel Gallardo,71
+A,21:00,21:14,Congreso,69
+E,21:00,21:14,Jose Maria Moreno,12
+D,21:00,21:14,9 de julio,32
+C,21:00,21:14,San Juan,16
+A,21:00,21:14,Loria,25
+B,21:00,21:14,Uruguay,67
+D,21:00,21:14,Jose Hernandez,43
+C,21:00,21:14,Retiro,155
+A,21:00,21:14,Peru,69
+D,21:00,21:14,Ministro Carranza,45
+A,21:00,21:14,Pasco,15
+H,21:00,21:14,Corrientes,18
+A,21:00,21:14,Flores,20
+C,21:00,21:14,Lavalle,100
+C,21:00,21:14,Independencia,22
+A,21:00,21:14,Carabobo,37
+B,21:00,21:14,Federico Lacroze,135
+A,21:00,21:14,Rio de Janeiro,38
+E,21:00,21:14,Varela,3
+E,21:00,21:14,San Jose,7
+E,21:00,21:14,Avenida La Plata,9
+D,21:00,21:14,Tribunales,24
+E,21:00,21:14,Independencia.,14
+H,21:00,21:14,Patricios,14
+D,21:00,21:14,Palermo,81
+A,21:00,21:14,Plaza de Mayo,56
+C,21:00,21:14,General San Martin,38
+B,21:00,21:14,Pueyrredon,51
+E,21:00,21:14,Entre Rios,6
+E,21:00,21:14,Emilio Mitre,10
+B,21:00,21:14,Florida,76
+H,21:00,21:14,Once,14
+A,21:00,21:14,San Pedrito,32
+D,21:00,21:14,Scalabrini Ortiz,28
+A,21:00,21:14,Castro Barros,41
+D,21:00,21:14,Plaza Italia,49
+D,21:00,21:14,Pueyrredon.,75
+A,21:00,21:14,Alberti,21
+A,21:00,21:14,Piedras,46
+H,21:00,21:14,Caseros,14
+B,21:00,21:14,Los Incas,45
+C,21:00,21:14,Diagonal Norte,37
+A,21:15,21:29,Plaza de Mayo,36
+E,21:15,21:29,Entre Rios,11
+E,21:15,21:29,Pichincha,9
+E,21:15,21:29,General Belgrano,10
+H,21:15,21:29,Venezuela,13
+H,21:15,21:29,Inclan,13
+A,21:15,21:29,Congreso,47
+B,21:15,21:29,Rosas,65
+A,21:15,21:29,Primera Junta,21
+D,21:15,21:29,Pueyrredon.,51
+D,21:15,21:29,Congreso de Tucuman,121
+D,21:15,21:29,Bulnes,112
+C,21:15,21:29,San Juan,29
+B,21:15,21:29,Angel Gallardo,62
+B,21:15,21:29,Florida,32
+E,21:15,21:29,Varela,3
+D,21:15,21:29,Catedral,48
+H,21:15,21:29,Once,18
+A,21:15,21:29,Loria,18
+D,21:15,21:29,Scalabrini Ortiz,34
+H,21:15,21:29,Caseros,3
+A,21:15,21:29,Piedras,16
+E,21:15,21:29,Emilio Mitre,10
+E,21:15,21:29,Boedo,16
+B,21:15,21:29,Los Incas,48
+A,21:15,21:29,Flores,18
+D,21:15,21:29,Jose Hernandez,40
+B,21:15,21:29,Pasteur,33
+C,21:15,21:29,Lavalle,58
+D,21:15,21:29,Callao.,62
+E,21:15,21:29,Medalla Milagrosa,1
+A,21:15,21:29,Peru,38
+B,21:15,21:29,Carlos Gardel,215
+E,21:15,21:29,Urquiza,15
+E,21:15,21:29,Avenida La Plata,9
+B,21:15,21:29,Dorrego,33
+D,21:15,21:29,Palermo,68
+E,21:15,21:29,Jose Maria Moreno,14
+D,21:15,21:29,Aguero,22
+B,21:15,21:29,Uruguay,39
+A,21:15,21:29,Lima,17
+A,21:15,21:29,Puan,13
+H,21:15,21:29,Humberto I,6
+C,21:15,21:29,Independencia,32
+A,21:15,21:29,Alberti,27
+H,21:15,21:29,Hospitales,6
+A,21:15,21:29,San Pedrito,26
+A,21:15,21:29,Castro Barros,31
+A,21:15,21:29,Carabobo,29
+E,21:15,21:29,Independencia.,10
+C,21:15,21:29,Diagonal Norte,14
+B,21:15,21:29,Tronador,26
+B,21:15,21:29,Pueyrredon,27
+B,21:15,21:29,Carlos Pellegrini,107
+A,21:15,21:29,Acoyte,45
+H,21:15,21:29,Corrientes,5
+E,21:15,21:29,Pza. de los Virreyes,12
+D,21:15,21:29,Plaza Italia,53
+C,21:15,21:29,Mariano Moreno,23
+A,21:15,21:29,Pasco,10
+B,21:15,21:29,Federico Lacroze,59
+D,21:15,21:29,Tribunales,16
+B,21:15,21:29,Leandro N. Alem,60
+C,21:15,21:29,Constitucion,76
+E,21:15,21:29,Jujuy,20
+E,21:15,21:29,San Jose,10
+A,21:15,21:29,Rio de Janeiro,51
+C,21:15,21:29,General San Martin,37
+B,21:15,21:29,Medrano,105
+E,21:15,21:29,Bolivar,29
+A,21:15,21:29,Plaza Miserere,39
+B,21:15,21:29,Echeverria,22
+D,21:15,21:29,Facultad de Medicina,46
+H,21:15,21:29,Patricios,12
+D,21:15,21:29,Juramento,85
+D,21:15,21:29,9 de julio,25
+A,21:15,21:29,Saenz Peña,19
+B,21:15,21:29,Callao,102
+B,21:15,21:29,Malabia,70
+C,21:15,21:29,Avenida de Mayo,14
+D,21:15,21:29,Ministro Carranza,24
+C,21:15,21:29,Retiro,199
+D,21:15,21:29,Olleros,30
+A,21:30,21:44,Lima,12
+B,21:30,21:44,Dorrego,35
+A,21:30,21:44,Alberti,9
+C,21:30,21:44,Constitucion,24
+E,21:30,21:44,Urquiza,3
+C,21:30,21:44,Mariano Moreno,16
+D,21:30,21:44,Palermo,65
+A,21:30,21:44,Peru,24
+E,21:30,21:44,Avenida La Plata,14
+H,21:30,21:44,Caseros,13
+E,21:30,21:44,Pza. de los Virreyes,11
+B,21:30,21:44,Rosas,43
+B,21:30,21:44,Pueyrredon,38
+E,21:30,21:44,Medalla Milagrosa,3
+B,21:30,21:44,Carlos Gardel,239
+A,21:30,21:44,Piedras,25
+C,21:30,21:44,Independencia,27
+E,21:30,21:44,General Belgrano,4
+D,21:30,21:44,Catedral,49
+E,21:30,21:44,Jose Maria Moreno,18
+H,21:30,21:44,Humberto I,14
+A,21:30,21:44,Pasco,9
+B,21:30,21:44,Los Incas,39
+B,21:30,21:44,Angel Gallardo,66
+B,21:30,21:44,Uruguay,53
+D,21:30,21:44,Aguero,35
+C,21:30,21:44,San Juan,11
+E,21:30,21:44,San Jose,4
+A,21:30,21:44,Flores,31
+E,21:30,21:44,Pichincha,6
+B,21:30,21:44,Federico Lacroze,133
+D,21:30,21:44,Tribunales,27
+D,21:30,21:44,Callao.,26
+A,21:30,21:44,Puan,10
+D,21:30,21:44,Pueyrredon.,37
+D,21:30,21:44,Scalabrini Ortiz,32
+A,21:30,21:44,Saenz Peña,7
+D,21:30,21:44,Facultad de Medicina,27
+E,21:30,21:44,Independencia.,16
+B,21:30,21:44,Callao,66
+B,21:30,21:44,Echeverria,9
+E,21:30,21:44,Bolivar,22
+A,21:30,21:44,Rio de Janeiro,45
+A,21:30,21:44,Primera Junta,34
+A,21:30,21:44,Acoyte,41
+D,21:30,21:44,Congreso de Tucuman,101
+A,21:30,21:44,Plaza de Mayo,26
+H,21:30,21:44,Once,14
+B,21:30,21:44,Medrano,55
+D,21:30,21:44,Juramento,77
+E,21:30,21:44,Varela,4
+D,21:30,21:44,Bulnes,91
+C,21:30,21:44,General San Martin,4
+B,21:30,21:44,Pasteur,38
+B,21:30,21:44,Tronador,21
+A,21:30,21:44,San Pedrito,61
+B,21:30,21:44,Carlos Pellegrini,106
+H,21:30,21:44,Inclan,5
+D,21:30,21:44,9 de julio,22
+E,21:30,21:44,Boedo,6
+B,21:30,21:44,Malabia,65
+B,21:30,21:44,Leandro N. Alem,44
+E,21:30,21:44,Emilio Mitre,4
+H,21:30,21:44,Venezuela,17
+A,21:30,21:44,Congreso,54
+B,21:30,21:44,Florida,26
+A,21:30,21:44,Loria,27
+H,21:30,21:44,Patricios,5
+A,21:30,21:44,Carabobo,30
+D,21:30,21:44,Plaza Italia,30
+E,21:30,21:44,Jujuy,13
+A,21:30,21:44,Plaza Miserere,28
+H,21:30,21:44,Corrientes,12
+D,21:30,21:44,Jose Hernandez,33
+C,21:30,21:44,Avenida de Mayo,25
+D,21:30,21:44,Ministro Carranza,36
+D,21:30,21:44,Olleros,32
+E,21:30,21:44,Entre Rios,8
+C,21:30,21:44,Diagonal Norte,13
+H,21:30,21:44,Hospitales,6
+C,21:30,21:44,Retiro,164
+C,21:30,21:44,Lavalle,26
+A,21:30,21:44,Castro Barros,36
+C,21:45,21:59,General San Martin,1
+A,21:45,21:59,Rio de Janeiro,22
+B,21:45,21:59,Florida,16
+H,21:45,21:59,Patricios,8
+E,21:45,21:59,Emilio Mitre,9
+B,21:45,21:59,Uruguay,78
+A,21:45,21:59,Plaza de Mayo,17
+H,21:45,21:59,Inclan,12
+A,21:45,21:59,Peru,22
+B,21:45,21:59,Los Incas,31
+A,21:45,21:59,Congreso,26
+E,21:45,21:59,Varela,1
+H,21:45,21:59,Caseros,5
+B,21:45,21:59,Leandro N. Alem,45
+B,21:45,21:59,Malabia,53
+E,21:45,21:59,San Jose,5
+E,21:45,21:59,Jujuy,5
+B,21:45,21:59,Medrano,44
+B,21:45,21:59,Carlos Gardel,193
+B,21:45,21:59,Pasteur,36
+D,21:45,21:59,Aguero,35
+E,21:45,21:59,Jose Maria Moreno,6
+B,21:45,21:59,Dorrego,31
+H,21:45,21:59,Corrientes,16
+A,21:45,21:59,Carabobo,23
+A,21:45,21:59,Plaza Miserere,6
+D,21:45,21:59,Palermo,29
+D,21:45,21:59,Plaza Italia,24
+E,21:45,21:59,Independencia.,8
+H,21:45,21:59,Hospitales,4
+A,21:45,21:59,Castro Barros,37
+A,21:45,21:59,Pasco,5
+A,21:45,21:59,San Pedrito,22
+D,21:45,21:59,Juramento,53
+E,21:45,21:59,Pza. de los Virreyes,4
+C,21:45,21:59,Diagonal Norte,10
+E,21:45,21:59,Pichincha,3
+C,21:45,21:59,Retiro,114
+D,21:45,21:59,Ministro Carranza,14
+D,21:45,21:59,Jose Hernandez,20
+C,21:45,21:59,Independencia,17
+D,21:45,21:59,Scalabrini Ortiz,26
+A,21:45,21:59,Puan,8
+E,21:45,21:59,Boedo,10
+E,21:45,21:59,Medalla Milagrosa,1
+H,21:45,21:59,Once,6
+D,21:45,21:59,Catedral,37
+B,21:45,21:59,Rosas,48
+D,21:45,21:59,Pueyrredon.,38
+D,21:45,21:59,Callao.,29
+D,21:45,21:59,9 de julio,20
+C,21:45,21:59,Avenida de Mayo,31
+D,21:45,21:59,Tribunales,7
+B,21:45,21:59,Angel Gallardo,53
+C,21:45,21:59,San Juan,14
+A,21:45,21:59,Flores,24
+E,21:45,21:59,Entre Rios,9
+C,21:45,21:59,Constitucion,16
+B,21:45,21:59,Federico Lacroze,94
+A,21:45,21:59,Piedras,16
+H,21:45,21:59,Humberto I,12
+A,21:45,21:59,Acoyte,33
+B,21:45,21:59,Pueyrredon,19
+B,21:45,21:59,Tronador,15
+B,21:45,21:59,Carlos Pellegrini,78
+B,21:45,21:59,Echeverria,16
+A,21:45,21:59,Lima,9
+E,21:45,21:59,Bolivar,11
+A,21:45,21:59,Saenz Peña,26
+D,21:45,21:59,Bulnes,76
+A,21:45,21:59,Alberti,10
+D,21:45,21:59,Facultad de Medicina,25
+D,21:45,21:59,Congreso de Tucuman,81
+H,21:45,21:59,Venezuela,12
+A,21:45,21:59,Primera Junta,21
+E,21:45,21:59,General Belgrano,3
+D,21:45,21:59,Olleros,40
+A,21:45,21:59,Loria,22
+C,21:45,21:59,Lavalle,27
+E,21:45,21:59,Avenida La Plata,4
+B,21:45,21:59,Callao,73
+C,21:45,21:59,Mariano Moreno,7
+E,22:00,22:14,Pza. de los Virreyes,3
+A,22:00,22:14,Alberti,20
+H,22:00,22:14,Humberto I,3
+A,22:00,22:14,Pasco,5
+A,22:00,22:14,San Pedrito,31
+H,22:00,22:14,Patricios,5
+A,22:00,22:14,Loria,17
+H,22:00,22:14,Corrientes,11
+B,22:00,22:14,Los Incas,23
+B,22:00,22:14,Uruguay,42
+B,22:00,22:14,Pasteur,21
+B,22:00,22:14,Federico Lacroze,53
+E,22:00,22:14,General Belgrano,4
+D,22:00,22:14,Callao.,29
+B,22:00,22:14,Leandro N. Alem,30
+C,22:00,22:14,Lavalle,22
+E,22:00,22:14,Entre Rios,6
+C,22:00,22:14,Retiro,65
+C,22:00,22:14,Mariano Moreno,5
+D,22:00,22:14,9 de julio,19
+E,22:00,22:14,Avenida La Plata,1
+B,22:00,22:14,Pueyrredon,29
+E,22:00,22:14,Medalla Milagrosa,1
+E,22:00,22:14,Independencia.,7
+E,22:00,22:14,Bolivar,16
+B,22:00,22:14,Echeverria,16
+B,22:00,22:14,Carlos Pellegrini,77
+B,22:00,22:14,Tronador,13
+E,22:00,22:14,Pichincha,3
+D,22:00,22:14,Ministro Carranza,21
+D,22:00,22:14,Jose Hernandez,6
+B,22:00,22:14,Medrano,38
+B,22:00,22:14,Malabia,18
+D,22:00,22:14,Scalabrini Ortiz,18
+D,22:00,22:14,Facultad de Medicina,33
+D,22:00,22:14,Aguero,11
+A,22:00,22:14,Peru,17
+B,22:00,22:14,Callao,54
+C,22:00,22:14,Avenida de Mayo,15
+A,22:00,22:14,Plaza de Mayo,20
+A,22:00,22:14,Saenz Peña,16
+D,22:00,22:14,Tribunales,6
+A,22:00,22:14,Flores,22
+H,22:00,22:14,Inclan,6
+A,22:00,22:14,Congreso,25
+C,22:00,22:14,San Juan,7
+E,22:00,22:14,Jose Maria Moreno,2
+D,22:00,22:14,Juramento,58
+B,22:00,22:14,Angel Gallardo,45
+A,22:00,22:14,Piedras,26
+D,22:00,22:14,Olleros,22
+H,22:00,22:14,Once,4
+B,22:00,22:14,Dorrego,28
+B,22:00,22:14,Carlos Gardel,244
+A,22:00,22:14,Acoyte,13
+C,22:00,22:14,Constitucion,15
+D,22:00,22:14,Bulnes,69
+D,22:00,22:14,Catedral,26
+E,22:00,22:14,Emilio Mitre,4
+B,22:00,22:14,Florida,33
+E,22:00,22:14,Urquiza,1
+C,22:00,22:14,Diagonal Norte,4
+H,22:00,22:14,Venezuela,3
+H,22:00,22:14,Caseros,6
+B,22:00,22:14,Rosas,25
+A,22:00,22:14,Primera Junta,19
+D,22:00,22:14,Congreso de Tucuman,14
+D,22:00,22:14,Pueyrredon.,34
+C,22:00,22:14,Independencia,8
+D,22:00,22:14,Palermo,32
+E,22:00,22:14,Varela,6
+A,22:00,22:14,Castro Barros,11
+A,22:00,22:14,Puan,4
+E,22:00,22:14,Boedo,5
+E,22:00,22:14,San Jose,2
+D,22:00,22:14,Plaza Italia,14
+A,22:00,22:14,Rio de Janeiro,15
+A,22:00,22:14,Plaza Miserere,4
+H,22:00,22:14,Hospitales,2
+E,22:00,22:14,Jujuy,4
+A,22:00,22:14,Lima,30
+A,22:00,22:14,Carabobo,14
+D,22:15,22:29,Jose Hernandez,7
+D,22:15,22:29,Juramento,10
+E,22:15,22:29,Boedo,2
+E,22:15,22:29,Emilio Mitre,1
+D,22:15,22:29,Tribunales,2
+D,22:15,22:29,Facultad de Medicina,12
+A,22:15,22:29,Primera Junta,8
+B,22:15,22:29,Echeverria,1
+H,22:15,22:29,Corrientes,7
+H,22:15,22:29,Inclan,5
+D,22:15,22:29,Aguero,14
+A,22:15,22:29,Congreso,30
+D,22:15,22:29,Olleros,3
+A,22:15,22:29,Alberti,9
+D,22:15,22:29,9 de julio,9
+B,22:15,22:29,Malabia,13
+C,22:15,22:29,San Juan,2
+C,22:15,22:29,Constitucion,2
+E,22:15,22:29,Bolivar,4
+D,22:15,22:29,Pueyrredon.,8
+A,22:15,22:29,Peru,12
+A,22:15,22:29,Plaza de Mayo,12
+C,22:15,22:29,Retiro,20
+E,22:15,22:29,Avenida La Plata,4
+E,22:15,22:29,Jose Maria Moreno,5
+E,22:15,22:29,San Jose,4
+B,22:15,22:29,Medrano,33
+A,22:15,22:29,Lima,3
+B,22:15,22:29,Uruguay,51
+C,22:15,22:29,Diagonal Norte,9
+B,22:15,22:29,Rosas,11
+B,22:15,22:29,Dorrego,4
+A,22:15,22:29,Acoyte,19
+A,22:15,22:29,Carabobo,3
+E,22:15,22:29,Entre Rios,1
+A,22:15,22:29,Rio de Janeiro,12
+H,22:15,22:29,Humberto I,7
+E,22:15,22:29,General Belgrano,1
+B,22:15,22:29,Carlos Gardel,129
+A,22:15,22:29,Castro Barros,1
+D,22:15,22:29,Ministro Carranza,8
+A,22:15,22:29,Plaza Miserere,7
+B,22:15,22:29,Florida,10
+B,22:15,22:29,Leandro N. Alem,45
+A,22:15,22:29,Saenz Peña,12
+B,22:15,22:29,Los Incas,8
+C,22:15,22:29,Lavalle,2
+H,22:15,22:29,Patricios,5
+D,22:15,22:29,Palermo,17
+E,22:15,22:29,Independencia.,8
+D,22:15,22:29,Catedral,10
+A,22:15,22:29,Flores,12
+A,22:15,22:29,Piedras,3
+E,22:15,22:29,Varela,1
+C,22:15,22:29,Independencia,13
+B,22:15,22:29,Tronador,6
+B,22:15,22:29,Callao,39
+H,22:15,22:29,Venezuela,1
+A,22:15,22:29,Pasco,2
+D,22:15,22:29,Callao.,19
+B,22:15,22:29,Pasteur,24
+H,22:15,22:29,Caseros,8
+E,22:15,22:29,Pza. de los Virreyes,1
+B,22:15,22:29,Carlos Pellegrini,51
+D,22:15,22:29,Plaza Italia,7
+D,22:15,22:29,Scalabrini Ortiz,8
+B,22:15,22:29,Federico Lacroze,32
+B,22:15,22:29,Angel Gallardo,16
+A,22:15,22:29,San Pedrito,14
+H,22:15,22:29,Once,3
+D,22:15,22:29,Bulnes,36
+A,22:15,22:29,Loria,7
+C,22:15,22:29,Mariano Moreno,2
+B,22:15,22:29,Pueyrredon,12
+D,22:15,22:29,Congreso de Tucuman,4
+H,22:30,22:44,Once,5
+H,22:30,22:44,Venezuela,7
+B,22:30,22:44,Callao,28
+A,22:30,22:44,Piedras,10
+B,22:30,22:44,Medrano,7
+H,22:30,22:44,Humberto I,3
+C,22:30,22:44,Lavalle,1
+B,22:30,22:44,Carlos Pellegrini,34
+E,22:30,22:44,Avenida La Plata,1
+A,22:30,22:44,Peru,11
+A,22:30,22:44,Loria,4
+B,22:30,22:44,Leandro N. Alem,4
+A,22:30,22:44,Acoyte,6
+A,22:30,22:44,Flores,3
+A,22:30,22:44,Rio de Janeiro,6
+E,22:30,22:44,San Jose,1
+D,22:30,22:44,9 de julio,12
+A,22:30,22:44,Pasco,6
+D,22:30,22:44,Palermo,3
+B,22:30,22:44,Malabia,5
+D,22:30,22:44,Scalabrini Ortiz,3
+C,22:30,22:44,San Juan,4
+B,22:30,22:44,Federico Lacroze,3
+E,22:30,22:44,Pza. de los Virreyes,2
+H,22:30,22:44,Corrientes,1
+C,22:30,22:44,Constitucion,6
+C,22:30,22:44,Diagonal Norte,1
+B,22:30,22:44,Rosas,2
+A,22:30,22:44,Alberti,4
+A,22:30,22:44,Lima,5
+D,22:30,22:44,Facultad de Medicina,1
+A,22:30,22:44,Saenz Peña,12
+A,22:30,22:44,Castro Barros,2
+D,22:30,22:44,Plaza Italia,4
+D,22:30,22:44,Jose Hernandez,1
+E,22:30,22:44,Independencia.,4
+B,22:30,22:44,Florida,8
+B,22:30,22:44,Carlos Gardel,19
+E,22:30,22:44,Bolivar,2
+B,22:30,22:44,Angel Gallardo,2
+C,22:30,22:44,Independencia,2
+D,22:30,22:44,Callao.,5
+D,22:30,22:44,Catedral,3
+B,22:30,22:44,Pasteur,12
+A,22:30,22:44,Plaza Miserere,2
+E,22:30,22:44,Jose Maria Moreno,4
+D,22:30,22:44,Aguero,9
+C,22:30,22:44,Retiro,6
+H,22:30,22:44,Inclan,4
+A,22:30,22:44,Congreso,5
+D,22:30,22:44,Tribunales,1
+H,22:30,22:44,Caseros,1
+A,22:30,22:44,Plaza de Mayo,6
+D,22:30,22:44,Pueyrredon.,3
+D,22:30,22:44,Olleros,3
+B,22:30,22:44,Uruguay,24
+B,22:30,22:44,Pueyrredon,4
+H,22:45,22:59,Once,1
+C,22:45,22:59,Constitucion,1
+D,22:45,22:59,Catedral,2
+A,22:45,22:59,Peru,1
+E,22:45,22:59,San Jose,1
+D,22:45,22:59,Bulnes,4
+A,22:45,22:59,Saenz Peña,5
+B,22:45,22:59,Callao,2
+B,22:45,22:59,Pasteur,3
+A,22:45,22:59,Rio de Janeiro,5
+B,22:45,22:59,Uruguay,7
+H,22:45,22:59,Caseros,4
+D,22:45,22:59,Plaza Italia,2
+B,22:45,22:59,Federico Lacroze,1
+B,22:45,22:59,Pueyrredon,2
+B,22:45,22:59,Leandro N. Alem,2
+B,22:45,22:59,Carlos Pellegrini,4
+D,22:45,22:59,Facultad de Medicina,2
+A,22:45,22:59,Acoyte,1
+A,22:45,22:59,Congreso,6
+H,22:45,22:59,Inclan,2
+E,22:45,22:59,Avenida La Plata,1
+E,22:45,22:59,Bolivar,3
+D,22:45,22:59,Callao.,1
+A,22:45,22:59,Loria,2
+A,22:45,22:59,Lima,1
+A,22:45,22:59,Castro Barros,2
+A,22:45,22:59,Alberti,1
+B,22:45,22:59,Florida,1
+B,22:45,22:59,Carlos Gardel,2
+E,22:45,22:59,Pichincha,1
+D,22:45,22:59,Jose Hernandez,2
+A,23:00,23:14,Rio de Janeiro,1
+B,23:00,23:14,Angel Gallardo,1
+D,23:00,23:14,Olleros,1
+B,23:00,23:14,Federico Lacroze,2

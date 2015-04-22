@@ -1,0 +1,50 @@
+id,nombre,tipo,ubicacion,direccion,barrio,comuna,lat,lon
+1,FACULTAD DE DERECHO,,Facultad de Derecho,,,,-58.3893,-34.5839
+2,9 DE JULIO e/ Santa Fe y Juncal,Estacionamiento Subterráneo,9 de Julio e/ Santa Fe y Juncal,,,,-58.3822,-34.5942
+3,OBELISCO NORTE,Estacionamiento Subterráneo,9 de Julio y Sarmiento,9 DE JULIO AV. y SARMIENTO,San Nicolas,Comuna 1,-58.3815,-34.605
+4,9 DE JULIO Y LAVALLE,Estacionamiento Subterráneo,9 de Julio y Lavalle,9 DE JULIO AV. y LAVALLE,San Nicolas,Comuna 1,-58.3817,-34.6026
+5,9 DE JULIO e/ Belgrano y México,Estacionamiento Subterráneo,9 de Julio e/ Belgrano y México,,,,-58.3811,-34.6142
+6,CÓRDOBA,Estacionamiento Subterráneo,Córdoba e/ Florida y Esmeralda,,,,-58.3768,-34.5988
+7,9 DE JULIO Y POSADAS,,9 de Julio y Posadas,9 DE JULIO AV. y POSADAS,Retiro,Comuna 1,-58.3819,-34.5901
+8,CENTRO CULTURAL SAN MARTÍN,,Sarmiento 1537 (Centro Cultural San Martín),SARMIENTO 1537,San Nicolas,Comuna 1,-58.3884,-34.6053
+9,CONGRESO (Entre Ríos e Yrigoyen),Estacionamiento Subterráneo,Congreso,ENTRE RIOS AV. y YRIGOYEN	 HIPOLITO,Monserrat,Comuna 1,-58.3907,-34.6097
+10,PLAZA VICENTE LÓPEZ Y PLANES,Estacionamiento Subterráneo,Montevideo. Paraná y Arenales,,,,-58.3894,-34.5939
+11,JUNÍN 1801,,Junín 1801,,,,-58.3922,-34.5882
+12,CHACARITA,,Av Guzmán y Av Federico Lacroze,GUZMAN AV. y LACROZE. FEDERICO AV.,Chacarita,Comuna 15,-58.4538,-34.5877
+13,PLAZA LIBERTAD,Estacionamiento Subterráneo,Sub Plaza Libertad: Paraguay. M. T. de alvear y Cerrito,PARAGUAY y CERRITO,Retiro,Comuna 1,-58.3834,-34.5974
+14,BOUCHARD,Estacionamiento Subterráneo,Leandro Alem. Juan D. Perón. Bouchard y Sarmiento,ALEM. LEANDRO N. AV. y SARMIENTO,San Nicolas,Comuna 1,-58.3693,-34.6049
+15,CORRIENTES,,Corrientes 436,CORRIENTES AV. 436,San Nicolas,Comuna 1,-58.3729,-34.6034
+16,PLAZA LAVALLE,Estacionamiento Subterráneo,Plaza Lavalle,VIAMONTE y TALCAHUANO,San Nicolas,Comuna 1,-58.3846,-34.6009
+17,PLAZA SAN MARTÍN,Estacionamiento Subterráneo,Santa Fe e/ Maipú y Florida,SANTA FE AV. y FLORIDA,Retiro,Comuna 1,-58.3761,-34.5961
+18,EX HOSPITAL DE CLÍNICAS,Estacionamiento Subterráneo,Córodba. Junín y Paraguay,CORDOBA AV. y JUNIN,Balvanera,Comuna 3,-58.3981,-34.5991
+19,CHARCAS,Estacionamiento Subterráneo,Charcas e/ Salguero y Cnel Díaz,CHARCAS y SALGUERO. JERONIMO,Palermo,Comuna 14,-58.4143,-34.5903
+20,JUNÍN,Estacionamiento Subterráneo,Junín 1801 e/ Quintana y Ortiz,JUNIN 1801,Recoleta,Comuna 2,-58.3919,-34.5877
+21,PLAZA ITALIA,Estacionamiento Subterráneo,Plaza Italia: Sarmiento Av y Santa Fe,SARMIENTO AV. 2645,Palermo,Comuna 14,-58.4204,-34.5798
+22,JEAN JAURES 371,Estacionamiento,Jean Jaures 371,JAURES. JEAN 371,Balvanera,Comuna 3,-58.4095,-34.6058
+23,JEAN JAURES 380,Estacionamiento,Jean Jaures 380,JAURES. JEAN 380,Balvanera,Comuna 3,-58.4098,-34.6057
+24,SARMIENTO 2977,Estacionamiento,Sarmiento 2977,SARMIENTO 2977,Balvanera,Comuna 3,-58.4083,-34.6065
+25,CONGRESO,,Adolfo Alsina 1701,ALSINA. ADOLFO 1701,Monserrat,Comuna 1,-58.3906,-34.6113
+26,CIENCIAS ECONÓMICAS,,Viamonte 2242,VIAMONTE 2242,Balvanera,Comuna 3,-58.3991,-34.6012
+27,LAS CAÑITAS,,Báez 351,BAEZ 351,Palermo,Comuna 14,-58.4316,-34.5716
+28,MICROCENTRO I,,Suipacha 153,SUIPACHA 153,San Nicolas,Comuna 1,-58.3792,-34.6063
+29,MICROCENTRO II,,Av Corrientes 680,CORRIENTES AV. 680,San Nicolas,Comuna 1,-58.3764,-34.6035
+30,MICROCENTRO III,,Esmeralda 425,ESMERALDA 425,San Nicolas,Comuna 1,-58.378,-34.6032
+31,MONSERRAT,,Av Belgrano 1216,BELGRANO AV. 1216,Monserrat,Comuna 1,-58.3836,-34.6134
+32,MONSERRAT II,,Lima 359,LIMA 359,Monserrat,Comuna 1,-58.382,-34.6127
+33,NÚÑEZ,,Arribeños 2511,,Belgrano,Comuna 13,-58.4533,-34.5541
+34,ONCE,,Lavalle 2454,LAVALLE 2454,Balvanera,Comuna 3,-58.4017,-34.6035
+35,ONCE II,,Azcuénaga 376,AZCUENAGA 376,Balvanera,Comuna 3,-58.4009,-34.6052
+36,ONCE LARREA,,Larrea 548,LARREA 548,Balvanera,Comuna 3,-58.4024,-34.603
+37,PALERMO I,,Lafinur 3250,LAFINUR 3250,Palermo,Comuna 14,-58.413,-34.5781
+38,PALERMO II,,Av Sarmiento 2720,SARMIENTO AV. 2720,Palermo,Comuna 14,-58.419,-34.5788
+39,PALERMO SOHO,,Armenia 1728,ARMENIA 1728,Palermo,Comuna 14,-58.4269,-34.589
+40,PASEO LA PLAZA,,Av Corrientes 1640,CORRIENTES AV. 1640,San Nicolas,Comuna 1,-58.39,-34.6044
+41,PUERTO MADERO I,,Alicia Moreau de Justo 741,MOREAU DE JUSTO. ALICIA AV. 741,Puerto Madero,Comuna 1,-58.3672,-34.6058
+42,PUERTO MADERO IV,,Alicia Moreau de Justo 1301,MOREAU DE JUSTO. ALICIA AV. 1301,Puerto Madero,Comuna 1,-58.3664,-34.6139
+43,PUERTO MADERO V,,Alicia Moreau de Justo 1501,MOREAU DE JUSTO. ALICIA AV. 1501,Puerto Madero,Comuna 1,-58.3662,-34.6157
+44,PUERTO MADERO VI,,Alicia Moreau de Justo 1681,MOREAU DE JUSTO. ALICIA AV. 1681,Puerto Madero,Comuna 1,-58.366,-34.6177
+45,PUERTO MADERO VII,,Alicia Moreau de Justo 1700,MOREAU DE JUSTO. ALICIA AV. 1700,Puerto Madero,Comuna 1,-58.3658,-34.6194
+46,RECOLETA I,,Libertad 1058,LIBERTAD 1058,Retiro,Comuna 1,-58.3844,-34.5962
+47,RECOLETA II,,Azcuénaga 1048,AZCUENAGA 1048,Recoleta,Comuna 2,-58.4001,-34.5959
+48,RETIRO,,San Martín 940,SAN MARTIN 940,Retiro,Comuna 1,-58.3744,-34.5969
+49,CONGRESO II,,Bartolomé Mitre 1490,MITRE. BARTOLOME 1490,San Nicolas,Comuna 1,-58.3876,-34.6078
