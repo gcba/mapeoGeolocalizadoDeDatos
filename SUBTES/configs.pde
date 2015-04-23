@@ -27,8 +27,8 @@ String DATASET_DAY = TIME2RESET.substring(0,11);;
  int[] lineH = {255,228,0  };
  
 //Subway Stations size settings
-final int MAX_STATION_SIZE = 200;// pixels.
-final int MIN_STATION_SIZE = 0;// pixels.
+final int MAX_STATION_SIZE = 180;// pixels.
+final int MIN_STATION_SIZE = 20;// pixels.
 final int NORMAL_STATION_SIZE = 10;// pixels.
 final float AUTO_DEC_SIZE = 8;// pixels.
 final float EASING = 0.05;

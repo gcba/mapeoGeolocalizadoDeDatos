@@ -38,7 +38,7 @@ void upDateStations() {
     int timeDifference = difTime(clock, tReg.regDate);
     if ( timeDifference >= 0 ) {
       EstSubtes tStation = estSubtes.get(tReg.stID);
-      int inc = round(map(tReg.molValue, MIN_PERSONS,MAX_PERSONS, MIN_STATION_SIZE, MAX_STATION_SIZE));
+      int inc = round(map(tReg.molValue, MIN_PERSONS,MAX_PERSONS/2, MIN_STATION_SIZE, MAX_STATION_SIZE));
       tStation.qPassIn = inc;
       tStation.pass = 0;
       estSubtes.set(tReg.stID, tStation);
@@ -65,7 +65,7 @@ void printSubwayStations() {
     fill(lineColor);
     ellipse(tSta.x, tSta.y, NORMAL_STATION_SIZE,NORMAL_STATION_SIZE);
     if ( tSta.qPassIn > 0 && tSta.pass >= AUTO_DEC_SIZE) {
-      tSta.qPassIn-= tSta.qPassIn/AUTO_DEC_SIZE;
+      tSta.qPassIn-= tSta.qPassIn/tSta.passte;
     }  
     if(AUTO_DEC_SIZE > tSta.pass) {tSta.pass++;} 
       estSubtes.set(i,tSta);
